@@ -1978,6 +1978,7 @@
       "bread": "2025-07-19 00:01:53 +0000",
       "golden_apple": "2025-07-20 03:14:39 +0000",
       "cookie": "2025-07-22 00:24:15 +0000",
+      "rotten_flesh": "2025-07-25 02:33:53 +0000",
       "glow_berries": "2025-07-19 00:53:42 +0000",
       "salmon": "2025-07-19 00:46:38 +0000",
       "melon_slice": "2025-07-19 00:55:47 +0000",
@@ -12241,178 +12242,21 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:recipes/building_blocks/polished_cut_asurine_slab_recycling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-25 01:35:21 +0000",
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
+      "has_polished_cut_asurine_slab": "2025-07-24 23:35:15 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 01:35:21 +0000"
-    },
-    "done": false
-  },
-  "inventorypets:anvil": {
-    "criteria": {
-      "crafting_table": "2025-07-25 01:21:11 +0000"
+      "requirement": "2025-07-24 23:38:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
     "criteria": {
-      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-07-25 00:27:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-07-25 00:06:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-07-25 01:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "chromaticarsenal:arsenal_accumulated": {
-    "criteria": {
-      "has_duality_rings": "2025-07-25 00:19:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:quartz_flats/sanctum/root": {
-    "criteria": {
-      "requirement": "2025-07-25 01:04:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-07-25 00:19:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-07-25 01:05:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab": {
-    "criteria": {
-      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
-    "criteria": {
-      "has_blood_infused_enhanced_iron_ingot": "2025-07-25 00:27:08 +0000"
+      "requirement": "2025-07-24 23:38:33 +0000"
     },
     "done": true
   },
@@ -12422,9 +12266,189 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-24 23:39:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/cut_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-24 23:40:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-07-24 23:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-07-25 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:arsenal_accumulated": {
+    "criteria": {
+      "has_duality_rings": "2025-07-25 00:19:09 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:duality_rings": {
+    "criteria": {
+      "has_item": "2025-07-25 00:19:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-25 00:19:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-25 00:19:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-25 00:19:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-07-25 00:27:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-25 00:27:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-25 00:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_deepslate_slab": "2025-07-25 00:44:11 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:biome": {
+    "criteria": {
+      "crafting_table": "2025-07-25 00:44:46 +0000"
+    },
+    "done": true
+  },
   "inventorypets:creeper": {
     "criteria": {
       "crafting_table": "2025-07-25 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-07-25 00:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 00:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 00:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 00:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
     },
     "done": true
   },
@@ -12446,39 +12470,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/combat/leather_from_obi_belt": {
-    "criteria": {
-      "has_obi_belt": "2025-07-25 00:56:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/cursed_spruce_planks": {
-    "criteria": {
-      "has_log": "2025-07-24 23:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-25 00:27:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-07-25 00:57:33 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
-    "criteria": {
-      "has_ingot": "2025-07-25 00:27:08 +0000"
     },
     "done": true
   },
@@ -12494,45 +12488,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/ghast_buster": {
-    "criteria": {
-      "kill_ghast": "2025-07-25 01:00:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_asurine_slab": "2025-07-24 23:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
-    "criteria": {
-      "has_ingot": "2025-07-25 00:27:08 +0000"
     },
     "done": true
   },
@@ -12542,27 +12500,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-07-25 00:19:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-25 00:07:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
     },
     "done": true
   },
@@ -12578,12 +12518,6 @@
     },
     "done": true
   },
-  "chromaticarsenal:duality_rings": {
-    "criteria": {
-      "has_item": "2025-07-25 00:19:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
@@ -12596,67 +12530,31 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-07-25 01:17:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-07-25 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-25 01:28:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-25 00:57:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-25 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/stripped_spruce_wood_from_spruce_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-25 01:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:biome": {
-    "criteria": {
-      "crafting_table": "2025-07-25 00:44:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
     },
@@ -12668,39 +12566,111 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "incendium:quartz_flats/root": {
     "criteria": {
-      "requirement": "2025-07-24 23:38:33 +0000"
+      "requirement": "2025-07-25 01:00:04 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_wall": {
+  "incendium:quartz_flats/ghast_buster": {
     "criteria": {
-      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
+      "kill_ghast": "2025-07-25 01:00:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+  "incendium:quartz_flats/sanctum/root": {
     "criteria": {
-      "give_recipe": "2025-07-25 01:32:39 +0000"
+      "requirement": "2025-07-25 01:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
-      "has_slime_ball": "2025-07-25 00:57:33 +0000"
+      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
-      "has_raw_iron": "2025-07-25 00:27:36 +0000"
+      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-25 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-25 01:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-07-25 01:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 01:19:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2025-07-25 01:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-25 01:21:59 +0000"
     },
     "done": true
   },
@@ -12710,63 +12680,411 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+      "traded": "2025-07-25 01:28:44 +0000"
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_wood_from_spruce_wood_woodcutting": {
     "criteria": {
-      "requirement": "2025-07-25 01:00:04 +0000"
+      "give_recipe": "2025-07-25 01:32:39 +0000"
     },
     "done": true
   },
-  "immersive_weathering:recipes/cut_iron": {
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
     "criteria": {
-      "has_copper_block": "2025-07-24 23:40:56 +0000"
+      "give_recipe": "2025-07-25 01:32:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+      "has_lime_terracotta": "2025-07-25 01:48:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-24 23:39:58 +0000"
+      "has_rib_armor_trim_smithing_template": "2025-07-25 01:52:58 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_polished_cut_deepslate_slab": "2025-07-25 00:44:11 +0000"
+      "has_smithing_trim_template": "2025-07-25 01:52:58 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_item": "2025-07-25 00:19:38 +0000"
+      "has_ice": "2025-07-25 01:59:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
     "criteria": {
-      "has_cobbled_dark_stone": "2025-07-25 00:58:18 +0000"
+      "has_heart_striker": "2025-07-25 02:04:27 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_stairs": {
+  "inventorypets:illum_from_illum": {
     "criteria": {
-      "has_cut_asurine": "2025-07-25 00:21:43 +0000"
+      "example": "2025-07-25 02:05:31 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "requirement": "2025-07-24 23:38:33 +0000"
+      "has_cyan_terracotta": "2025-07-25 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-07-25 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-25 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-25 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:juggernaut": {
+    "criteria": {
+      "crafting_table": "2025-07-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-07-25 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2025-07-25 02:25:08 +0000"
+    },
+    "done": true
+  },
+  "terramity:yeah_bit_magnets": {
+    "criteria": {
+      "yeah_bit_magnets_0": "2025-07-25 02:25:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 02:39:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-07-25 02:58:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-25 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 03:00:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 03:01:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_calcite_brick_slab": "2025-07-25 03:10:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-07-25 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-25 03:57:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-25 03:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-07-25 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-25 03:25:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-25 03:21:32 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2025-07-25 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-25 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-25 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-25 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-25 03:25:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_andesite_slab": "2025-07-25 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-25 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-07-25 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-25 03:25:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-07-25 03:40:43 +0000"
     },
     "done": true
   },
