@@ -1,0 +1,7 @@
+
+#Adaptive Performance Tweaks: Gamerules
+[General]
+	#The time after a high to low load change is considered as valid. High loads are always considered immediately.
+	#Range: 1 ~ 90
+	timeBetweenUpdates = 30
+

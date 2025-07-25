@@ -1,0 +1,787 @@
+[25Jul2025 00:00:16.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[25Jul2025 00:00:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Local Librarian]
+[25Jul2025 00:00:35.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
+[25Jul2025 00:00:55.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
+[25Jul2025 00:01:14.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4715ms or 94 ticks behind
+[25Jul2025 00:01:34.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[25Jul2025 00:01:53.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4391ms or 87 ticks behind
+[25Jul2025 00:02:12.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
+[25Jul2025 00:02:19.055] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1761, y=74, z=601}
+[25Jul2025 00:02:31.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
+[25Jul2025 00:02:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Bakuretsu, Bakuretsu..]
+[25Jul2025 00:02:32.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved too quickly! 9.399153709411621,2.425988330841065,-3.694058183019365
+[25Jul2025 00:02:51.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4746ms or 94 ticks behind
+[25Jul2025 00:03:09.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[25Jul2025 00:03:27.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3697ms or 73 ticks behind
+[25Jul2025 00:03:33.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/902135, l='ServerLevel[world]', x=1732.19, y=58.00, z=564.50] died, message: 'Villager was turned into KFC by MilerinotFound'
+[25Jul2025 00:03:46.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[25Jul2025 00:04:06.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[25Jul2025 00:04:25.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4819ms or 96 ticks behind
+[25Jul2025 00:04:45.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4553ms or 91 ticks behind
+[25Jul2025 00:04:59.747] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.2132568359375) to HIGH (avg. 49.849205017089844)
+[25Jul2025 00:05:16.467] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1724, y=75, z=461}
+[25Jul2025 00:05:30.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Jul2025 00:05:48.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Jul2025 00:06:18.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:06:20.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.551204681396484) to VERY_HIGH (avg. 64.81417846679688)
+[25Jul2025 00:06:38.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5172ms or 103 ticks behind
+[25Jul2025 00:06:57.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[25Jul2025 00:07:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Ride On]
+[25Jul2025 00:07:15.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[25Jul2025 00:07:26.245] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2401, y=-25, z=470}
+[25Jul2025 00:07:26.245] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2401, y=-25, z=471}
+[25Jul2025 00:07:35.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5388ms or 107 ticks behind
+[25Jul2025 00:07:54.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
+[25Jul2025 00:08:00.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1550900, l='ServerLevel[world]', x=2514.51, y=18.32, z=412.38, removed=DISCARDED]
+[25Jul2025 00:08:14.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[25Jul2025 00:08:22.342] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.342] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.343] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.363] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.364] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.364] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:22.365] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:26.484] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:26.484] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:26.484] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:26.497] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:35.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[25Jul2025 00:08:40.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Priest'/909904, l='ServerLevel[world]', x=1754.03, y=66.50, z=594.36] died, message: 'Priest discovered the floor was lava'
+[25Jul2025 00:08:41.527] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:41.527] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:41.527] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:41.527] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:45.555] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:46.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 5.509440404603993,0.0,-8.842039441638008
+[25Jul2025 00:08:54.529] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:54.529] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:54.529] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:54.530] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:55.724] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:55.726] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:55.727] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:55.727] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:08:56.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6907ms or 138 ticks behind
+[25Jul2025 00:09:20.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8486ms or 169 ticks behind
+[25Jul2025 00:09:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has completed the challenge [Perpetuate the Cycle?]
+[25Jul2025 00:09:46.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11350ms or 227 ticks behind
+[25Jul2025 00:10:12.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 9.364629848310415,2.441863179101489,3.5724909340912063
+[25Jul2025 00:10:12.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 10.30667783527997,2.5566573347860384,3.9301518803826525
+[25Jul2025 00:10:12.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 11.137564159786962,2.65790578009981,4.245608835011694
+[25Jul2025 00:10:12.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 11.870405898002446,2.747206908866559,4.523841868994509
+[25Jul2025 00:10:12.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 12.516772311108525,2.8259705044388284,4.769243404967369
+[25Jul2025 00:10:12.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 13.08686748746777,2.895439995733568,4.985687559695407
+[25Jul2025 00:10:12.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 13.589691433016924,2.9567120870555357,5.176591304165527
+[25Jul2025 00:10:12.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 14.03318215299123,3.010754071601511,5.344968406788212
+[25Jul2025 00:10:12.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 14.424340968008437,3.0584191019710545,5.493477011301422
+[25Jul2025 00:10:12.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 14.769343042853507,3.1004596587569893,5.62446160048205
+[25Jul2025 00:10:14.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 7.339294382562457,2.318684825019389,7.7395414869627075
+[25Jul2025 00:10:14.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 7.628000339165283,2.4276882569334646,8.744864081219191
+[25Jul2025 00:10:15.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.6901288366848348,0.29440915400775225,10.846961722265632
+[25Jul2025 00:10:15.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.7906917872733175,0.3109847422066281,12.097199289895457
+[25Jul2025 00:10:15.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.8918555728287174,0.3256044109980252,13.353098081460189
+[25Jul2025 00:10:15.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.9903450499764404,0.3384989588720373,14.61421747730958
+[25Jul2025 00:10:15.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 1.0864757871081565,0.34987195009692584,15.879941446138105
+[25Jul2025 00:10:15.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 1.1773031002758216,0.3599029283572719,17.14988761716495
+[25Jul2025 00:10:15.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 1.26144985562496,0.3687502511829024,18.423623656811003
+[25Jul2025 00:10:15.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 1.3372881697982848,0.3765535899151047,19.700747075670108
+[25Jul2025 00:10:15.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.8124608856974191,0.1078201645681105,11.377922730747969
+[25Jul2025 00:10:15.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.8725847403616172,0.1138905690480243,12.660682769863683
+[25Jul2025 00:10:17.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.01676892587374823,0.0,10.371235175024594
+[25Jul2025 00:10:17.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.043467966959724436,0.0,11.669875390190441
+[25Jul2025 00:10:17.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.0738368213319518,0.0,12.968821599324428
+[25Jul2025 00:10:17.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.1074424510229619,0.0,14.268037695138332
+[25Jul2025 00:10:17.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.14390291654490284,0.0,15.567491831003906
+[25Jul2025 00:10:17.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.18288134726981298,0.0,16.86715591819501
+[25Jul2025 00:10:17.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.2240806233035073,0.0,18.167005182455284
+[25Jul2025 00:10:17.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.267238684899894,0.0,19.467017772890586
+[25Jul2025 00:10:17.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.3121243953623889,0.0,20.7671744170122
+[25Jul2025 00:10:17.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.3585338921247967,0.0,22.06745811648517
+[25Jul2025 00:10:17.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.4062873684038095,0.0,23.36785387877802
+[25Jul2025 00:10:17.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.4552262346160205,0.0,24.668348480478016
+[25Jul2025 00:10:17.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.5052106147500126,0.0,25.968930258535124
+[25Jul2025 00:10:17.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.5561171381623353,0.0,27.269588926139193
+[25Jul2025 00:10:17.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.6082344355650093,0.0,28.57029723479809
+[25Jul2025 00:10:17.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.6594025336144114,0.0,29.871130887706272
+[25Jul2025 00:10:17.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.7069198525587126,0.0,31.1721445624936
+[25Jul2025 00:10:17.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.7492132507231872,0.0,32.47333508217133
+[25Jul2025 00:10:17.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.7848951519490583,0.0,33.774673352418404
+[25Jul2025 00:10:17.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.8115341383263512,0.0,35.076074192693966
+[25Jul2025 00:10:17.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.8257667060233871,0.0,36.377326395506316
+[25Jul2025 00:10:17.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.8250449613851742,0.0,37.67815214778523
+[25Jul2025 00:10:17.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.7518872805740102,0.0,38.96420407957413
+[25Jul2025 00:10:17.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.6131162322271848,0.0,40.23664596876307
+[25Jul2025 00:10:17.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.42188618331056205,0.0,32.42394921611992
+[25Jul2025 00:10:18.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 3.8667984520934624,0.0,9.714435540350792
+[25Jul2025 00:10:18.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 4.224413618108883,0.0,10.954668663077655
+[25Jul2025 00:10:18.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 4.542246718379374,0.0,12.202231983166257
+[25Jul2025 00:10:18.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 4.824992036662934,0.0,13.456260537327864
+[25Jul2025 00:10:18.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 5.076789931234089,0.0,14.715991427941844
+[25Jul2025 00:10:18.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 5.301292198090778,0.0,15.9807517793069
+[25Jul2025 00:10:19.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5661861994863102,0.0,10.34486451302223
+[25Jul2025 00:10:19.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.6141001787405003,0.0,11.642174702181023
+[25Jul2025 00:10:21.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.22501602847023605,0.0,10.40758034361653
+[25Jul2025 00:10:21.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.24966693714759458,0.0,11.709166881991507
+[25Jul2025 00:10:21.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.2738255624458361,0.0,13.010843914681686
+[25Jul2025 00:10:21.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.29754999380384106,0.0,14.31260076335792
+[25Jul2025 00:10:21.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.32089146610678654,0.0,15.614428009733842
+[25Jul2025 00:10:21.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.34389516852297675,0.0,16.916317346880874
+[25Jul2025 00:10:21.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.36660095789875413,0.0,18.218261448088015
+[25Jul2025 00:10:21.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.3890439879733094,0.0,19.520253851196173
+[25Jul2025 00:10:21.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.4112552643437084,0.0,20.822288856581054
+[25Jul2025 00:10:21.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.43326213394766455,0.0,22.124361437174002
+[25Jul2025 00:10:21.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.4550887167829387,0.0,23.42646715910047
+[25Jul2025 00:10:21.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.4767562866886692,0.0,24.728602111683074
+[25Jul2025 00:10:21.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.49828360719038756,0.0,26.03076284570443
+[25Jul2025 00:10:21.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5196872277178954,0.0,27.332946318954725
+[25Jul2025 00:10:21.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5409817448680769,0.0,28.635149848204946
+[25Jul2025 00:10:21.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5621800328394784,0.0,29.937371066847106
+[25Jul2025 00:10:21.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5832934466752704,0.0,31.239607887532998
+[25Jul2025 00:10:21.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.6043320015232894,0.0,32.54185846922138
+[25Jul2025 00:10:21.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.4254975553717486,0.0,24.738024781608033
+[25Jul2025 00:10:22.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.17442301697337825,0.0,10.418389388446428
+[25Jul2025 00:10:22.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.5079700019650772,0.0,10.406285160782318
+[25Jul2025 00:10:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [❤ ❤ ❤ ❤]
+[25Jul2025 00:10:23.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.6868247782922481,0.0,10.392619115572757
+[25Jul2025 00:10:24.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.12597392669567853,0.0,10.41419536432818
+[25Jul2025 00:10:24.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.13308789193797566,0.0,11.716305186629938
+[25Jul2025 00:10:24.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.13897928642654733,0.0,13.018462508415382
+[25Jul2025 00:10:24.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! 0.14379237351022311,0.0,14.320661724745491
+[25Jul2025 00:10:25.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.6613066788881952,0.0,10.385162049829205
+[25Jul2025 00:10:25.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.779440905676438,0.0,11.68076562271142
+[25Jul2025 00:10:25.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -0.9040716842869188,0.0,12.975820177924106
+[25Jul2025 00:10:25.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.037218331630811,0.0,14.269990757082837
+[25Jul2025 00:10:25.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.1786767953599337,0.0,15.56325710654869
+[25Jul2025 00:10:25.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.3274662811404596,0.0,16.85572592542553
+[25Jul2025 00:10:25.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.4827217283705068,0.0,18.147491322322708
+[25Jul2025 00:10:25.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.6428793334371221,0.0,19.438760863847165
+[25Jul2025 00:10:25.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.8073606417156043,0.0,20.72959306093287
+[25Jul2025 00:10:25.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MilerinotFound) moved too quickly! -1.4394971733863713,0.0,12.9283566847987
+[25Jul2025 00:10:26.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24286ms or 485 ticks behind
+[25Jul2025 00:10:28.472] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:28.472] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:28.472] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:28.473] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:28.473] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:44.862] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:45.979] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:45.979] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:45.980] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:45.980] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.803] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.803] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.803] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.813] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.813] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:50.813] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:10:52.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11230ms or 224 ticks behind
+[25Jul2025 00:11:15.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8683ms or 173 ticks behind
+[25Jul2025 00:11:39.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9088ms or 181 ticks behind
+[25Jul2025 00:12:02.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7984ms or 159 ticks behind
+[25Jul2025 00:12:26.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8672ms or 173 ticks behind
+[25Jul2025 00:12:47.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6039ms or 120 ticks behind
+[25Jul2025 00:13:09.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6822ms or 136 ticks behind
+[25Jul2025 00:13:30.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind
+[25Jul2025 00:13:50.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
+[25Jul2025 00:14:09.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3954ms or 79 ticks behind
+[25Jul2025 00:14:28.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[25Jul2025 00:14:48.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[25Jul2025 00:15:09.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6122ms or 122 ticks behind
+[25Jul2025 00:15:12.629] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1124, y=71, z=-182}
+[25Jul2025 00:15:30.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
+[25Jul2025 00:15:49.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4545ms or 90 ticks behind
+[25Jul2025 00:16:08.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4333ms or 86 ticks behind
+[25Jul2025 00:16:28.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
+[25Jul2025 00:16:47.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
+[25Jul2025 00:17:05.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[25Jul2025 00:17:26.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
+[25Jul2025 00:17:34.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2867, y=72, z=1473} BlockPos{x=2868, y=72, z=1473}
+[25Jul2025 00:17:46.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5762ms or 115 ticks behind
+[25Jul2025 00:18:07.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6067ms or 121 ticks behind
+[25Jul2025 00:18:28.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5572ms or 111 ticks behind
+[25Jul2025 00:18:33.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2020444, l='ServerLevel[world]', x=2771.22, y=62.63, z=1614.98, removed=DISCARDED]
+[25Jul2025 00:18:48.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5519ms or 110 ticks behind
+[25Jul2025 00:19:07.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[25Jul2025 00:19:17.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.10224914550781) to HIGH (avg. 52.10630416870117)
+[25Jul2025 00:19:25.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jul2025 00:19:28.581] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2605, y=80, z=1184}
+[25Jul2025 00:19:35.598] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.10630416870117) to VERY_HIGH (avg. 56.70631790161133)
+[25Jul2025 00:19:44.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[25Jul2025 00:20:01.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[25Jul2025 00:20:01.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.086181640625) to HIGH (avg. 54.752567291259766)
+[25Jul2025 00:20:09.136] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[25Jul2025 00:20:09.136] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@3f8b2160, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.daphne.lethality.util.ModUtils.addColorGradientText(ModUtils.java:110) ~[lethality-0.2-1.20.1.jar%23244!/:0.1-1.20.1]
+	at net.daphne.lethality.item.custom.NightmareSwordItem.m_7626_(NightmareSwordItem.java:45) ~[lethality-0.2-1.20.1.jar%23244!/:0.1-1.20.1]
+	at net.minecraft.world.item.ItemStack.m_41786_(ItemStack.java:580) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.item.ItemStack.m_41611_(ItemStack.java:911) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at com.inventorypets.pets.petIlluminati.m_7203_(petIlluminati.java:574) ~[inventorypets-1.20.1-2.1.3.jar%23239!/:1.20.1-2.1.3]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 00:20:18.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Jul2025 00:20:35.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[25Jul2025 00:20:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Is is Not Ironical?]
+[25Jul2025 00:21:06.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[25Jul2025 00:21:09.864] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[25Jul2025 00:21:16.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.397865295410156) to VERY_HIGH (avg. 58.413150787353516)
+[25Jul2025 00:21:23.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jul2025 00:21:37.589] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1151, y=73, z=-184}
+[25Jul2025 00:21:40.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[25Jul2025 00:21:58.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[25Jul2025 00:22:16.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[25Jul2025 00:22:34.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[25Jul2025 00:22:52.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[25Jul2025 00:23:09.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[25Jul2025 00:23:26.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[25Jul2025 00:23:36.760] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.53131866455078) to HIGH (avg. 54.133819580078125)
+[25Jul2025 00:23:43.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[25Jul2025 00:23:53.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.133819580078125) to VERY_HIGH (avg. 57.809417724609375)
+[25Jul2025 00:24:01.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[25Jul2025 00:24:32.195] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.414222717285156) to NORMAL (avg. 45.64011764526367)
+[25Jul2025 00:24:47.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.64011764526367) to HIGH (avg. 49.89693069458008)
+[25Jul2025 00:24:54.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.89693069458008) to MEDIUM (avg. 48.97838592529297)
+[25Jul2025 00:25:09.698] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.97838592529297) to HIGH (avg. 49.50167465209961)
+[25Jul2025 00:25:17.184] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.50167465209961) to MEDIUM (avg. 48.99367904663086)
+[25Jul2025 00:25:47.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.18602752685547) to NORMAL (avg. 45.283634185791016)
+[25Jul2025 00:25:54.683] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.283634185791016) to MEDIUM (avg. 47.37175750732422)
+[25Jul2025 00:25:57.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[25Jul2025 00:25:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[25Jul2025 00:26:09.680] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.37175750732422) to LOW (avg. 37.15491485595703)
+[25Jul2025 00:26:32.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.25946044921875) to NORMAL (avg. 41.67507553100586)
+[25Jul2025 00:26:47.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.67507553100586) to LOW (avg. 39.245361328125)
+[25Jul2025 00:27:09.680] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.08096694946289) to NORMAL (avg. 40.24776077270508)
+[25Jul2025 00:27:17.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.24776077270508) to LOW (avg. 37.77271270751953)
+[25Jul2025 00:27:47.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.34648132324219) to NORMAL (avg. 40.33499526977539)
+[25Jul2025 00:27:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Pet Inventory]
+[25Jul2025 00:28:09.680] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.09930419921875) to LOW (avg. 36.52925491333008)
+[25Jul2025 00:28:17.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.52925491333008) to NORMAL (avg. 40.73040771484375)
+[25Jul2025 00:28:32.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.73040771484375) to LOW (avg. 37.53553009033203)
+[25Jul2025 00:30:17.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.6822624206543) to NORMAL (avg. 41.326778411865234)
+[25Jul2025 00:30:32.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.326778411865234) to LOW (avg. 38.41889953613281)
+[25Jul2025 00:33:46.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 2.6840018121699813,0.0,-10.094818355020209
+[25Jul2025 00:33:48.347] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.69603729248047) to VERY_HIGH (avg. 55.41301727294922)
+[25Jul2025 00:33:52.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[25Jul2025 00:33:57.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.41301727294922) to HIGH (avg. 52.699920654296875)
+[25Jul2025 00:33:58.832] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 9.863346380000001) to LOW (avg. 17.77986496)
+[25Jul2025 00:34:11.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:34:13.937] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.699920654296875) to VERY_HIGH (avg. 55.93104553222656)
+[25Jul2025 00:34:31.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Jul2025 00:34:38.866] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.87033462524414) to HIGH (avg. 54.82426834106445)
+[25Jul2025 00:34:51.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Jul2025 00:35:04.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.24245834350586) to VERY_HIGH (avg. 55.687137603759766)
+[25Jul2025 00:35:08.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[25Jul2025 00:35:20.803] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.687137603759766) to HIGH (avg. 52.49619674682617)
+[25Jul2025 00:35:30.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Jul2025 00:35:37.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.49619674682617) to VERY_HIGH (avg. 55.42181396484375)
+[25Jul2025 00:35:45.920] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.42181396484375) to HIGH (avg. 53.986717224121094)
+[25Jul2025 00:35:48.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Jul2025 00:36:02.676] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.986717224121094) to VERY_HIGH (avg. 59.266761779785156)
+[25Jul2025 00:36:07.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jul2025 00:36:26.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:36:48.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 00:37:09.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:37:28.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[25Jul2025 00:37:47.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Jul2025 00:38:06.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jul2025 00:38:07.774] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.32328796386719) to HIGH (avg. 54.22838592529297)
+[25Jul2025 00:38:23.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:38:33.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.021690368652344) to VERY_HIGH (avg. 55.05134582519531)
+[25Jul2025 00:38:41.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[25Jul2025 00:38:58.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[25Jul2025 00:39:16.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[25Jul2025 00:39:16.275] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.09571075439453) to HIGH (avg. 51.80242919921875)
+[25Jul2025 00:39:33.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[25Jul2025 00:39:33.308] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.80242919921875) to VERY_HIGH (avg. 59.036312103271484)
+[25Jul2025 00:39:41.967] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.036312103271484) to HIGH (avg. 53.60056686401367)
+[25Jul2025 00:39:57.576] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.60056686401367) to MEDIUM (avg. 48.968902587890625)
+[25Jul2025 00:40:12.195] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.968902587890625) to VERY_HIGH (avg. 55.4952392578125)
+[25Jul2025 00:40:27.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.4952392578125) to HIGH (avg. 52.09971618652344)
+[25Jul2025 00:40:30.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:41:01.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:41:30.845] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.189945220947266) to MEDIUM (avg. 48.869422912597656)
+[25Jul2025 00:41:38.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.869422912597656) to HIGH (avg. 49.92591094970703)
+[25Jul2025 00:41:51.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jul2025 00:42:29.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:43:05.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 00:43:16.604] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.38984298706055) to VERY_HIGH (avg. 67.79212951660156)
+[25Jul2025 00:43:18.257] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 64.41279721000001) to LOW (avg. 34.65401784)
+[25Jul2025 00:43:25.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5643ms or 112 ticks behind
+[25Jul2025 00:43:28.262] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.65401784) to NORMAL (avg. 35.31506592)
+[25Jul2025 00:43:46.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
+[25Jul2025 00:44:06.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5147ms or 102 ticks behind
+[25Jul2025 00:44:26.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
+[25Jul2025 00:44:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Piglin Pillage]
+[25Jul2025 00:44:34.093] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1125, y=60, z=-180}
+[25Jul2025 00:44:39.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/3564233, l='ServerLevel[world]', x=91.09, y=52.00, z=303.19] died: Piglin Civilian tried to swim in lava
+[25Jul2025 00:44:41.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 32.06892037) to NORMAL (avg. 37.181991939999996)
+[25Jul2025 00:44:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Tree Hugger]
+[25Jul2025 00:44:50.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8988ms or 179 ticks behind
+[25Jul2025 00:44:54.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! 2.3721816602009937,3.3750000304925862,9.502978313280721
+[25Jul2025 00:45:18.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12885ms or 257 ticks behind
+[25Jul2025 00:45:30.397] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:30.700] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:30.701] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:30.852] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:31.868] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:31.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:32.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 38.35817311) to LOW (avg. 29.35669325)
+[25Jul2025 00:45:33.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:33.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:34.555] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:36.442] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:37.509] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:37.641] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:37.648] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7126ms or 142 ticks behind
+[25Jul2025 00:45:40.420] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.457] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.457] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.458] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.499] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.500] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:40.500] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.123] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.124] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.199] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.200] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.975] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:42.975] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.003] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.004] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.206] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.206] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.212] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.215] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.310] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.310] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:43.445] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:44.563] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:44.564] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:44.844] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:44.845] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:45.625] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:45.754] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:45.754] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:45.755] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:45.988] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.057] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.058] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.059] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.060] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.060] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.060] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.889] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:46.889] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:47.186] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.237] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.237] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.238] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.238] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.278] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:48.279] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:52.123] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1100, y=74, z=-227}
+[25Jul2025 00:45:52.789] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:52.790] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:45:52.836] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:46:01.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6311ms or 126 ticks behind
+[25Jul2025 00:46:02.535] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:46:02.536] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:46:17.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 69.85637664794922) to HIGH (avg. 52.78519058227539)
+[25Jul2025 00:46:32.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.78519058227539) to NORMAL (avg. 43.01386260986328)
+[25Jul2025 00:46:47.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.01386260986328) to MEDIUM (avg. 47.82728576660156)
+[25Jul2025 00:46:55.272] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.82728576660156) to HIGH (avg. 49.53480911254883)
+[25Jul2025 00:47:08.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jul2025 00:47:17.582] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=797, y=88, z=-524}
+[25Jul2025 00:47:25.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[25Jul2025 00:47:45.437] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.49215316772461) to VERY_HIGH (avg. 56.100284576416016)
+[25Jul2025 00:47:46.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Jul2025 00:47:53.979] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.100284576416016) to HIGH (avg. 54.52849578857422)
+[25Jul2025 00:48:07.225] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=677, y=73, z=-644}
+[25Jul2025 00:48:27.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Jul2025 00:48:33.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.784423828125) to VERY_HIGH (avg. 59.89999771118164)
+[25Jul2025 00:48:41.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.89999771118164) to HIGH (avg. 53.46614456176758)
+[25Jul2025 00:48:49.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jul2025 00:49:06.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.3677978515625) to VERY_HIGH (avg. 55.19101333618164)
+[25Jul2025 00:49:08.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jul2025 00:49:12.777] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:12.778] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:12.885] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:12.887] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:12.888] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:26.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[25Jul2025 00:49:27.275] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:27.276] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:27.277] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:27.280] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:27.281] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:29.149] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:29.149] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:29.652] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:32.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3703523, l='ServerLevel[world]', x=238.71, y=34.17, z=793.66, removed=DISCARDED]
+[25Jul2025 00:49:35.752] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:35.753] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:35.804] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:35.808] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.399] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.815] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.816] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.820] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.826] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.830] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.830] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.831] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.831] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.832] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:37.837] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:44.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[25Jul2025 00:49:47.962] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:48.140] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:48.141] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:49:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Bellyful of Gunpowder]
+[25Jul2025 00:50:01.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[25Jul2025 00:50:07.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.9230842590332) to HIGH (avg. 53.23712921142578)
+[25Jul2025 00:50:18.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Jul2025 00:50:40.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:50:40.943] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.27831268310547) to VERY_HIGH (avg. 57.82111740112305)
+[25Jul2025 00:51:06.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:51:13.933] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.31741714477539) to HIGH (avg. 53.75667953491211)
+[25Jul2025 00:51:22.592] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.75667953491211) to VERY_HIGH (avg. 58.27458953857422)
+[25Jul2025 00:51:23.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[25Jul2025 00:51:31.248] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.27458953857422) to HIGH (avg. 54.805110931396484)
+[25Jul2025 00:51:41.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[25Jul2025 00:51:56.908] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.585975646972656) to VERY_HIGH (avg. 56.04120635986328)
+[25Jul2025 00:51:58.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[25Jul2025 00:52:15.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[25Jul2025 00:52:36.688] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.29761505126953) to MEDIUM (avg. 46.760597229003906)
+[25Jul2025 00:53:06.948] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.24333953857422) to VERY_HIGH (avg. 58.010902404785156)
+[25Jul2025 00:53:15.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.010902404785156) to HIGH (avg. 54.604469299316406)
+[25Jul2025 00:53:31.149] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.604469299316406) to VERY_HIGH (avg. 59.65663146972656)
+[25Jul2025 00:53:32.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 00:53:47.003] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.65663146972656) to HIGH (avg. 51.85885238647461)
+[25Jul2025 00:53:57.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 00:54:04.270] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.85885238647461) to VERY_HIGH (avg. 59.97075271606445)
+[25Jul2025 00:54:14.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[25Jul2025 00:54:33.499] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.73896489) to MEDIUM (avg. 42.99220281)
+[25Jul2025 00:54:34.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[25Jul2025 00:54:54.163] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 41.37701247) to NORMAL (avg. 40.776768579999995)
+[25Jul2025 00:54:54.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[25Jul2025 00:55:14.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4841ms or 96 ticks behind
+[25Jul2025 00:55:33.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[25Jul2025 00:55:43.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3894823, l='ServerLevel[world]', x=-149.41, y=-20.00, z=825.01] died: Restless Spirit was killed
+[25Jul2025 00:55:43.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3895024, l='ServerLevel[world]', x=-198.84, y=-20.00, z=792.47] died: Restless Spirit was killed
+[25Jul2025 00:55:53.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[25Jul2025 00:56:07.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/3957186, l='ServerLevel[world]', x=-83.29, y=59.95, z=817.40] died: Headless Warrior was slain by XxLarryGoatxX
+[25Jul2025 00:56:15.259] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.210117479999994) to MEDIUM (avg. 43.32837782)
+[25Jul2025 00:56:15.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7129ms or 142 ticks behind
+[25Jul2025 00:56:26.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 43.32837782) to NORMAL (avg. 40.65644068)
+[25Jul2025 00:56:37.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
+[25Jul2025 00:56:59.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6731ms or 134 ticks behind
+[25Jul2025 00:57:09.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3924314, l='ServerLevel[world]', x=-170.26, y=-20.00, z=752.74] died: Restless Spirit was killed
+[25Jul2025 00:57:09.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.29693893) to MEDIUM (avg. 42.82784077)
+[25Jul2025 00:57:21.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7236ms or 144 ticks behind
+[25Jul2025 00:57:31.696] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 41.411935619999994) to NORMAL (avg. 39.11292468)
+[25Jul2025 00:57:42.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6200ms or 124 ticks behind
+[25Jul2025 00:58:04.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6516ms or 130 ticks behind
+[25Jul2025 00:58:14.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Return to Sender]
+[25Jul2025 00:58:25.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6582ms or 131 ticks behind
+[25Jul2025 00:58:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Ghast Buster]
+[25Jul2025 00:58:47.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7146ms or 142 ticks behind
+[25Jul2025 00:58:58.729] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.48353343) to MEDIUM (avg. 41.599721939999995)
+[25Jul2025 00:59:04.269] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:04.270] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:04.270] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:04.271] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:05.580] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=648, y=79, z=-718}
+[25Jul2025 00:59:11.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8557ms or 171 ticks behind
+[25Jul2025 00:59:21.472] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 41.61310859) to NORMAL (avg. 38.17872735)
+[25Jul2025 00:59:32.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6458ms or 129 ticks behind
+[25Jul2025 00:59:43.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.530541979999995) to MEDIUM (avg. 43.60725774)
+[25Jul2025 00:59:54.433] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:54.434] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:54.435] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:54.435] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:54.436] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 00:59:56.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[25Jul2025 01:00:02.512] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:03.145] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:03.145] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:03.146] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:03.147] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:03.147] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:04.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [The Floor is Tears]
+[25Jul2025 01:00:04.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Hellish Paradise]
+[25Jul2025 01:00:05.030] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:05.031] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:00:09.224] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 42.55724759) to LOW (avg. 27.71219093)
+[25Jul2025 01:00:09.225] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 30.922978829999998) to NORMAL (avg. 37.313346409999994)
+[25Jul2025 01:00:19.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
+[25Jul2025 01:00:20.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [Ghast Buster]
+[25Jul2025 01:00:36.866] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-352, y=37, z=523}
+[25Jul2025 01:00:38.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[25Jul2025 01:00:44.831] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 66.20076751708984) to NORMAL (avg. 45.01571273803711)
+[25Jul2025 01:01:06.952] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.70439147949219) to MEDIUM (avg. 48.840667724609375)
+[25Jul2025 01:01:15.256] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.840667724609375) to VERY_HIGH (avg. 55.445919036865234)
+[25Jul2025 01:01:23.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.445919036865234) to HIGH (avg. 50.44560241699219)
+[25Jul2025 01:01:29.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 01:01:31.707] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.44560241699219) to VERY_HIGH (avg. 55.735809326171875)
+[25Jul2025 01:01:36.471] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:01:37.333] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25Jul2025 01:01:47.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[25Jul2025 01:01:50.754] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-473, y=51, z=499}
+[25Jul2025 01:02:06.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[25Jul2025 01:02:12.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Withering Archer'/4107148, l='ServerLevel[world]', x=-449.29, y=44.00, z=472.86] died: Withering Archer was doomed to fall by panela_limon
+[25Jul2025 01:02:25.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[25Jul2025 01:02:29.044] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-451, y=43, z=508}
+[25Jul2025 01:02:43.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[25Jul2025 01:03:02.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
+[25Jul2025 01:03:22.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4982ms or 99 ticks behind
+[25Jul2025 01:03:40.497] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from NORMAL (avg. 40.917101409999994) to HIGH (avg. 49.15984934)
+[25Jul2025 01:03:47.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9950ms or 199 ticks behind
+[25Jul2025 01:03:49.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Rescue Mission]
+[25Jul2025 01:03:53.209] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from HIGH (avg. 49.15984934) to VERY_HIGH (avg. 50.58165322)
+[25Jul2025 01:04:13.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10958ms or 219 ticks behind
+[25Jul2025 01:04:40.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
+[25Jul2025 01:04:48.205] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-407, y=38, z=654}
+[25Jul2025 01:04:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [An Illager Refuge?]
+[25Jul2025 01:05:07.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11619ms or 232 ticks behind
+[25Jul2025 01:05:12.232] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from VERY_HIGH (avg. 53.656661310000004) to HIGH (avg. 46.71884602)
+[25Jul2025 01:05:23.021] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from HIGH (avg. 46.71884602) to MEDIUM (avg. 41.728149939999994)
+[25Jul2025 01:05:28.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6467ms or 129 ticks behind
+[25Jul2025 01:05:47.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[25Jul2025 01:06:08.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
+[25Jul2025 01:06:25.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from MEDIUM (avg. 45.7020608) to HIGH (avg. 48.94375168)
+[25Jul2025 01:06:31.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8632ms or 172 ticks behind
+[25Jul2025 01:06:49.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from HIGH (avg. 47.994882479999994) to VERY_HIGH (avg. 53.316788939999995)
+[25Jul2025 01:06:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:portal:P:153:79:-25:13:false:0:Internal-the-nether-waypoints
+[25Jul2025 01:06:51.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=74, z=745} BlockPos{x=-434, y=73, z=744}
+[25Jul2025 01:06:56.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9576ms or 191 ticks behind
+[25Jul2025 01:07:00.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! 9.876767266117099,0.41999998688697815,-1.9278784492811383
+[25Jul2025 01:07:14.401] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 25.987046449999998) to NORMAL (avg. 35.61438409)
+[25Jul2025 01:07:14.402] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from VERY_HIGH (avg. 54.71313401) to LOW (avg. 32.85328018)
+[25Jul2025 01:07:20.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9386ms or 187 ticks behind
+[25Jul2025 01:07:40.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5214ms or 104 ticks behind
+[25Jul2025 01:08:01.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5402ms or 108 ticks behind
+[25Jul2025 01:08:20.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4323ms or 86 ticks behind
+[25Jul2025 01:08:41.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5611ms or 112 ticks behind
+[25Jul2025 01:09:04.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7771ms or 155 ticks behind
+[25Jul2025 01:09:06.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4204375, l='ServerLevel[world]', x=-419.70, y=34.00, z=743.30] died: Sanctum Cultist was slain by panela_limon
+[25Jul2025 01:09:07.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4204376, l='ServerLevel[world]', x=-419.66, y=34.00, z=745.10] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:09:09.168] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 33.71184703) to NORMAL (avg. 37.076480450000005)
+[25Jul2025 01:09:09.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4204377, l='ServerLevel[world]', x=-419.70, y=34.00, z=744.93] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:09:29.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10176ms or 203 ticks behind
+[25Jul2025 01:09:35.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from NORMAL (avg. 39.47346475) to MEDIUM (avg. 44.02657346)
+[25Jul2025 01:09:55.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11614ms or 232 ticks behind
+[25Jul2025 01:10:22.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11477ms or 229 ticks behind
+[25Jul2025 01:10:24.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/4204278, l='ServerLevel[world]', x=-452.52, y=36.06, z=760.01] died: death.attack.traveloptics.cursed_blast
+[25Jul2025 01:10:41.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.88862764) to MEDIUM (avg. 41.53565204)
+[25Jul2025 01:10:41.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from MEDIUM (avg. 44.483715479999994) to HIGH (avg. 47.81310752)
+[25Jul2025 01:10:44.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/4205306, l='ServerLevel[world]', x=-444.66, y=36.06, z=760.02] died: Sanctum Ravager withered away whilst fighting panela_limon
+[25Jul2025 01:10:49.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12744ms or 254 ticks behind
+[25Jul2025 01:10:51.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/4205308, l='ServerLevel[world]', x=-450.90, y=36.06, z=760.00] died: Sanctum Ravager was slain by panela_limon
+[25Jul2025 01:10:55.558] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 41.53565204) to NORMAL (avg. 40.554329450000004)
+[25Jul2025 01:10:55.558] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from HIGH (avg. 47.81310752) to MEDIUM (avg. 44.26172278)
+[25Jul2025 01:11:10.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/4202274, l='ServerLevel[world]', x=-449.63, y=37.05, z=748.70] died: death.attack.traveloptics.vortex_of_the_deep
+[25Jul2025 01:11:16.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11536ms or 230 ticks behind
+[25Jul2025 01:11:28.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/4205307, l='ServerLevel[world]', x=-448.02, y=36.80, z=747.73] died: Sanctum Ravager was killed by panela_limon using magic
+[25Jul2025 01:11:30.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4199980, l='ServerLevel[world]', x=-463.57, y=36.06, z=748.33] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:11:35.150] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.91631927) to MEDIUM (avg. 42.912762310000005)
+[25Jul2025 01:11:35.150] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from MEDIUM (avg. 45.93571679) to NORMAL (avg. 40.054805130000005)
+[25Jul2025 01:11:39.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4199979, l='ServerLevel[world]', x=-458.09, y=36.06, z=717.21] died: Sanctum Cultist was slain by panela_limon
+[25Jul2025 01:11:42.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11132ms or 222 ticks behind
+[25Jul2025 01:11:47.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 42.912762310000005) to NORMAL (avg. 39.52450261)
+[25Jul2025 01:11:58.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/3979786, l='ServerLevel[world]', x=-456.50, y=36.06, z=712.45] died: Sanctum Cultist was slain by panela_limon
+[25Jul2025 01:11:59.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/3983483, l='ServerLevel[world]', x=-456.50, y=36.06, z=709.57] died: Sanctum Apostle was slain by panela_limon
+[25Jul2025 01:12:07.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9813ms or 196 ticks behind
+[25Jul2025 01:12:25.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from NORMAL (avg. 38.243856539999996) to MEDIUM (avg. 41.03335878)
+[25Jul2025 01:12:30.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8619ms or 172 ticks behind
+[25Jul2025 01:12:39.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/3983482, l='ServerLevel[world]', x=-447.39, y=36.06, z=703.55] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:12:45.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/3979117, l='ServerLevel[world]', x=-448.41, y=36.00, z=699.43] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:12:49.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[25Jul2025 01:12:56.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/3983523, l='ServerLevel[world]', x=-448.48, y=36.00, z=682.67] died: Sanctum Inquisitor was slain by panela_limon
+[25Jul2025 01:13:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [A Seedy Place]
+[25Jul2025 01:13:06.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[25Jul2025 01:13:23.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
+[25Jul2025 01:13:41.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[25Jul2025 01:13:59.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[25Jul2025 01:14:13.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/3983524, l='ServerLevel[world]', x=-459.01, y=40.00, z=673.81] died: Sanctum Illusionist was burnt to a crisp whilst fighting panela_limon
+[25Jul2025 01:14:16.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[25Jul2025 01:14:18.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.74662399291992) to HIGH (avg. 49.436893463134766)
+[25Jul2025 01:14:19.834] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.9812448) to MEDIUM (avg. 43.018528229999994)
+[25Jul2025 01:14:33.581] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.436893463134766) to MEDIUM (avg. 47.71767044067383)
+[25Jul2025 01:14:42.387] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 43.986014299999994) to HIGH (avg. 46.6377145)
+[25Jul2025 01:15:04.059] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.17106628417969) to HIGH (avg. 50.276580810546875)
+[25Jul2025 01:15:19.018] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.276580810546875) to MEDIUM (avg. 47.71308135986328)
+[25Jul2025 01:15:33.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.71308135986328) to LOW (avg. 38.66257095336914)
+[25Jul2025 01:15:56.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.71118927001953) to NORMAL (avg. 40.203529357910156)
+[25Jul2025 01:16:26.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.318058013916016) to LOW (avg. 38.88593292236328)
+[25Jul2025 01:16:56.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.041656494140625) to NORMAL (avg. 40.18104553222656)
+[25Jul2025 01:17:03.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.18104553222656) to LOW (avg. 37.64204406738281)
+[25Jul2025 01:17:33.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.4808235168457) to NORMAL (avg. 40.42796325683594)
+[25Jul2025 01:17:41.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.42796325683594) to LOW (avg. 38.75178146362305)
+[25Jul2025 01:18:03.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.144775390625) to MEDIUM (avg. 46.609352111816406)
+[25Jul2025 01:18:18.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.609352111816406) to LOW (avg. 39.67529296875)
+[25Jul2025 01:18:50.704] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Jul2025 01:18:50.704] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Jul2025 01:18:56.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.80388641357422) to NORMAL (avg. 41.4012336730957)
+[25Jul2025 01:19:24.127] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1031, y=75, z=-245}
+[25Jul2025 01:19:41.092] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.871681213378906) to MEDIUM (avg. 48.45686721801758)
+[25Jul2025 01:19:56.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.899635314941406) to HIGH (avg. 50.338863372802734)
+[25Jul2025 01:20:11.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.338863372802734) to LOW (avg. 37.24565124511719)
+[25Jul2025 01:20:56.126] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.085487365722656) to HIGH (avg. 51.05447006225586)
+[25Jul2025 01:21:04.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.05447006225586) to MEDIUM (avg. 48.57194519042969)
+[25Jul2025 01:21:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Heads Up]
+[25Jul2025 01:21:12.684] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.57194519042969) to HIGH (avg. 52.65850067138672)
+[25Jul2025 01:21:21.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Jul2025 01:21:30.127] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.92372319) to VERY_HIGH (avg. 52.08348624)
+[25Jul2025 01:21:43.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 01:21:53.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.59079360961914) to VERY_HIGH (avg. 57.1096305847168)
+[25Jul2025 01:22:01.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.1096305847168) to HIGH (avg. 54.286048889160156)
+[25Jul2025 01:22:05.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jul2025 01:22:18.150] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.286048889160156) to VERY_HIGH (avg. 55.9647216796875)
+[25Jul2025 01:22:30.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 01:22:34.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.9647216796875) to HIGH (avg. 54.45464324951172)
+[25Jul2025 01:22:56.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Jul2025 01:22:58.926] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.2828254699707) to VERY_HIGH (avg. 56.730003356933594)
+[25Jul2025 01:23:15.327] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.730003356933594) to HIGH (avg. 51.38774108886719)
+[25Jul2025 01:23:18.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 01:23:45.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.933197021484375) to LOW (avg. 38.39036178588867)
+[25Jul2025 01:24:00.758] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.39036178588867) to HIGH (avg. 52.21199035644531)
+[25Jul2025 01:24:23.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.473716735839844) to NORMAL (avg. 41.18743896484375)
+[25Jul2025 01:24:38.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.18743896484375) to LOW (avg. 36.96635055541992)
+[25Jul2025 01:24:53.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.96635055541992) to NORMAL (avg. 40.33922576904297)
+[25Jul2025 01:25:00.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.33922576904297) to LOW (avg. 37.64678192138672)
+[25Jul2025 01:25:15.598] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.64678192138672) to HIGH (avg. 49.03954315185547)
+[25Jul2025 01:25:23.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.03954315185547) to NORMAL (avg. 40.4278678894043)
+[25Jul2025 01:25:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1126, 51, -209)(73, 24)]
+[25Jul2025 01:25:38.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.4278678894043) to LOW (avg. 37.289833068847656)
+[25Jul2025 01:25:50.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4749094, l='ServerLevel[world]', x=1115.39, y=51.00, z=-209.39] died, message: 'Villager was sucked dry fighting panela_limon'
+[25Jul2025 01:25:53.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.289833068847656) to NORMAL (avg. 40.51637268066406)
+[25Jul2025 01:26:00.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.51637268066406) to LOW (avg. 38.168392181396484)
+[25Jul2025 01:26:15.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.168392181396484) to HIGH (avg. 49.453514099121094)
+[25Jul2025 01:26:38.489] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.51944351196289) to VERY_HIGH (avg. 93.57723236083984)
+[25Jul2025 01:26:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1128, 51, -207)(-2, 19)]
+[25Jul2025 01:26:53.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 93.57723236083984) to LOW (avg. 36.43000793457031)
+[25Jul2025 01:27:15.598] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.80137634277344) to HIGH (avg. 49.32558822631836)
+[25Jul2025 01:27:30.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.32558822631836) to LOW (avg. 37.92103576660156)
+[25Jul2025 01:27:45.581] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.92103576660156) to NORMAL (avg. 40.824214935302734)
+[25Jul2025 01:28:15.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.50684356689453) to LOW (avg. 39.704498291015625)
+[25Jul2025 01:28:38.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.274749755859375) to NORMAL (avg. 41.520408630371094)
+[25Jul2025 01:28:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [What a Deal!]
+[25Jul2025 01:29:15.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.04457092285156) to LOW (avg. 39.93627166748047)
+[25Jul2025 01:29:38.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.94898986816406) to NORMAL (avg. 41.491004943847656)
+[25Jul2025 01:30:15.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.44792938232422) to LOW (avg. 38.12679672241211)
+[25Jul2025 01:31:00.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.63337707519531) to NORMAL (avg. 43.38789367675781)
+[25Jul2025 01:31:30.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.53721237182617) to LOW (avg. 38.77374267578125)
+[25Jul2025 01:31:38.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.77374267578125) to NORMAL (avg. 42.17399978637695)
+[25Jul2025 01:31:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1128, 51, -200)(7, 18)]
+[25Jul2025 01:31:53.649] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.17399978637695) to VERY_HIGH (avg. 57.22274398803711)
+[25Jul2025 01:32:00.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[25Jul2025 01:32:18.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[25Jul2025 01:32:20.271] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.9163589477539) to HIGH (avg. 49.18334197998047)
+[25Jul2025 01:33:20.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.476253509521484) to LOW (avg. 38.36829376220703)
+[25Jul2025 01:33:42.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.373878479003906) to NORMAL (avg. 43.37225341796875)
+[25Jul2025 01:34:05.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.26661682128906) to LOW (avg. 39.750343322753906)
+[25Jul2025 01:34:27.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.52777862548828) to NORMAL (avg. 41.63478088378906)
+[25Jul2025 01:34:35.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.63478088378906) to LOW (avg. 39.85445022583008)
+[25Jul2025 01:35:05.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.2796745300293) to HIGH (avg. 51.99569320678711)
+[25Jul2025 01:35:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1127, 51, -199)(15, 26)]
+[25Jul2025 01:35:21.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 01:35:31.744] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.045379638671875) to VERY_HIGH (avg. 56.4103889465332)
+[25Jul2025 01:35:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Yuck!]
+[25Jul2025 01:35:39.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[25Jul2025 01:35:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 01:35:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 01:35:52.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX lost connection: Server closed
+[25Jul2025 01:35:52.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX left the game
+[25Jul2025 01:35:52.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Server closed
+[25Jul2025 01:35:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[25Jul2025 01:35:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 01:35:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 01:35:55.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[25Jul2025 01:35:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 01:35:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 01:35:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 01:35:55.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[25Jul2025 01:35:55.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 01:35:55.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 01:35:55.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jul2025 01:35:55.536] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:55.537] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.140] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.141] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.142] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.142] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.142] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.142] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.143] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.462] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[25Jul2025 01:35:56.463] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
