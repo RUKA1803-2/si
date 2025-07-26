@@ -12379,6 +12379,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/waxed_cut_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-26 03:35:18 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/80ench": {
     "criteria": {
       "enchanted_item": "2025-07-26 03:05:33 +0000"

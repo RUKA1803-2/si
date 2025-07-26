@@ -13060,6 +13060,12 @@
     },
     "done": true
   },
+  "inventorypets:sponge": {
+    "criteria": {
+      "crafting_table": "2025-07-26 03:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-07-26 02:14:29 +0000"
@@ -13147,6 +13153,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/purple_table_cloth_clear": {
+    "criteria": {
+      "has_purple_table_cloth": "2025-07-26 03:28:47 +0000"
     },
     "done": true
   },
@@ -13240,9 +13252,27 @@
     },
     "done": true
   },
+  "inventorypets:sheep": {
+    "criteria": {
+      "crafting_table": "2025-07-26 03:37:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/light_gray_table_cloth_clear": {
+    "criteria": {
+      "has_light_gray_table_cloth": "2025-07-26 03:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-07-26 02:06:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/cyan_table_cloth_clear": {
+    "criteria": {
+      "has_cyan_table_cloth": "2025-07-26 03:35:33 +0000"
     },
     "done": true
   },
@@ -13279,6 +13309,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-07-26 01:31:39 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/mossy_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-07-26 03:29:48 +0000"
     },
     "done": true
   },

@@ -10082,78 +10082,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 03:28:26 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_calcite_stairs": {
     "criteria": {
       "has_cut_calcite": "2025-07-25 04:25:05 +0000"
@@ -10268,6 +10196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-26 03:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-26 03:21:40 +0000"
@@ -10292,9 +10226,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-26 03:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-26 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-26 03:29:40 +0000"
     },
     "done": true
   },
@@ -10319,6 +10265,12 @@
   "vampirism:recipes/redstone/dark_spruce_button": {
     "criteria": {
       "has_planks": "2025-07-26 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-26 03:29:40 +0000"
     },
     "done": true
   },
@@ -10379,6 +10331,12 @@
   "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-26 02:39:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/purple_table_cloth_clear": {
+    "criteria": {
+      "has_purple_table_cloth": "2025-07-26 03:28:56 +0000"
     },
     "done": true
   },
@@ -10466,6 +10424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-07-26 03:29:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-26 02:39:25 +0000"
@@ -10532,6 +10496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-07-26 03:29:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-26 02:39:25 +0000"
@@ -10574,6 +10544,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-26 03:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-26 03:29:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-26 02:39:25 +0000"
@@ -10583,6 +10565,12 @@
   "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-26 02:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-26 03:29:40 +0000"
     },
     "done": true
   },
