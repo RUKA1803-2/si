@@ -12311,6 +12311,7 @@
   },
   "chromaticarsenal:arsenal_accumulated": {
     "criteria": {
+      "has_shadow_treads": "2025-07-26 03:13:53 +0000",
       "has_duality_rings": "2025-07-25 00:19:09 +0000"
     },
     "done": false
@@ -13176,6 +13177,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-07-26 01:31:39 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:shadow_treads": {
+    "criteria": {
+      "has_item": "2025-07-26 03:13:53 +0000"
     },
     "done": true
   },

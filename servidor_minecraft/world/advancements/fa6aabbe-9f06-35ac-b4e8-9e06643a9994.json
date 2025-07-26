@@ -8125,9 +8125,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2025-07-22 19:30:50 +0000"
+      "faction": "2025-07-22 19:30:50 +0000",
+      "kill": "2025-07-26 03:17:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/cure_vampire_villager": {
     "criteria": {
@@ -9400,6 +9401,24 @@
       "yellow": "2025-07-22 22:40:22 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-07-26 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-26 03:16:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-26 03:16:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

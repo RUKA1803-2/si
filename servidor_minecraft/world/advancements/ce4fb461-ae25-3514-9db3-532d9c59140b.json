@@ -12385,6 +12385,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 03:08:38 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cloud": {
     "criteria": {
       "crafting_table": "2025-07-26 02:53:29 +0000"
