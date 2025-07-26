@@ -2090,3 +2090,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [26Jul2025 01:28:43.835] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [26Jul2025 01:29:16.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [It Spreads]
 [26Jul2025 01:29:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Sneak 100]
+[26Jul2025 02:01:03.950] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.70749282836914) to NORMAL (avg. 44.61075210571289)
+[26Jul2025 02:01:12.132] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.61075210571289) to MEDIUM (avg. 48.551212310791016)
+[26Jul2025 02:01:19.498] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.551212310791016) to NORMAL (avg. 45.63162612915039)
+[26Jul2025 02:01:33.954] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.63162612915039) to MEDIUM (avg. 48.40011215209961)
+[26Jul2025 02:01:56.310] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.766578674316406) to NORMAL (avg. 44.50595474243164)
+[26Jul2025 02:02:11.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.50595474243164) to HIGH (avg. 51.15264892578125)
+[26Jul2025 02:02:26.311] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.15264892578125) to MEDIUM (avg. 47.07798385620117)
+[26Jul2025 02:02:40.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxLarryGoatxX[/100.70.180.34:53360] logged in with entity id 741636 at (1132.57980364902, 51.0, -189.5786982656213)
+[26Jul2025 02:02:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX joined the game
+[26Jul2025 02:02:40.283] [Server thread/INFO] [APTweaks(Player)/]: Player XxLarryGoatxX ServerPlayer['XxLarryGoatxX'/741636, l='ServerLevel[world]', x=1132.58, y=51.00, z=-189.58] logged in and will be protected for 90 secs.
+[26Jul2025 02:02:42.100] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.07798385620117) to VERY_HIGH (avg. 55.691036224365234)
+[26Jul2025 02:02:56.868] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.691036224365234) to HIGH (avg. 52.39113998413086)
+[26Jul2025 02:02:58.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[26Jul2025 02:03:13.434] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.39113998413086) to MEDIUM (avg. 46.08495330810547)
+[26Jul2025 02:03:40.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Leatherworker'/712514, l='ServerLevel[world]', x=1112.30, y=67.00, z=-181.24] died, message: 'Leatherworker was stormed by panela_limon'
+[26Jul2025 02:03:45.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/713118, l='ServerLevel[world]', x=1070.59, y=61.00, z=-257.30] died, message: 'Priest was slain by Zombie'
+[26Jul2025 02:03:50.811] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.336647033691406) to NORMAL (avg. 45.948280334472656)
+[26Jul2025 02:04:12.214] [Server thread/WARN] [APTweaks(Player)/]: User validation for XxLarryGoatxX timed out after 90 secs.
+[26Jul2025 02:04:12.214] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invisible from player XxLarryGoatxX!
+[26Jul2025 02:04:12.214] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player XxLarryGoatxX!
+[26Jul2025 02:04:33.953] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1162, y=73, z=-203}
+[26Jul2025 02:04:58.310] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.2181510925293) to LOW (avg. 39.48375701904297)
+[26Jul2025 02:05:13.310] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.48375701904297) to NORMAL (avg. 40.65694046020508)
+[26Jul2025 02:06:28.340] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.662628173828125) to MEDIUM (avg. 47.22367858886719)
+[26Jul2025 02:06:35.810] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.22367858886719) to NORMAL (avg. 43.29249572753906)
+[26Jul2025 02:06:50.810] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.29249572753906) to LOW (avg. 39.78544998168945)
