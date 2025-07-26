@@ -14270,3 +14270,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [26Jul2025 01:42:40.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jul2025 01:42:40.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jul2025 01:45:43.944] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c6621c4f-1b2e-400d-bae8-4638a424ef7c]
+[26Jul2025 01:47:40.329] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:47:40.380] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:47:40.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:47:40.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:49:08.491] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [76f4f46a-379b-4a99-a512-32372d7ba274]
+[26Jul2025 01:49:42.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [76f4f46a-379b-4a99-a512-32372d7ba274]
+[26Jul2025 01:52:04.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:52:13.897] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f5be5c4d-5346-465e-82f9-04258f84ea96]
+[26Jul2025 01:52:26.193] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:52:34.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:52:40.317] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:52:40.362] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:52:40.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:52:40.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:53:53.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [50083174-e1a0-4687-840c-9832848f236a]
+[26Jul2025 01:54:27.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:54:36.502] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [ce4fb461-ae25-3514-9db3-532d9c59140b]
+[26Jul2025 01:55:16.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
