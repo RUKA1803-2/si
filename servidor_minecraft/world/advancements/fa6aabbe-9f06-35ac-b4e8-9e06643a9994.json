@@ -2754,6 +2754,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "mycelium": "2025-07-26 04:11:55 +0000",
       "dirt": "2025-07-19 00:46:56 +0000"
     },
     "done": false
@@ -9402,6 +9403,18 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-26 04:14:50 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
@@ -9414,9 +9427,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-26 03:18:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },
@@ -9438,6 +9463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-26 03:18:22 +0000"
@@ -9447,6 +9478,18 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },
@@ -9474,6 +9517,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-26 03:18:22 +0000"
@@ -9486,9 +9535,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "inventorypets:wolf": {
     "criteria": {
       "crafting_table": "2025-07-26 04:02:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },
@@ -9528,6 +9589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-26 03:18:22 +0000"
@@ -9546,9 +9613,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-07-26 04:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2025-07-26 04:13:57 +0000"
     },
     "done": true
   },
@@ -9576,9 +9661,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-26 03:18:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },
@@ -9624,6 +9721,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:13:57 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta50": {
     "criteria": {
       "enchanted_item": "2025-07-26 03:24:33 +0000"
@@ -9642,9 +9757,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_wool": "2025-07-26 04:13:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-07-26 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_fence_gate_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },
@@ -9660,6 +9799,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-07-26 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-26 03:16:39 +0000"
@@ -9672,9 +9823,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-26 04:09:46 +0000"
     },
     "done": true
   },

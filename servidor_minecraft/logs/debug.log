@@ -16822,3 +16822,74 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Jul2025 04:08:31.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> y nada bueno
 [26Jul2025 04:08:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> muy duro
 [26Jul2025 04:08:51.185] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.756832122802734) to HIGH (avg. 49.15495300292969)
+[26Jul2025 04:09:21.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.983856201171875) to VERY_HIGH (avg. 56.32151794433594)
+[26Jul2025 04:09:34.684] [Server thread/DEBUG] [mixin/]: Mixing BeaconBeamSectionyMixin from vampirism.mixins.json into net.minecraft.world.level.block.entity.BeaconBlockEntity$BeaconBeamSection
+[26Jul2025 04:09:36.885] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.32151794433594) to HIGH (avg. 50.114402770996094)
+[26Jul2025 04:09:50.627] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 04:09:50.672] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 04:09:50.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 04:09:50.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:09:50.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> 122 niveles juanda
+[26Jul2025 04:09:51.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.114402770996094) to MEDIUM (avg. 47.74367141723633)
+[26Jul2025 04:10:06.522] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.74367141723633) to HIGH (avg. 53.822078704833984)
+[26Jul2025 04:10:40.529] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
+[26Jul2025 04:10:55.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [6d0e71cb-7fbd-3aa8-a3a5-c2f47851e522]
+[26Jul2025 04:11:06.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.32343292236328) to MEDIUM (avg. 47.26823043823242)
+[26Jul2025 04:11:36.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.27434158325195) to HIGH (avg. 49.258609771728516)
+[26Jul2025 04:11:51.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.258609771728516) to NORMAL (avg. 44.62580108642578)
+[26Jul2025 04:12:06.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.62580108642578) to MEDIUM (avg. 48.75364303588867)
+[26Jul2025 04:12:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [Stairway to Heaven]
+[26Jul2025 04:12:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda
+[26Jul2025 04:12:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> le encanto algo?
+[26Jul2025 04:12:43.518] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.793060302734375) to HIGH (avg. 49.95545196533203)
+[26Jul2025 04:13:04.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> de nada :v
+[26Jul2025 04:13:32.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda
+[26Jul2025 04:13:35.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> dime
+[26Jul2025 04:13:36.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.500919342041016) to MEDIUM (avg. 47.65126037597656)
+[26Jul2025 04:13:43.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tienen reparacion o aldeano?
+[26Jul2025 04:13:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> no
+[26Jul2025 04:13:51.025] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.65126037597656) to HIGH (avg. 49.22937774658203)
+[26Jul2025 04:13:51.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> aqui
+[26Jul2025 04:13:58.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.22937774658203) to MEDIUM (avg. 48.552459716796875)
+[26Jul2025 04:14:21.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.54822540283203) to VERY_HIGH (avg. 55.290000915527344)
+[26Jul2025 04:14:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ema
+[26Jul2025 04:14:29.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.290000915527344) to HIGH (avg. 49.30893325805664)
+[26Jul2025 04:14:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> si?
+[26Jul2025 04:14:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> me podes encantar un hacha?
+[26Jul2025 04:14:44.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.30893325805664) to MEDIUM (avg. 47.08784484863281)
+[26Jul2025 04:14:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que quiere que le salga?
+[26Jul2025 04:14:51.146] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 04:14:51.190] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 04:14:51.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 04:14:51.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:14:52.505] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.08784484863281) to VERY_HIGH (avg. 56.56733322143555)
+[26Jul2025 04:15:00.098] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.56733322143555) to HIGH (avg. 52.3045654296875)
+[26Jul2025 04:15:09.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mas que todo eficiencia
+[26Jul2025 04:15:15.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.3045654296875) to MEDIUM (avg. 48.68350601196289)
+[26Jul2025 04:15:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> y si se puede irrompibilidad
+[26Jul2025 04:15:32.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> pasela
+[26Jul2025 04:15:37.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.31818389892578) to HIGH (avg. 49.0210075378418)
+[26Jul2025 04:16:04.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [6d0e71cb-7fbd-3aa8-a3a5-c2f47851e522]
+[26Jul2025 04:16:12.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
+[26Jul2025 04:16:14.526] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.57727813720703) to MEDIUM (avg. 48.161319732666016)
+[26Jul2025 04:16:28.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.161319732666016) to NORMAL (avg. 43.208473205566406)
+[26Jul2025 04:16:58.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.82902145385742) to MEDIUM (avg. 46.55717849731445)
+[26Jul2025 04:17:21.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.492401123046875) to NORMAL (avg. 43.0330696105957)
+[26Jul2025 04:17:36.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.0330696105957) to MEDIUM (avg. 47.93532943725586)
+[26Jul2025 04:17:43.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda no me dispares porfa
+[26Jul2025 04:17:51.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.93532943725586) to NORMAL (avg. 45.0346565246582)
+[26Jul2025 04:18:04.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> le sirve este?
+[26Jul2025 04:18:06.030] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.0346565246582) to HIGH (avg. 50.5606803894043)
+[26Jul2025 04:18:13.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.5606803894043) to NORMAL (avg. 45.851558685302734)
+[26Jul2025 04:18:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> uff
+[26Jul2025 04:18:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> si
+[26Jul2025 04:18:33.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> hagale
+[26Jul2025 04:18:36.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.63913345336914) to MEDIUM (avg. 46.46824645996094)
+[26Jul2025 04:18:38.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tiene esmeralda?
+[26Jul2025 04:18:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mire haber
+[26Jul2025 04:18:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [What a Deal!]
+[26Jul2025 04:18:51.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.46824645996094) to NORMAL (avg. 45.122982025146484)
+[26Jul2025 04:18:58.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.122982025146484) to MEDIUM (avg. 48.739723205566406)
+[26Jul2025 04:19:13.517] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.09434509277344) to HIGH (avg. 49.32460403442383)
+[26Jul2025 04:19:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> puedo agarrar?
+[26Jul2025 04:19:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> que cosa

@@ -13060,6 +13060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
@@ -13069,6 +13075,12 @@
   "inventorypets:sponge": {
     "criteria": {
       "crafting_table": "2025-07-26 03:32:59 +0000"
+    },
+    "done": true
+  },
+  "terramity:stairway_to_heaven_advancement": {
+    "criteria": {
+      "stairway_to_heaven_advancement_0": "2025-07-26 04:12:06 +0000"
     },
     "done": true
   },
@@ -13132,6 +13144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-07-26 02:08:14 +0000"
@@ -13183,6 +13201,18 @@
   "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
     "criteria": {
       "has_pure_blood": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/bamboo_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-26 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2025-07-26 04:11:03 +0000"
     },
     "done": true
   },
@@ -13261,6 +13291,12 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
     },
     "done": true
   },
