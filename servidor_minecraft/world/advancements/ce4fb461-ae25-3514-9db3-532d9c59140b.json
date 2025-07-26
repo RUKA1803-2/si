@@ -12731,6 +12731,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-26 15:45:42 +0000",
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:45:28 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
     "criteria": {
       "has_filter_upgrade": "2025-07-26 06:06:03 +0000"
@@ -12740,6 +12813,13 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_polished_witch_hazel_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000",
+      "has_block": "2025-07-26 15:35:21 +0000"
     },
     "done": true
   },
@@ -12764,6 +12844,13 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_polished_witch_hazel_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000",
+      "has_block": "2025-07-26 15:35:21 +0000"
     },
     "done": true
   },
@@ -12812,6 +12899,18 @@
   "create:recipes/building_blocks/small_ochrum_brick_slab": {
     "criteria": {
       "has_small_ochrum_bricks": "2025-07-26 15:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
     },
     "done": true
   },
@@ -12893,6 +12992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 15:20:37 +0000"
@@ -12908,6 +13013,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
     "criteria": {
       "has_advanced_pickup_upgrade": "2025-07-26 15:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
     },
     "done": true
   },
@@ -12947,6 +13058,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-26 15:37:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_recycling": {
+    "criteria": {
+      "has_cut_dripstone_slab": "2025-07-26 15:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_wall": {
     "criteria": {
       "has_small_ochrum_bricks": "2025-07-26 15:13:38 +0000"
@@ -12968,6 +13097,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_polished_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 15:35:21 +0000"
     },
     "done": true
   },
