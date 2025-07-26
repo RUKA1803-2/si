@@ -1769,6 +1769,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-20 04:34:48 +0000",
       "minecraft:windswept_savanna": "2025-07-20 00:15:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 00:33:29 +0000",
+      "minecraft:deep_dark": "2025-07-26 01:26:02 +0000",
       "minecraft:meadow": "2025-07-18 23:57:57 +0000",
       "minecraft:plains": "2025-07-19 00:02:13 +0000"
     },
@@ -13016,9 +13017,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 01:27:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
       "has_compacting_upgrade": "2025-07-26 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-26 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
+    "criteria": {
+      "has_dragonscale_black": "2025-07-26 01:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-26 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-26 01:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-26 01:29:33 +0000"
     },
     "done": true
   },

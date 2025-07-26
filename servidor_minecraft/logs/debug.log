@@ -14237,3 +14237,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [26Jul2025 01:25:40.500] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.088s
 [26Jul2025 01:25:42.171] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.73886489868164) to LOW (avg. 31.4388370513916)
 [26Jul2025 01:25:44.441] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.62 and blood value 15 for entity iceandfire:hippogryph
+[26Jul2025 01:26:32.794] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [5ed87a50-94aa-4786-bbd6-28974d6a794a]
+[26Jul2025 01:27:40.333] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:27:40.387] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:27:40.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:27:40.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:28:03.131] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[26Jul2025 01:28:03.133] [Worker-Main-5/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[26Jul2025 01:28:43.833] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[26Jul2025 01:28:43.834] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[26Jul2025 01:28:43.835] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[26Jul2025 01:29:16.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [It Spreads]
+[26Jul2025 01:29:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Sneak 100]
+[26Jul2025 01:30:19.343] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:30:49.841] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:31:09.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:32:15.297] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:32:26.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[26Jul2025 01:32:40.352] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:32:40.408] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:32:40.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:32:40.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:32:57.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [0fd3793b-0142-4648-8a71-55903d24f8c8]
+[26Jul2025 01:33:54.953] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [afcb66c7-9fee-4061-be50-d2f08eb05400]
+[26Jul2025 01:37:40.329] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:37:40.385] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:37:40.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:37:40.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:38:29.196] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [89f05c38-21fb-4c19-8e9d-55eabf6bc851]
+[26Jul2025 01:42:40.333] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 01:42:40.395] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 01:42:40.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 01:42:40.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 01:45:43.944] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c6621c4f-1b2e-400d-bae8-4638a424ef7c]
