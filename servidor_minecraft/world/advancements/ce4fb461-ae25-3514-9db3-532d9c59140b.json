@@ -12235,9 +12235,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_stairs_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_stairs_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_trapdoor_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_boat_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
   "inventorypets:politicallycorrect": {
     "criteria": {
       "crafting_table": "2025-07-26 02:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_chest_boat_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_door_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
     },
     "done": true
   },
@@ -12247,9 +12337,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_gate_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/barrel_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-07-26 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_sign_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
   "inventorypets:use_meta": {
     "criteria": {
       "example": "2025-07-26 02:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_gate_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_slab_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_pressure_plate_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-07-26 02:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pressure_plate_from_mahogany_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 02:23:54 +0000"
     },
     "done": true
   },

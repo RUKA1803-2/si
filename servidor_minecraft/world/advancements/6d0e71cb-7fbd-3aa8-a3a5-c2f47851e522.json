@@ -13077,6 +13077,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-07-26 02:25:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
     "criteria": {
       "has_pure_blood": "2025-07-26 02:08:14 +0000"
@@ -13128,6 +13134,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-07-26 02:27:33 +0000"
     },
     "done": true
   },
