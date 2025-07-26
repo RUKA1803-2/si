@@ -16729,3 +16729,44 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Jul2025 03:48:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> gracias
 [26Jul2025 03:48:49.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ya voy
 [26Jul2025 03:48:49.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.05728530883789) to MEDIUM (avg. 46.690738677978516)
+[26Jul2025 03:49:05.058] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.690738677978516) to NORMAL (avg. 45.563785552978516)
+[26Jul2025 03:49:33.258] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [6d0e71cb-7fbd-3aa8-a3a5-c2f47851e522]
+[26Jul2025 03:49:34.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.13700866699219) to MEDIUM (avg. 46.66046905517578)
+[26Jul2025 03:49:42.460] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.66046905517578) to NORMAL (avg. 45.511417388916016)
+[26Jul2025 03:49:49.965] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.511417388916016) to MEDIUM (avg. 48.47724914550781)
+[26Jul2025 03:49:55.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [ce4fb461-ae25-3514-9db3-532d9c59140b]
+[26Jul2025 03:50:42.492] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.32726287841797) to HIGH (avg. 49.105072021484375)
+[26Jul2025 03:50:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> como me pongo para que no me pelen
+[26Jul2025 03:51:04.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.19560241699219) to MEDIUM (avg. 46.18281173706055)
+[26Jul2025 03:51:19.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.18281173706055) to NORMAL (avg. 45.7578010559082)
+[26Jul2025 03:51:34.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.7578010559082) to MEDIUM (avg. 46.13973617553711)
+[26Jul2025 03:51:57.460] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.34880828857422) to NORMAL (avg. 45.38220977783203)
+[26Jul2025 03:52:12.467] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.38220977783203) to MEDIUM (avg. 48.58076858520508)
+[26Jul2025 03:52:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tienen reparacion?
+[26Jul2025 03:52:35.021] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.21581268310547) to HIGH (avg. 49.93873977661133)
+[26Jul2025 03:52:49.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.93873977661133) to NORMAL (avg. 45.896575927734375)
+[26Jul2025 03:53:04.963] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.896575927734375) to MEDIUM (avg. 47.79838562011719)
+[26Jul2025 03:53:26.660] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 03:53:26.713] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 03:53:26.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 03:53:26.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 03:53:57.632] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.9744873046875) to HIGH (avg. 49.80684280395508)
+[26Jul2025 03:54:49.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.43910217285156) to NORMAL (avg. 45.33575439453125)
+[26Jul2025 03:55:12.460] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.689231872558594) to MEDIUM (avg. 47.17201232910156)
+[26Jul2025 03:55:31.166] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['XxLarryGoatxX'/741636, l='ServerLevel[world]', x=1126.82, y=51.06, z=-193.24]
+[26Jul2025 03:55:31.210] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[26Jul2025 03:55:49.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.49299240112305) to NORMAL (avg. 43.9136848449707)
+[26Jul2025 03:55:51.162] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: XxLarryGoatxX has new faction level vampirism:vampire 7
+[26Jul2025 03:55:57.476] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.9136848449707) to HIGH (avg. 49.19002151489258)
+[26Jul2025 03:56:04.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.19002151489258) to NORMAL (avg. 44.593772888183594)
+[26Jul2025 03:56:27.460] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.70232009887695) to MEDIUM (avg. 46.860877990722656)
+[26Jul2025 03:56:50.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.188655853271484) to HIGH (avg. 50.28205490112305)
+[26Jul2025 03:57:49.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Jul2025 03:58:29.741] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 03:58:29.793] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 03:58:29.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 03:58:29.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 03:58:39.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Jul2025 03:58:46.421] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.111s
+[26Jul2025 03:58:47.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.799339294433594) to VERY_HIGH (avg. 57.1010856628418)
+[26Jul2025 03:58:57.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
