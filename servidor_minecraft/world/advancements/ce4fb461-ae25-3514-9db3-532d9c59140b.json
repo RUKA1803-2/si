@@ -12295,6 +12295,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 03:05:33 +0000"
+    },
+    "done": true
+  },
   "inventorypets:politicallycorrect": {
     "criteria": {
       "crafting_table": "2025-07-26 02:18:24 +0000"
@@ -12370,6 +12376,18 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 03:05:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cloud": {
+    "criteria": {
+      "crafting_table": "2025-07-26 02:53:29 +0000"
     },
     "done": true
   },

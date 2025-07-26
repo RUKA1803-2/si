@@ -2273,3 +2273,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [26Jul2025 02:57:18.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.541595458984375) to NORMAL (avg. 45.630638122558594)
 [26Jul2025 02:57:33.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.630638122558594) to MEDIUM (avg. 46.52573776245117)
 [26Jul2025 02:57:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Pets Inventory]
+[26Jul2025 02:58:11.601] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.720584869384766) to HIGH (avg. 50.054542541503906)
+[26Jul2025 02:58:25.894] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.054542541503906) to MEDIUM (avg. 46.63390350341797)
+[26Jul2025 02:59:03.372] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.612953186035156) to HIGH (avg. 49.400962829589844)
+[26Jul2025 02:59:10.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.400962829589844) to MEDIUM (avg. 46.966732025146484)
+[26Jul2025 02:59:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.07582473754883) to NORMAL (avg. 45.898040771484375)
+[26Jul2025 03:00:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Jerry the Undying]
+[26Jul2025 03:00:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.65487289428711) to MEDIUM (avg. 46.29197692871094)
+[26Jul2025 03:00:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.29197692871094) to NORMAL (avg. 44.40847396850586)
+[26Jul2025 03:01:10.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.462947845458984) to MEDIUM (avg. 46.53765106201172)
+[26Jul2025 03:01:18.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.53765106201172) to NORMAL (avg. 44.08985900878906)
+[26Jul2025 03:01:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.08985900878906) to MEDIUM (avg. 46.57660675048828)
+[26Jul2025 03:01:55.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.04319763183594) to NORMAL (avg. 41.287086486816406)
+[26Jul2025 03:03:55.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.46531295776367) to LOW (avg. 39.39665985107422)
+[26Jul2025 03:04:10.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.39665985107422) to NORMAL (avg. 41.94136047363281)
+[26Jul2025 03:04:23.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:59748] logged in with entity id 2684099 at (1148.6216048995718, 67.0, -175.30000001192093)
+[26Jul2025 03:04:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[26Jul2025 03:04:23.666] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/2684099, l='ServerLevel[world]', x=1148.62, y=67.00, z=-175.30] logged in and will be protected for 90 secs.
+[26Jul2025 03:04:26.164] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.2431640625) to HIGH (avg. 50.458282470703125)
+[26Jul2025 03:04:48.363] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.47891616821289) to NORMAL (avg. 45.4479866027832)
+[26Jul2025 03:05:10.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.98595428466797) to MEDIUM (avg. 47.4649543762207)
+[26Jul2025 03:05:33.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has reached the goal [Enchantments from the Depths]
+[26Jul2025 03:05:33.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Rolling the Dice]
+[26Jul2025 03:05:48.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.104583740234375) to NORMAL (avg. 45.97731399536133)
+[26Jul2025 03:05:55.413] [Server thread/WARN] [APTweaks(Player)/]: User validation for verganuel timed out after 90 secs.
+[26Jul2025 03:05:55.413] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[26Jul2025 03:05:55.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.97731399536133) to MEDIUM (avg. 47.31416320800781)
+[26Jul2025 03:06:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ola
+[26Jul2025 03:06:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> llaman?
+[26Jul2025 03:06:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.87491989135742) to NORMAL (avg. 45.67217254638672)
+[26Jul2025 03:06:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.67217254638672) to MEDIUM (avg. 46.751617431640625)
+[26Jul2025 03:07:18.385] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.73650360107422) to HIGH (avg. 51.49515914916992)
+[26Jul2025 03:07:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda
+[26Jul2025 03:07:33.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.49515914916992) to VERY_HIGH (avg. 59.033721923828125)
+[26Jul2025 03:07:48.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.033721923828125) to NORMAL (avg. 43.89728546142578)
+[26Jul2025 03:08:11.119] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.37606430053711) to MEDIUM (avg. 46.312618255615234)

@@ -8705,77 +8705,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "apotheosis:spawner/modifier": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
+      "modifier": "2025-07-22 21:32:44 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:45:08 +0000"
-    },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
@@ -8783,15 +8735,345 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/birch_window": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_ingredient": "2025-07-22 21:50:59 +0000"
+      "has_diamond_block": "2025-07-22 21:34:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-07-22 21:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-22 21:36:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/woodcutting/willow/willow_door_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/barrel_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_polished_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs": {
+    "criteria": {
+      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall": {
+    "criteria": {
+      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab": {
+    "criteria": {
+      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_diorite_slab": "2025-07-22 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 21:50:59 +0000"
     },
     "done": true
   },
@@ -8813,45 +9095,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/barrel_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
     },
     "done": true
   },
@@ -8861,39 +9107,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-07-22 22:08:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
     },
     "done": true
   },
@@ -8903,63 +9119,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-22 21:50:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
-    "criteria": {
-      "has_compacting_upgrade": "2025-07-22 22:26:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_slab_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
     },
     "done": true
   },
@@ -8981,72 +9149,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_boat_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2025-07-22 22:28:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_stairs": {
-    "criteria": {
-      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_scorchia_brick_slab": "2025-07-22 22:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_chest_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:50:59 +0000"
@@ -9065,51 +9167,51 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/modifier": {
-    "criteria": {
-      "modifier": "2025-07-22 21:32:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gummy_rings": {
-    "criteria": {
-      "yellow": "2025-07-22 22:40:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:50:59 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+      "give_recipe": "2025-07-22 21:50:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
+      "give_recipe": "2025-07-22 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:50:59 +0000"
     },
     "done": true
   },
@@ -9119,39 +9221,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/crafting_table_from_polished_willow_slab_woodcutting": {
+  "apotheosis:enchanting/30ench": {
     "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
+      "enchanted_item": "2025-07-22 22:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/willow_planks_from_polished_willow_slab_woodcutting": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
+      "enchanted_item": "2025-07-22 22:08:03 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_recycling": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+      "has_cut_scorchia_brick_slab": "2025-07-22 22:19:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-07-22 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall": {
-    "criteria": {
-      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
     },
     "done": true
   },
@@ -9164,54 +9296,6 @@
   "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_connected_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_sign_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-07-22 21:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-22 22:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
     },
     "done": true
   },
@@ -9233,57 +9317,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_button_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_fence_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
     },
     "done": true
   },
@@ -9293,45 +9329,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_slab": {
-    "criteria": {
-      "has_cut_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-22 22:08:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-07-22 21:36:21 +0000"
     },
     "done": true
   },
@@ -9341,57 +9341,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-07-22 22:26:29 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/maxdelay": {
-    "criteria": {
-      "modifier": "2025-07-22 21:35:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-22 22:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/willow_stairs_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-07-22 22:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_polished_willow_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
     },
     "done": true
   },
@@ -9401,45 +9353,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_planks": "2025-07-22 21:50:59 +0000"
+      "has_raw_silver": "2025-07-22 22:26:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_polished_willow_slab_woodcutting": {
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
+      "has_raw_silver": "2025-07-22 22:26:29 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_recycling": {
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
-      "has_polished_cut_diorite_slab": "2025-07-22 21:47:07 +0000"
+      "has_raw_silver": "2025-07-22 22:26:29 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+      "has_compacting_upgrade": "2025-07-22 22:26:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_polished_willow_slab_woodcutting": {
+  "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
-      "give_recipe": "2025-07-22 21:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
+      "has_item": "2025-07-22 22:28:00 +0000"
     },
     "done": true
   },
@@ -9449,29 +9395,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "alexscaves:alexscaves/gummy_rings": {
     "criteria": {
-      "has_planks": "2025-07-22 21:50:59 +0000"
+      "yellow": "2025-07-22 22:40:22 +0000"
     },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-07-22 22:24:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-22 21:46:05 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
