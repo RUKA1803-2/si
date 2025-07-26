@@ -2069,3 +2069,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [26Jul2025 15:13:24.697] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [26Jul2025 15:16:07.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.81542205810547) to NORMAL (avg. 40.165103912353516)
 [26Jul2025 15:16:22.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.165103912353516) to LOW (avg. 30.151086807250977)
+[26Jul2025 15:27:28.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Sandy the Pathetic'/333634, l='ServerLevel[world]', x=1117.53, y=-37.00, z=-192.89] died: Sandy the Pathetic was slain by Pancho
+[26Jul2025 15:29:44.202] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
