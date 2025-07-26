@@ -13029,6 +13029,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-26 02:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-07-26 02:14:29 +0000"
@@ -13047,15 +13059,39 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 02:40:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-07-26 02:08:14 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_slab_recycling": {
     "criteria": {
       "has_cut_crimsite_slab": "2025-07-26 02:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-26 02:38:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-26 02:37:54 +0000"
     },
     "done": true
   },
@@ -13107,6 +13143,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-26 01:29:16 +0000"
@@ -13149,9 +13191,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-26 01:55:17 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:dirt": {
+    "criteria": {
+      "crafting_table": "2025-07-26 02:36:02 +0000"
     },
     "done": true
   },

@@ -2218,3 +2218,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [26Jul2025 02:36:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.7508544921875) to MEDIUM (avg. 47.676387786865234)
 [26Jul2025 02:36:40.955] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1124, y=54, z=-209}
 [26Jul2025 02:37:03.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.45903015136719) to NORMAL (avg. 44.674320220947266)
+[26Jul2025 02:37:48.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.312713623046875) to MEDIUM (avg. 46.8613395690918)
+[26Jul2025 02:38:03.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.8613395690918) to NORMAL (avg. 41.793460845947266)
+[26Jul2025 02:38:18.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.793460845947266) to LOW (avg. 39.344932556152344)
+[26Jul2025 02:38:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.344932556152344) to NORMAL (avg. 43.23158264160156)
+[26Jul2025 02:39:10.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.446868896484375) to MEDIUM (avg. 46.2723388671875)
+[26Jul2025 02:39:18.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.2723388671875) to NORMAL (avg. 45.04995346069336)
+[26Jul2025 02:39:25.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.04995346069336) to MEDIUM (avg. 47.80742645263672)
+[26Jul2025 02:39:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.80742645263672) to NORMAL (avg. 45.73683547973633)
+[26Jul2025 02:39:55.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.73683547973633) to MEDIUM (avg. 46.17197036743164)
+[26Jul2025 02:40:10.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.17197036743164) to NORMAL (avg. 44.40694046020508)
+[26Jul2025 02:40:25.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.40694046020508) to MEDIUM (avg. 47.339561462402344)
+[26Jul2025 02:40:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Rolling the Dice]
+[26Jul2025 02:40:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.339561462402344) to NORMAL (avg. 44.47323989868164)
+[26Jul2025 02:43:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Enchanter]
+[26Jul2025 02:43:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Rolling the Dice]
+[26Jul2025 02:43:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Magical Energy]
+[26Jul2025 02:43:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Introduction to Chaos]
+[26Jul2025 02:43:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Eterna, Quanta, Arcana]
+[26Jul2025 02:43:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Mastering Hell and Sea]
+[26Jul2025 02:43:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Enchantments from the Depths]
+[26Jul2025 02:43:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [The Basics]
+[26Jul2025 02:43:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.67007064819336) to MEDIUM (avg. 46.205020904541016)
+[26Jul2025 02:43:30.703] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1125, y=57, z=-183}
+[26Jul2025 02:43:33.360] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.205020904541016) to NORMAL (avg. 43.78765869140625)
+[26Jul2025 02:44:03.351] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1158, y=78, z=-176}
+[26Jul2025 02:44:18.002] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1126, y=53, z=-203}
+[26Jul2025 02:44:25.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.183937072753906) to MEDIUM (avg. 46.6457633972168)
+[26Jul2025 02:44:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.6457633972168) to NORMAL (avg. 44.017784118652344)
+[26Jul2025 02:45:19.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [Enchantments from the Depths]
+[26Jul2025 02:45:25.863] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.554874420166016) to MEDIUM (avg. 47.06926345825195)
+[26Jul2025 02:45:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.06926345825195) to NORMAL (avg. 45.95559310913086)
+[26Jul2025 02:46:25.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.09945297241211) to MEDIUM (avg. 46.886512756347656)
+[26Jul2025 02:46:40.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.886512756347656) to NORMAL (avg. 44.54066467285156)
