@@ -2423,3 +2423,83 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Jul2025 03:17:42.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [26Jul2025 03:17:54.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.18942642211914) to HIGH (avg. 50.773529052734375)
 [26Jul2025 03:18:17.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[26Jul2025 03:18:34.661] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.74351501464844) to MEDIUM (avg. 48.15706253051758)
+[26Jul2025 03:18:49.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.15706253051758) to HIGH (avg. 49.37737274169922)
+[26Jul2025 03:19:20.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.159603118896484) to MEDIUM (avg. 46.54914093017578)
+[26Jul2025 03:19:35.393] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.54914093017578) to HIGH (avg. 49.17946243286133)
+[26Jul2025 03:19:40.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1093015, l='ServerLevel[world]', x=1105.30, y=67.00, z=-182.29] died, message: 'Villager hit the ground too hard whilst trying to escape verganuel'
+[26Jul2025 03:19:42.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.17946243286133) to MEDIUM (avg. 47.81916046142578)
+[26Jul2025 03:20:05.011] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.920780181884766) to HIGH (avg. 49.14802551269531)
+[26Jul2025 03:20:42.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved wrongly!
+[26Jul2025 03:20:44.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2025 03:20:44.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved wrongly!
+[26Jul2025 03:20:59.159] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.10042953491211) to MEDIUM (avg. 47.37030029296875)
+[26Jul2025 03:21:22.544] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.644412994384766) to HIGH (avg. 49.12473678588867)
+[26Jul2025 03:21:44.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.12293243408203) to NORMAL (avg. 45.104434967041016)
+[26Jul2025 03:21:45.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda
+[26Jul2025 03:21:50.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ya ahora chupas?
+[26Jul2025 03:21:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> szs
+[26Jul2025 03:21:59.048] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.104434967041016) to MEDIUM (avg. 48.3611946105957)
+[26Jul2025 03:22:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que atrevido
+[26Jul2025 03:22:06.475] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.3611946105957) to HIGH (avg. 49.04734802246094)
+[26Jul2025 03:22:08.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> jajaj
+[26Jul2025 03:22:09.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> chupon
+[26Jul2025 03:22:21.050] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.04734802246094) to MEDIUM (avg. 47.7657356262207)
+[26Jul2025 03:22:36.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.7657356262207) to HIGH (avg. 50.80661392211914)
+[26Jul2025 03:22:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> flores
+[26Jul2025 03:22:55.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> nada
+[26Jul2025 03:23:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> despues resuelvo eso
+[26Jul2025 03:23:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> si no quiere que le consuma espacio la hubiera puesto en el piso con obsiliana
+[26Jul2025 03:23:05.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por ahora dejelo haci
+[26Jul2025 03:23:06.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.125465393066406) to MEDIUM (avg. 46.067169189453125)
+[26Jul2025 03:23:09.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ya que hay le gasta espacio
+[26Jul2025 03:23:13.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ya se
+[26Jul2025 03:23:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> se lo que hago
+[26Jul2025 03:23:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> calmao
+[26Jul2025 03:23:36.027] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.95180130004883) to HIGH (avg. 50.92564010620117)
+[26Jul2025 03:23:43.807] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.92564010620117) to MEDIUM (avg. 48.83365249633789)
+[26Jul2025 03:23:58.099] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1148, y=74, z=-262}
+[26Jul2025 03:23:58.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.83365249633789) to HIGH (avg. 49.21929931640625)
+[26Jul2025 03:24:13.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.21929931640625) to MEDIUM (avg. 47.46529006958008)
+[26Jul2025 03:24:28.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.46529006958008) to NORMAL (avg. 45.26485061645508)
+[26Jul2025 03:24:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Introduction to Chaos]
+[26Jul2025 03:24:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has reached the goal [Mastering Hell and Sea]
+[26Jul2025 03:24:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has reached the goal [Enchantments from the Depths]
+[26Jul2025 03:24:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Rolling the Dice]
+[26Jul2025 03:24:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Magical Energy]
+[26Jul2025 03:24:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> patos
+[26Jul2025 03:24:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> yo soy cazador y creo que les hace daño
+[26Jul2025 03:25:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> de echo no
+[26Jul2025 03:25:07.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por que no has subido
+[26Jul2025 03:25:13.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.2906494140625) to HIGH (avg. 49.63202667236328)
+[26Jul2025 03:25:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> quihubo
+[26Jul2025 03:25:36.010] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.21250915527344) to NORMAL (avg. 44.23633575439453)
+[26Jul2025 03:25:40.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> juanda
+[26Jul2025 03:25:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que es es to
+[26Jul2025 03:25:43.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> dime
+[26Jul2025 03:25:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> un arco
+[26Jul2025 03:25:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que hace
+[26Jul2025 03:26:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> no
+[26Jul2025 03:26:06.405] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.554039001464844) to LOW (avg. 36.85264587402344)
+[26Jul2025 03:26:13.699] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.85264587402344) to HIGH (avg. 54.44551086425781)
+[26Jul2025 03:26:21.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> no que?
+[26Jul2025 03:26:28.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panela_limon> es una espada
+[26Jul2025 03:26:30.274] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.65924835205078) to VERY_HIGH (avg. 56.53676986694336)
+[26Jul2025 03:26:32.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Jul2025 03:26:35.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> no saca nada
+[26Jul2025 03:26:38.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.53676986694336) to HIGH (avg. 53.405372619628906)
+[26Jul2025 03:26:49.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[26Jul2025 03:26:55.874] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.405372619628906) to VERY_HIGH (avg. 58.29076385498047)
+[26Jul2025 03:27:04.527] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.29076385498047) to HIGH (avg. 54.991363525390625)
+[26Jul2025 03:27:07.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[26Jul2025 03:27:21.204] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.991363525390625) to NORMAL (avg. 45.16450881958008)
+[26Jul2025 03:27:35.172] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.16450881958008) to MEDIUM (avg. 48.325767517089844)
+[26Jul2025 03:27:49.979] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.325767517089844) to HIGH (avg. 49.006248474121094)
+[26Jul2025 03:28:04.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.006248474121094) to MEDIUM (avg. 46.66930389404297)
+[26Jul2025 03:28:06.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> pelle
+[26Jul2025 03:28:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> vos
+[26Jul2025 03:28:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> 80 niveles para un encantamiento normal
+[26Jul2025 03:28:19.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que me lo coma
+[26Jul2025 03:28:19.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.66930389404297) to NORMAL (avg. 45.18948745727539)
+[26Jul2025 03:28:25.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> pailas para que baja
+[26Jul2025 03:28:34.963] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.18948745727539) to MEDIUM (avg. 47.031707763671875)
