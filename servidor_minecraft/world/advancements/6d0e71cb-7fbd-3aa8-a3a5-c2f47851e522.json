@@ -13078,6 +13078,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/light_blue_table_cloth_clear": {
+    "criteria": {
+      "has_light_blue_table_cloth": "2025-07-26 04:03:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
       "has_compacting_upgrade": "2025-07-26 01:21:31 +0000"

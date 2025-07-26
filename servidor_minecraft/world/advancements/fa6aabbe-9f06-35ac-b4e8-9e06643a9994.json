@@ -9486,6 +9486,12 @@
     },
     "done": true
   },
+  "inventorypets:wolf": {
+    "criteria": {
+      "crafting_table": "2025-07-26 04:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_trapdoor_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 03:55:40 +0000"
