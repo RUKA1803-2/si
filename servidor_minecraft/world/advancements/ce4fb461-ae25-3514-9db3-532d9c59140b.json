@@ -12211,15 +12211,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/chandelier_candle": {
-    "criteria": {
-      "has_honey": "2025-07-26 01:57:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-07-26 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-26 01:57:27 +0000"
     },
     "done": true
   },
@@ -12232,6 +12232,24 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-26 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:politicallycorrect": {
+    "criteria": {
+      "crafting_table": "2025-07-26 02:18:24 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:generalist": {
+    "criteria": {
+      "example": "2025-07-26 02:18:24 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:use_meta": {
+    "criteria": {
+      "example": "2025-07-26 02:18:24 +0000"
     },
     "done": true
   },

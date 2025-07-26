@@ -15565,3 +15565,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [26Jul2025 02:17:12.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.695682525634766) to NORMAL (avg. 40.347145080566406)
 [26Jul2025 02:17:14.010] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 33 secs.
 [26Jul2025 02:17:14.010] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[26Jul2025 02:17:20.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.347145080566406) to MEDIUM (avg. 46.944122314453125)
+[26Jul2025 02:17:27.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.944122314453125) to NORMAL (avg. 41.05088806152344)
+[26Jul2025 02:17:42.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.05088806152344) to LOW (avg. 39.470523834228516)
+[26Jul2025 02:17:49.246] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 02:17:49.296] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 02:17:49.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 02:17:49.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 02:17:57.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.470523834228516) to NORMAL (avg. 43.502174377441406)
+[26Jul2025 02:18:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [So Meta]
+[26Jul2025 02:18:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Generalist]
+[26Jul2025 02:18:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Happy Holidays!]
+[26Jul2025 02:18:50.213] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.2252311706543) to MEDIUM (avg. 46.36774444580078)
+[26Jul2025 02:19:05.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.36774444580078) to NORMAL (avg. 40.86967468261719)
+[26Jul2025 02:21:28.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1315461, l='ServerLevel[world]', x=1121.43, y=51.25, z=-188.57] died, message: 'Leatherworker was cooked alive'
+[26Jul2025 02:22:05.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.728118896484375) to LOW (avg. 39.54863357543945)
+[26Jul2025 02:22:12.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.54863357543945) to NORMAL (avg. 42.75161361694336)
+[26Jul2025 02:22:35.211] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.07154083251953) to MEDIUM (avg. 47.61056900024414)
+[26Jul2025 02:22:49.236] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[26Jul2025 02:22:49.286] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[26Jul2025 02:22:49.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 02:22:49.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 02:22:50.302] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.61056900024414) to LOW (avg. 39.68701171875)
+[26Jul2025 02:23:05.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.68701171875) to NORMAL (avg. 41.69118118286133)
+[26Jul2025 02:23:08.995] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
+[26Jul2025 02:23:50.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.65293884277344) to LOW (avg. 39.03895568847656)
+[26Jul2025 02:23:57.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.03895568847656) to NORMAL (avg. 41.872127532958984)
+[26Jul2025 02:24:05.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.872127532958984) to LOW (avg. 39.536067962646484)
+[26Jul2025 02:24:27.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.87628936767578) to NORMAL (avg. 40.82966232299805)
+[26Jul2025 02:24:57.721] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.101322174072266) to MEDIUM (avg. 46.42774200439453)
+[26Jul2025 02:25:12.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.42774200439453) to NORMAL (avg. 41.89646530151367)
+[26Jul2025 02:25:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Delving Into Darkness]
+[26Jul2025 02:26:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Delving Into Darkness]
+[26Jul2025 02:27:20.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.84975814819336) to MEDIUM (avg. 47.24491882324219)
