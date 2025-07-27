@@ -13380,6 +13380,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-27 23:18:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
@@ -13395,6 +13401,18 @@
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-07-27 23:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-27 23:18:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/green_table_cloth_clear": {
+    "criteria": {
+      "has_green_table_cloth": "2025-07-27 23:12:16 +0000"
     },
     "done": true
   },
@@ -13551,6 +13569,12 @@
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-07-27 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-27 23:18:46 +0000"
     },
     "done": true
   },

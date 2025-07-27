@@ -14596,6 +14596,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 22:16:45 +0000"
@@ -14614,15 +14620,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-27 23:07:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
       "has_dragonscale_blue": "2025-07-27 23:01:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-27 23:17:47 +0000"
     },
     "done": true
   },
@@ -14635,6 +14677,30 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-27 23:14:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
     },
     "done": true
   },
@@ -14668,6 +14734,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
     "criteria": {
       "has_dragonscale_silver": "2025-07-27 22:16:42 +0000"
@@ -14680,9 +14752,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
     },
     "done": true
   },
@@ -14692,9 +14794,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_magenta": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:14:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-27 23:14:34 +0000"
     },
     "done": true
   },
@@ -14704,15 +14824,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "inventorypets:slime": {
     "criteria": {
       "crafting_table": "2025-07-27 21:58:32 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window_pane": {
     "criteria": {
       "has_ingredient": "2025-07-27 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-27 23:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-27 23:17:47 +0000"
     },
     "done": true
   },
@@ -14734,9 +14902,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-07-27 22:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
     },
     "done": true
   },
@@ -14746,9 +14938,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-07-27 22:27:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs": {
+    "criteria": {
+      "has_cut_asurine": "2025-07-27 23:17:47 +0000"
     },
     "done": true
   },

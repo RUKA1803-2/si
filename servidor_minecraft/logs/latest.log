@@ -3449,3 +3449,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 23:10:28.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Jul2025 23:10:38.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
 [27Jul2025 23:10:58.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4384ms or 87 ticks behind
+[27Jul2025 23:11:17.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[27Jul2025 23:11:34.763] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.20463562011719) to HIGH (avg. 52.83525085449219)
+[27Jul2025 23:11:35.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[27Jul2025 23:11:53.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[27Jul2025 23:12:00.048] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.13602066040039) to VERY_HIGH (avg. 56.10039138793945)
+[27Jul2025 23:12:08.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.10039138793945) to HIGH (avg. 54.02290344238281)
+[27Jul2025 23:12:12.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:12:16.924] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.02290344238281) to VERY_HIGH (avg. 60.356685638427734)
+[27Jul2025 23:12:29.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[27Jul2025 23:12:42.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.73465347290039) to HIGH (avg. 54.743003845214844)
+[27Jul2025 23:12:46.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[27Jul2025 23:13:00.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.743003845214844) to VERY_HIGH (avg. 55.58718490600586)
+[27Jul2025 23:13:04.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[27Jul2025 23:13:23.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3785ms or 75 ticks behind
+[27Jul2025 23:13:36.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Edson the Really Cool'/4092050, l='ServerLevel[world]', x=3488.57, y=-35.00, z=2306.43] died: Edson the Really Cool was slain by Pancho
+[27Jul2025 23:13:40.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[27Jul2025 23:13:45.454] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.392303466796875) to HIGH (avg. 53.83997344970703)
+[27Jul2025 23:13:57.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[27Jul2025 23:14:02.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.83997344970703) to VERY_HIGH (avg. 56.3443603515625)
+[27Jul2025 23:14:15.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[27Jul2025 23:14:33.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[27Jul2025 23:14:51.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[27Jul2025 23:15:05.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.17627716064453) to HIGH (avg. 54.17457962036133)
+[27Jul2025 23:15:09.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[27Jul2025 23:15:22.761] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.17457962036133) to VERY_HIGH (avg. 56.402061462402344)
+[27Jul2025 23:15:25.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Carlton'/4146414, l='ServerLevel[world]', x=3539.59, y=-9.00, z=2145.70] died: Carlton was slain by Pancho
+[27Jul2025 23:15:26.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[27Jul2025 23:15:31.381] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.402061462402344) to HIGH (avg. 54.284584045410156)
+[27Jul2025 23:15:43.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[27Jul2025 23:15:57.772] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jul2025 23:15:58.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jul2025 23:16:02.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:16:13.578] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.41584777832031) to VERY_HIGH (avg. 55.72812271118164)
+[27Jul2025 23:16:20.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Jul2025 23:16:37.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[27Jul2025 23:16:55.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[27Jul2025 23:17:12.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Jul2025 23:17:13.435] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.17738723754883) to HIGH (avg. 52.976253509521484)
+[27Jul2025 23:17:22.366] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.976253509521484) to VERY_HIGH (avg. 63.74969482421875)
+[27Jul2025 23:17:30.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[27Jul2025 23:17:47.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[27Jul2025 23:17:57.028] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.61910629272461) to HIGH (avg. 53.860382080078125)
+[27Jul2025 23:18:04.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[27Jul2025 23:18:14.553] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.860382080078125) to VERY_HIGH (avg. 61.67823028564453)
+[27Jul2025 23:18:23.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[27Jul2025 23:18:43.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[27Jul2025 23:19:02.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[27Jul2025 23:19:13.251] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 82.16984558105469) to HIGH (avg. 54.22874069213867)
+[27Jul2025 23:19:21.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[27Jul2025 23:19:31.534] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.22874069213867) to VERY_HIGH (avg. 63.880096435546875)
+[27Jul2025 23:19:39.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
+[27Jul2025 23:19:58.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[27Jul2025 23:20:16.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[27Jul2025 23:20:34.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[27Jul2025 23:20:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Splat!]
+[27Jul2025 23:20:52.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[27Jul2025 23:21:11.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[27Jul2025 23:21:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Order Up!]
+[27Jul2025 23:21:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Hungry hoppers]
