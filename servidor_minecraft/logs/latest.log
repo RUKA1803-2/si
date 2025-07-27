@@ -2063,3 +2063,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 04:25:15.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.17653274536133) to LOW (avg. 34.74409484863281)
 [27Jul2025 04:25:34.414] [Server thread/WARN] [APTweaks(Player)/]: User validation for Pancho timed out after 90 secs.
 [27Jul2025 04:25:34.415] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[27Jul2025 04:30:19.763] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[27Jul2025 04:32:21.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[27Jul2025 04:32:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 04:32:30.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.140365600585938) to VERY_LOW (avg. 2.4372150897979736)
+[27Jul2025 04:32:44.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:54255] logged in with entity id 156508 at (1135.6864510848145, 63.0, -227.157767181531)
+[27Jul2025 04:32:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[27Jul2025 04:32:44.984] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/156508, l='ServerLevel[world]', x=1135.69, y=63.00, z=-227.16] logged in and will be protected for 90 secs.
+[27Jul2025 04:32:46.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.4372150897979736) to LOW (avg. 28.63862419128418)
+[27Jul2025 04:33:19.764] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 34 secs.
+[27Jul2025 04:33:19.765] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[27Jul2025 04:34:37.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[27Jul2025 04:34:37.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 04:34:37.966] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.864810943603516) to NORMAL (avg. 43.76181411743164)
+[27Jul2025 04:34:52.964] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.76181411743164) to VERY_LOW (avg. 2.351864814758301)
