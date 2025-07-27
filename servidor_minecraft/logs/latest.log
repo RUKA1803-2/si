@@ -2150,3 +2150,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 05:00:36.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [27Jul2025 05:00:52.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.13595199584961) to MEDIUM (avg. 47.743553161621094)
 [27Jul2025 05:00:57.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[27Jul2025 05:01:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[27Jul2025 05:01:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> 2 cosas
+[27Jul2025 05:01:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> la primera
+[27Jul2025 05:01:16.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.106712341308594) to VERY_HIGH (avg. 60.43416976928711)
+[27Jul2025 05:01:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> podes llamada?
+[27Jul2025 05:01:20.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> la segunda
+[27Jul2025 05:01:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> hagase tp agachando
+[27Jul2025 05:01:30.726] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.43416976928711) to HIGH (avg. 50.162025451660156)
+[27Jul2025 05:01:45.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.162025451660156) to NORMAL (avg. 45.06554412841797)
+[27Jul2025 05:02:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Another Stronghold?!]
+[27Jul2025 05:02:45.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.462852478027344) to MEDIUM (avg. 46.191192626953125)
+[27Jul2025 05:02:47.838] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:02:53.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.191192626953125) to NORMAL (avg. 44.15168762207031)
+[27Jul2025 05:03:09.686] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:03:18.384] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:03:19.934] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:03:23.034] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:03:53.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.103946685791016) to MEDIUM (avg. 46.77350997924805)
+[27Jul2025 05:04:00.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.77350997924805) to NORMAL (avg. 44.912132263183594)
+[27Jul2025 05:04:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Palette Swap]
+[27Jul2025 05:04:53.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.56230545043945) to MEDIUM (avg. 47.642578125)
+[27Jul2025 05:05:08.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.642578125) to NORMAL (avg. 41.90971374511719)
+[27Jul2025 05:05:18.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/414868, l='ServerLevel[world]', x=1086.30, y=68.41, z=-223.70] died: Undead Knight was slain by XxLarryGoatxX
+[27Jul2025 05:05:43.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Another Stronghold?!]
+[27Jul2025 05:05:45.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.20829772949219) to LOW (avg. 25.07184410095215)
+[27Jul2025 05:06:43.078] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:08:55.128] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:09:26.330] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:10:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Wasn't that a Shulker?]

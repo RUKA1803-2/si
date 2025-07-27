@@ -2052,6 +2052,7 @@
       "minecraft:wither_skeleton": "2025-07-23 05:24:19 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
       "minecraft:ender_dragon": "2025-07-26 05:34:31 +0000",
+      "minecraft:shulker": "2025-07-27 05:02:46 +0000",
       "minecraft:cave_spider": "2025-07-26 05:00:45 +0000",
       "minecraft:piglin": "2025-07-21 22:33:48 +0000",
       "minecraft:enderman": "2025-07-21 21:18:38 +0000",
@@ -13156,6 +13157,18 @@
   "create:recipes/misc/crafting/logistics/black_table_cloth_clear": {
     "criteria": {
       "has_black_table_cloth": "2025-07-27 04:52:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-27 05:02:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-27 05:04:16 +0000"
     },
     "done": true
   },
