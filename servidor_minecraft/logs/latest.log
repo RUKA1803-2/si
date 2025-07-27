@@ -2066,3 +2066,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 20:48:47.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.191364288330078) to NORMAL (avg. 40.90997314453125)
 [27Jul2025 20:48:54.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.90997314453125) to LOW (avg. 30.71539306640625)
 [27Jul2025 20:51:27.142] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[27Jul2025 20:58:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> 101
+[27Jul2025 21:03:51.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/667, l='ServerLevel[world]', x=1116.44, y=69.00, z=-167.57] died, message: 'Villager was slain by Ernos'
+[27Jul2025 21:04:37.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 0.7031868311444214,-0.007880997080448537,-10.122857718345102
+[27Jul2025 21:04:57.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! -1.0150346019579501,0.0,-10.091576689085741
+[27Jul2025 21:07:50.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[27Jul2025 21:07:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 21:07:50.912] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 21:08:02.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.46728515625) to VERY_LOW (avg. 2.0913188457489014)

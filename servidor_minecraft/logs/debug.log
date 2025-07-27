@@ -13652,3 +13652,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [27Jul2025 20:54:09.043] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [27Jul2025 20:54:09.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 20:54:09.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 20:58:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> 101
+[27Jul2025 20:59:08.989] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 20:59:09.044] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 20:59:09.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:59:09.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:03:51.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/667, l='ServerLevel[world]', x=1116.44, y=69.00, z=-167.57] died, message: 'Villager was slain by Ernos'
+[27Jul2025 21:04:08.980] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 21:04:09.033] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 21:04:09.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:04:09.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:04:37.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 0.7031868311444214,-0.007880997080448537,-10.122857718345102
+[27Jul2025 21:04:57.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! -1.0150346019579501,0.0,-10.091576689085741
+[27Jul2025 21:07:50.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[27Jul2025 21:07:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 21:07:50.912] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 21:08:02.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.46728515625) to VERY_LOW (avg. 2.0913188457489014)
