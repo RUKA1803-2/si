@@ -1766,6 +1766,7 @@
       "minecraft:cold_ocean": "2025-07-22 21:43:56 +0000",
       "minecraft:forest": "2025-07-18 23:59:35 +0000",
       "minecraft:lush_caves": "2025-07-25 00:14:45 +0000",
+      "minecraft:desert": "2025-07-27 23:23:08 +0000",
       "minecraft:ocean": "2025-07-20 18:22:28 +0000",
       "minecraft:jungle": "2025-07-24 23:48:27 +0000",
       "minecraft:windswept_savanna": "2025-07-20 00:15:03 +0000",
@@ -14584,6 +14585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-27 23:24:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-07-27 22:16:45 +0000"
@@ -14605,6 +14612,18 @@
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 22:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-27 23:19:16 +0000"
     },
     "done": true
   },
@@ -14644,6 +14663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-07-27 23:12:12 +0000"
@@ -14653,6 +14678,18 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-07-27 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-07-27 23:24:07 +0000"
     },
     "done": true
   },
@@ -14674,6 +14711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_stairs": "2025-07-27 23:20:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
@@ -14686,6 +14729,18 @@
     },
     "done": true
   },
+  "inventorypets:banana": {
+    "criteria": {
+      "crafting_table": "2025-07-27 23:20:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-27 23:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2025-07-27 23:14:34 +0000"
@@ -14695,6 +14750,12 @@
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-27 23:19:16 +0000"
     },
     "done": true
   },
@@ -14725,6 +14786,18 @@
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-07-27 21:57:59 +0000"
+    },
+    "done": true
+  },
+  "create:stock_ticker": {
+    "criteria": {
+      "0": "2025-07-27 23:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:frogport": {
+    "criteria": {
+      "0": "2025-07-27 23:21:18 +0000"
     },
     "done": true
   },
@@ -14761,6 +14834,12 @@
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-27 23:24:16 +0000"
     },
     "done": true
   },
@@ -14836,6 +14915,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-27 23:19:16 +0000"
+    },
+    "done": true
+  },
   "inventorypets:slime": {
     "criteria": {
       "crafting_table": "2025-07-27 21:58:32 +0000"
@@ -14857,6 +14942,12 @@
   "immersive_weathering:recipes/honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:23:22 +0000"
     },
     "done": true
   },
@@ -14890,6 +14981,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-07-27 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
+    "criteria": {
+      "has_dragonscale_black": "2025-07-27 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/endshelf": {
     "criteria": {
       "endshelf": "2025-07-27 22:49:36 +0000"
@@ -14917,6 +15026,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-07-27 23:23:48 +0000"
     },
     "done": true
   },
@@ -14950,9 +15065,27 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-27 23:19:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_stairs": {
     "criteria": {
       "has_cut_asurine": "2025-07-27 23:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-27 23:24:07 +0000"
     },
     "done": true
   },

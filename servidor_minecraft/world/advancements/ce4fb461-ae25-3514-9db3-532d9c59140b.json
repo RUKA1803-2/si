@@ -1774,6 +1774,7 @@
       "minecraft:snowy_slopes": "2025-07-20 20:16:24 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-20 05:53:45 +0000",
       "minecraft:taiga": "2025-07-20 05:02:58 +0000",
+      "minecraft:eroded_badlands": "2025-07-27 23:26:58 +0000",
       "minecraft:frozen_river": "2025-07-21 03:25:35 +0000",
       "minecraft:sunflower_plains": "2025-07-20 21:32:14 +0000",
       "minecraft:birch_forest": "2025-07-20 20:58:29 +0000",
@@ -13380,12 +13381,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-27 23:18:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
@@ -13452,6 +13447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-27 23:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-07-27 22:51:18 +0000"
@@ -13491,6 +13492,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-27 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-27 23:19:21 +0000"
     },
     "done": true
   },
@@ -13563,6 +13570,12 @@
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-07-27 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-27 23:23:37 +0000"
     },
     "done": true
   },
