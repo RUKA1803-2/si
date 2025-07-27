@@ -13018,77 +13018,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
+      "has_compacting_upgrade": "2025-07-26 01:21:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
+      "has_dragonscale_black": "2025-07-26 01:27:23 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-26 04:21:50 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
@@ -13096,9 +13036,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
-      "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
+      "has_eye_armor_trim_smithing_template": "2025-07-26 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-26 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-26 01:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-26 01:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-26 01:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-26 02:06:02 +0000"
     },
     "done": true
   },
@@ -13108,13 +13078,115 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
-      "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
+      "has_pure_blood": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-07-26 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_recycling": {
+    "criteria": {
+      "has_cut_crimsite_slab": "2025-07-26 02:20:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-07-26 02:25:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-07-26 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:dirt": {
+    "criteria": {
+      "crafting_table": "2025-07-26 02:36:02 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-07-26 02:37:54 +0000"
     },
@@ -13126,51 +13198,45 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "requirement": "2025-07-26 03:39:57 +0000"
+      "has_beetroot": "2025-07-26 02:38:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "apotheosis:enchanting/quanta100": {
     "criteria": {
-      "has_black_wool": "2025-07-26 04:11:03 +0000"
+      "enchanted_item": "2025-07-26 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 02:45:19 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:shadow_treads": {
+    "criteria": {
+      "has_item": "2025-07-26 03:13:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:sponge": {
-    "criteria": {
-      "crafting_table": "2025-07-26 03:32:59 +0000"
-    },
-    "done": true
-  },
-  "terramity:stairway_to_heaven_advancement": {
-    "criteria": {
-      "stairway_to_heaven_advancement_0": "2025-07-26 04:12:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/light_blue_table_cloth_clear": {
-    "criteria": {
-      "has_light_blue_table_cloth": "2025-07-26 04:03:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
-    "criteria": {
-      "has_compacting_upgrade": "2025-07-26 01:21:31 +0000"
     },
     "done": true
   },
@@ -13198,45 +13264,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/general/tombstone1": {
-    "criteria": {
-      "has_tomb": "2025-07-26 04:20:11 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/tombstone3": {
-    "criteria": {
-      "has_tomb": "2025-07-26 04:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/quanta100": {
-    "criteria": {
-      "enchanted_item": "2025-07-26 02:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-26 04:11:03 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
-    "criteria": {
-      "has_pure_blood": "2025-07-26 02:08:14 +0000"
     },
     "done": true
   },
@@ -13246,81 +13276,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-07-26 02:37:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_slab_recycling": {
-    "criteria": {
-      "has_cut_crimsite_slab": "2025-07-26 02:20:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-07-26 02:38:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-07-26 02:37:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/purple_table_cloth_clear": {
-    "criteria": {
-      "has_purple_table_cloth": "2025-07-26 03:28:47 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2025-07-26 02:08:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2025-07-26 02:08:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/bamboo_window_pane": {
-    "criteria": {
-      "has_ingredient": "2025-07-26 04:12:44 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_black": {
-    "criteria": {
-      "has_wool": "2025-07-26 04:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/deepshelf": {
-    "criteria": {
-      "deepshelf": "2025-07-26 02:25:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
-    "criteria": {
-      "has_pure_blood": "2025-07-26 02:08:14 +0000"
     },
     "done": true
   },
@@ -13333,12 +13291,6 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
     },
     "done": true
   },
@@ -13366,111 +13318,9 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/80ench": {
-    "criteria": {
-      "enchanted_item": "2025-07-26 02:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-07-26 04:11:03 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:sheep": {
-    "criteria": {
-      "crafting_table": "2025-07-26 03:37:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/light_gray_table_cloth_clear": {
-    "criteria": {
-      "has_light_gray_table_cloth": "2025-07-26 03:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-07-26 02:06:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/cyan_table_cloth_clear": {
-    "criteria": {
-      "has_cyan_table_cloth": "2025-07-26 03:35:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-26 02:37:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-26 03:23:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-07-26 01:29:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
-    "criteria": {
-      "has_dragonscale_black": "2025-07-26 01:27:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-07-26 01:27:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-07-26 01:31:39 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/mossy_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-07-26 03:29:48 +0000"
-    },
-    "done": true
-  },
-  "chromaticarsenal:shadow_treads": {
-    "criteria": {
-      "has_item": "2025-07-26 03:13:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-07-26 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium_rod": {
-    "criteria": {
-      "limestone": "2025-07-26 02:27:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-07-26 01:29:33 +0000"
     },
     "done": true
   },
@@ -13486,21 +13336,111 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "create:recipes/misc/crafting/logistics/purple_table_cloth_clear": {
     "criteria": {
-      "has_item": "2025-07-26 02:37:54 +0000"
+      "has_purple_table_cloth": "2025-07-26 03:28:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "immersive_weathering:recipes/mossy_bricks": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-07-26 01:55:17 +0000"
+      "has_copper_block": "2025-07-26 03:29:48 +0000"
     },
     "done": true
   },
-  "inventorypets:dirt": {
+  "inventorypets:sponge": {
     "criteria": {
-      "crafting_table": "2025-07-26 02:36:02 +0000"
+      "crafting_table": "2025-07-26 03:32:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/light_gray_table_cloth_clear": {
+    "criteria": {
+      "has_light_gray_table_cloth": "2025-07-26 03:32:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/cyan_table_cloth_clear": {
+    "criteria": {
+      "has_cyan_table_cloth": "2025-07-26 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:sheep": {
+    "criteria": {
+      "crafting_table": "2025-07-26 03:37:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-07-26 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/light_blue_table_cloth_clear": {
+    "criteria": {
+      "has_light_blue_table_cloth": "2025-07-26 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-26 04:11:03 +0000"
+    },
+    "done": true
+  },
+  "terramity:stairway_to_heaven_advancement": {
+    "criteria": {
+      "stairway_to_heaven_advancement_0": "2025-07-26 04:12:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/bamboo_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-26 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone1": {
+    "criteria": {
+      "has_tomb": "2025-07-26 04:20:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone3": {
+    "criteria": {
+      "has_tomb": "2025-07-26 04:20:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_slab": "2025-07-27 01:06:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/sea_serpent_scale_block_red_to_sea_serpent_scales_red": {
+    "criteria": {
+      "has_sea_serpent_scale_block_red": "2025-07-27 01:05:22 +0000"
     },
     "done": true
   },
