@@ -2091,3 +2091,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 04:50:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
 [27Jul2025 04:50:41.551] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/294497, l='ServerLevel[world]', x=1134.49, y=51.00, z=-231.88] logged in and will be protected for 90 secs.
 [27Jul2025 04:50:45.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.8007853031158447) to LOW (avg. 33.10154724121094)
+[27Jul2025 04:51:07.814] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 26 secs.
+[27Jul2025 04:51:07.814] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[27Jul2025 04:51:40.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 0.0,-10.298767427845945,0.0
+[27Jul2025 04:53:17.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[27Jul2025 04:53:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 04:53:30.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.202072143554688) to VERY_LOW (avg. 2.5607101917266846)
+[27Jul2025 04:53:56.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:64124] logged in with entity id 343288 at (1129.4179742039512, 51.0, -195.34370650891665)
+[27Jul2025 04:53:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[27Jul2025 04:53:56.547] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/343288, l='ServerLevel[world]', x=1129.42, y=51.00, z=-195.34] logged in and will be protected for 90 secs.
+[27Jul2025 04:54:00.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.452751874923706) to NORMAL (avg. 41.85981369018555)
+[27Jul2025 04:54:07.964] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.85981369018555) to LOW (avg. 34.01844024658203)
+[27Jul2025 04:54:26.664] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 30 secs.
+[27Jul2025 04:54:26.665] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[27Jul2025 04:54:59.877] [Worker-Main-51/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[27Jul2025 04:55:00.384] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jul2025 04:55:00.385] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jul2025 04:55:00.385] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jul2025 04:55:01.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 100.5,-26.0,0.5
+[27Jul2025 04:55:01.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
+[27Jul2025 04:55:05.414] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 59.50235777) to LOW (avg. 24.86891347)
+[27Jul2025 04:55:19.164] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.75444221496582) to VERY_LOW (avg. 17.77742576599121)
+[27Jul2025 04:55:20.224] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 04:56:45.073] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 04:57:26.664] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.066299438476562) to LOW (avg. 39.888484954833984)
+[27Jul2025 04:57:28.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_end changed from VERY_LOW (avg. 9.32523895) to LOW (avg. 15.07488743)
+[27Jul2025 04:57:41.664] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.888484954833984) to VERY_LOW (avg. 17.1175537109375)
+[27Jul2025 04:57:47.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxLarryGoatxX[/100.70.180.34:55437] logged in with entity id 413767 at (1132.3895806894009, 51.0, -196.74443116989636)
+[27Jul2025 04:57:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX joined the game
+[27Jul2025 04:57:47.921] [Server thread/INFO] [APTweaks(Player)/]: Player XxLarryGoatxX ServerPlayer['XxLarryGoatxX'/413767, l='ServerLevel[world]', x=1132.39, y=51.00, z=-196.74] logged in and will be protected for 90 secs.
+[27Jul2025 04:57:56.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.1175537109375) to MEDIUM (avg. 46.8302116394043)
+[27Jul2025 04:57:57.947] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 24.86891347) to NORMAL (avg. 39.82267586)
+[27Jul2025 04:58:02.219] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 04:58:05.776] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.8302116394043) to HIGH (avg. 51.288604736328125)
+[27Jul2025 04:58:07.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.82267586) to VERY_HIGH (avg. 50.31975302)
+[27Jul2025 04:58:11.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 04:58:29.611] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.418888092041016) to MEDIUM (avg. 48.9032096862793)
+[27Jul2025 04:58:40.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[27Jul2025 04:58:46.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.9032096862793) to VERY_HIGH (avg. 58.92080307006836)
+[27Jul2025 04:58:54.488] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.92080307006836) to HIGH (avg. 51.60914993286133)
+[27Jul2025 04:58:59.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[27Jul2025 04:59:11.134] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.60914993286133) to MEDIUM (avg. 46.536861419677734)
+[27Jul2025 04:59:19.013] [Server thread/WARN] [APTweaks(Player)/]: User validation for XxLarryGoatxX timed out after 90 secs.
+[27Jul2025 04:59:19.014] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invisible from player XxLarryGoatxX!
+[27Jul2025 04:59:19.014] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player XxLarryGoatxX!
+[27Jul2025 04:59:19.581] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.536861419677734) to VERY_HIGH (avg. 61.544349670410156)
+[27Jul2025 04:59:20.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Jul2025 04:59:37.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[27Jul2025 04:59:49.488] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 04:59:49.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[27Jul2025 04:59:55.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[27Jul2025 05:00:03.273] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.29557800292969) to HIGH (avg. 50.94332504272461)
+[27Jul2025 05:00:04.613] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:00:11.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 9.161802610564337,1.0,-4.932955182387218
+[27Jul2025 05:00:12.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Jul2025 05:00:20.012] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.94332504272461) to MEDIUM (avg. 46.460323333740234)
+[27Jul2025 05:00:28.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.460323333740234) to HIGH (avg. 52.051666259765625)
+[27Jul2025 05:00:36.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[27Jul2025 05:00:52.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.13595199584961) to MEDIUM (avg. 47.743553161621094)
+[27Jul2025 05:00:57.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
