@@ -14602,6 +14602,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker_clear": {
+    "criteria": {
+      "has_item": "2025-07-27 23:02:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-07-27 23:01:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
@@ -14644,6 +14662,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
     "criteria": {
       "has_dragonscale_silver": "2025-07-27 22:16:42 +0000"
@@ -14656,9 +14680,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-07-27 22:16:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-27 23:01:49 +0000"
     },
     "done": true
   },
@@ -14671,6 +14713,12 @@
   "create:recipes/building_blocks/birch_window_pane": {
     "criteria": {
       "has_ingredient": "2025-07-27 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:packager": {
+    "criteria": {
+      "0": "2025-07-27 23:05:53 +0000"
     },
     "done": true
   },
