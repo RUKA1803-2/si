@@ -2226,3 +2226,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 21:57:52.145] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
 [27Jul2025 21:58:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Jerry the Undying]
 [27Jul2025 21:58:40.707] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.21598815917969) to MEDIUM (avg. 48.97789764404297)
+[27Jul2025 21:59:03.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.182708740234375) to HIGH (avg. 52.49604415893555)
+[27Jul2025 21:59:10.693] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.49604415893555) to MEDIUM (avg. 48.19956588745117)
+[27Jul2025 21:59:18.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.19956588745117) to HIGH (avg. 52.726356506347656)
+[27Jul2025 21:59:40.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.25605010986328) to NORMAL (avg. 45.13499450683594)
+[27Jul2025 22:00:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que es eso
+[27Jul2025 22:00:10.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.996070861816406) to MEDIUM (avg. 46.91469192504883)
+[27Jul2025 22:00:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.115169525146484) to NORMAL (avg. 45.97346115112305)
+[27Jul2025 22:00:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> que es eso que me dio
+[27Jul2025 22:01:05.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> un guante ahi
+[27Jul2025 22:01:15.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> y la gema'
+[27Jul2025 22:01:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ?
+[27Jul2025 22:01:33.194] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.70372009277344) to MEDIUM (avg. 47.78234100341797)
+[27Jul2025 22:01:40.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.78234100341797) to NORMAL (avg. 45.58724594116211)
+[27Jul2025 22:02:03.273] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.406097412109375) to HIGH (avg. 50.885231018066406)
+[27Jul2025 22:02:10.781] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.885231018066406) to NORMAL (avg. 45.77330017089844)
+[27Jul2025 22:02:25.852] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.77330017089844) to HIGH (avg. 49.35719299316406)
+[27Jul2025 22:02:42.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/989371, l='ServerLevel[world]', x=1151.85, y=66.90, z=-176.23] died, message: 'Weaponsmith was slain by Vampire Hunter'
+[27Jul2025 22:02:43.474] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.720525159999994) to VERY_HIGH (avg. 56.94082549)
+[27Jul2025 22:02:57.598] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.68012619018555) to MEDIUM (avg. 47.16838073730469)
+[27Jul2025 22:03:12.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.16838073730469) to NORMAL (avg. 45.80184555053711)
+[27Jul2025 22:03:19.586] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.80184555053711) to MEDIUM (avg. 47.39821243286133)
+[27Jul2025 22:03:26.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.39821243286133) to HIGH (avg. 49.1060791015625)
+[27Jul2025 22:03:48.196] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.205360412597656) to MEDIUM (avg. 48.84587097167969)
+[27Jul2025 22:03:53.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fisherman'/1226477, l='ServerLevel[world]', x=1114.69, y=67.00, z=-170.46] died, message: 'Fisherman was slain by Vampire Hunter'
+[27Jul2025 22:04:40.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.308040618896484) to NORMAL (avg. 45.175384521484375)
+[27Jul2025 22:04:48.194] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.175384521484375) to MEDIUM (avg. 48.57705307006836)
+[27Jul2025 22:04:55.709] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.57705307006836) to HIGH (avg. 50.31877899169922)
+[27Jul2025 22:04:59.132] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[27Jul2025 22:04:59.133] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[27Jul2025 22:05:10.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.31877899169922) to NORMAL (avg. 45.09364318847656)
+[27Jul2025 22:05:21.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [They Never Prosper]
+[27Jul2025 22:05:38.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has completed the challenge [Staff of Blood]
+[27Jul2025 22:05:38.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [No Longer Short-Staffed]
+[27Jul2025 22:05:48.206] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.477203369140625) to HIGH (avg. 50.372589111328125)
+[27Jul2025 22:05:55.696] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.372589111328125) to MEDIUM (avg. 47.800804138183594)
+[27Jul2025 22:06:10.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.800804138183594) to NORMAL (avg. 45.76369094848633)
+[27Jul2025 22:06:18.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.76369094848633) to MEDIUM (avg. 48.67518615722656)
+[27Jul2025 22:06:40.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.78873062133789) to NORMAL (avg. 42.97368240356445)
+[27Jul2025 22:07:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.496063232421875) to MEDIUM (avg. 46.9251823425293)
+[27Jul2025 22:07:10.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.9251823425293) to NORMAL (avg. 44.68887710571289)
+[27Jul2025 22:07:33.193] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.106903076171875) to MEDIUM (avg. 46.58623504638672)
+[27Jul2025 22:07:40.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.58623504638672) to NORMAL (avg. 42.3193244934082)
+[27Jul2025 22:07:55.633] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[27Jul2025 22:08:03.196] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.068904876708984) to MEDIUM (avg. 48.370765686035156)
+[27Jul2025 22:08:33.302] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.42634201049805) to HIGH (avg. 49.28257751464844)
+[27Jul2025 22:08:48.441] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.28257751464844) to MEDIUM (avg. 48.51963424682617)
+[27Jul2025 22:09:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.51963424682617) to NORMAL (avg. 45.41027069091797)
+[27Jul2025 22:09:10.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.41027069091797) to HIGH (avg. 49.26470947265625)
