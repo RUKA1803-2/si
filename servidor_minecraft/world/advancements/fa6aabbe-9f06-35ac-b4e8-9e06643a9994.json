@@ -10181,6 +10181,12 @@
     },
     "done": true
   },
+  "ars_nouveau:spell_prism": {
+    "criteria": {
+      "has_spell_prism": "2025-07-27 23:38:46 +0000"
+    },
+    "done": true
+  },
   "chromaticarsenal:recipes/combat/copper_ring": {
     "criteria": {
       "has_copper": "2025-07-27 23:02:47 +0000"
@@ -10244,6 +10250,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-07-27 23:32:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-07-27 23:38:16 +0000"
     },
     "done": true
   },
