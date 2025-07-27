@@ -2068,3 +2068,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 01:09:27.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.11577606201172) to LOW (avg. 27.068439483642578)
 [27Jul2025 01:16:04.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.363126754760742) to VERY_LOW (avg. 19.57941436767578)
 [27Jul2025 01:16:19.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.57941436767578) to LOW (avg. 21.36235237121582)
+[27Jul2025 01:21:34.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.781940460205078) to VERY_LOW (avg. 19.973987579345703)
+[27Jul2025 01:21:49.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.973987579345703) to LOW (avg. 21.98320770263672)
+[27Jul2025 01:22:12.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.375804901123047) to VERY_LOW (avg. 19.4737548828125)
+[27Jul2025 01:22:19.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.4737548828125) to LOW (avg. 22.919118881225586)
+[27Jul2025 01:29:25.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12607, l='ServerLevel[world]', x=1186.20, y=65.85, z=-0.99] died: Honeyed Archer suffocated in a wall
+[27Jul2025 01:29:57.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.087852478027344) to VERY_LOW (avg. 19.59638023376465)
+[27Jul2025 01:30:04.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.59638023376465) to LOW (avg. 21.97220230102539)
+[27Jul2025 01:30:12.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.97220230102539) to VERY_LOW (avg. 19.990257263183594)
+[27Jul2025 01:30:19.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.990257263183594) to LOW (avg. 25.85639190673828)
