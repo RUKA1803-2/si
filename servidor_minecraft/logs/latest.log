@@ -2190,3 +2190,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 21:48:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> cuantos niveles necesita?
 [27Jul2025 21:48:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> uno
 [27Jul2025 21:48:35.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> llegue pues
+[27Jul2025 21:48:55.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.314613342285156) to LOW (avg. 35.138519287109375)
+[27Jul2025 21:49:18.369] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.091148376464844) to NORMAL (avg. 45.35309600830078)
+[27Jul2025 21:49:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> vaya
+[27Jul2025 21:49:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> se acumularon demasiados
+[27Jul2025 21:49:38.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XD
+[27Jul2025 21:49:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.347068786621094) to LOW (avg. 37.198081970214844)
+[27Jul2025 21:50:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ojo lo cojen
+[27Jul2025 21:50:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tiene ojo de arañ?
+[27Jul2025 21:50:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> no se
+[27Jul2025 21:50:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mire en los cofres
+[27Jul2025 21:51:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.49512481689453) to NORMAL (avg. 40.151161193847656)
+[27Jul2025 21:51:18.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.151161193847656) to LOW (avg. 39.00986099243164)
+[27Jul2025 21:51:25.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.00986099243164) to NORMAL (avg. 40.26325988769531)
+[27Jul2025 21:51:40.695] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.26325988769531) to LOW (avg. 35.724342346191406)
+[27Jul2025 21:51:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> aqui
+[27Jul2025 21:52:04.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1463655, l='ServerLevel[world]', x=1132.50, y=-4.00, z=-136.50]
+[27Jul2025 21:52:16.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> gracias
+[27Jul2025 21:52:25.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> dnd
+[27Jul2025 21:54:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.77429962158203) to NORMAL (avg. 40.26224899291992)
+[27Jul2025 21:55:18.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.19060516357422) to LOW (avg. 37.88835906982422)
+[27Jul2025 21:56:31.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> flores
+[27Jul2025 21:56:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> marquele amiler
+[27Jul2025 21:56:40.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> para?
+[27Jul2025 21:56:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> va a jugar?
+[27Jul2025 21:56:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> jugar
+[27Jul2025 21:56:51.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> i
+[27Jul2025 21:56:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> a
+[27Jul2025 21:56:55.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> y cuantas horas queda
+[27Jul2025 21:57:25.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilerinotFound[/100.123.100.53:51509] logged in with entity id 1596605 at (1157.654383243941, 67.0, -175.38812905134662)
+[27Jul2025 21:57:25.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound joined the game
+[27Jul2025 21:57:25.973] [Server thread/INFO] [APTweaks(Player)/]: Player MilerinotFound ServerPlayer['MilerinotFound'/1596605, l='ServerLevel[world]', x=1157.65, y=67.00, z=-175.39] logged in and will be protected for 90 secs.
+[27Jul2025 21:57:33.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.23779296875) to NORMAL (avg. 45.884979248046875)
+[27Jul2025 21:57:52.145] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MilerinotFound was successful validated after 26 secs.
+[27Jul2025 21:57:52.145] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
+[27Jul2025 21:58:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Jerry the Undying]
+[27Jul2025 21:58:40.707] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.21598815917969) to MEDIUM (avg. 48.97789764404297)

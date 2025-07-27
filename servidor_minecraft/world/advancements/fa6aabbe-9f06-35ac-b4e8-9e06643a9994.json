@@ -9883,5 +9883,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/factory_gauge": {
+    "criteria": {
+      "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link_clear": {
+    "criteria": {
+      "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
