@@ -14584,11 +14584,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
-      "requirement": "2025-07-27 22:14:23 +0000"
+      "has_item": "2025-07-27 22:16:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
@@ -14596,9 +14596,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-27 22:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-07-27 22:16:45 +0000"
     },
     "done": true
   },
@@ -14620,9 +14632,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2025-07-27 22:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-07-27 22:16:45 +0000"
     },
     "done": true
   },
@@ -14632,9 +14656,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-27 22:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-07-27 22:16:45 +0000"
     },
     "done": true
   },
