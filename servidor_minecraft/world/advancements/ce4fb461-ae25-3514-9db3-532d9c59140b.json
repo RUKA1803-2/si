@@ -5391,9 +5391,10 @@
       "minecraft:crimson_forest": "2025-07-23 05:35:16 +0000",
       "minecraft:nether_wastes": "2025-07-21 20:09:09 +0000",
       "minecraft:soul_sand_valley": "2025-07-23 06:19:27 +0000",
-      "minecraft:warped_forest": "2025-07-23 05:22:16 +0000"
+      "minecraft:warped_forest": "2025-07-23 05:22:16 +0000",
+      "minecraft:basalt_deltas": "2025-07-27 22:46:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
@@ -9357,6 +9358,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-07-23 06:39:54 +0000",
+      "incendium:infernal_dunes": "2025-07-27 22:43:23 +0000",
       "incendium:quartz_flats": "2025-07-23 05:54:23 +0000",
       "incendium:toxic_heap": "2025-07-23 06:22:46 +0000",
       "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
@@ -13414,9 +13416,27 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-07-27 22:44:12 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-07-27 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-07-27 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-07-27 22:46:15 +0000"
     },
     "done": true
   },
@@ -13429,6 +13449,18 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-07-27 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-07-27 22:43:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-07-27 22:46:54 +0000"
     },
     "done": true
   },

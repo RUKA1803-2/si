@@ -14626,6 +14626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-27 22:41:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/repackager_from_conversion": {
     "criteria": {
       "has_item": "2025-07-27 22:35:46 +0000"

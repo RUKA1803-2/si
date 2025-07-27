@@ -2424,3 +2424,99 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 22:39:32.256] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.221248626708984) to VERY_HIGH (avg. 58.45812225341797)
 [27Jul2025 22:39:40.598] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.45812225341797) to HIGH (avg. 52.911903381347656)
 [27Jul2025 22:39:47.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Jul2025 22:40:11.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.52317428588867) to NORMAL (avg. 40.595489501953125)
+[27Jul2025 22:40:26.411] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.595489501953125) to HIGH (avg. 49.77485656738281)
+[27Jul2025 22:40:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [verganuel: Set Home at (1173, 80, -174)(-2, 42)]
+[27Jul2025 22:40:33.913] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.77485656738281) to NORMAL (avg. 45.06795120239258)
+[27Jul2025 22:40:48.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.06795120239258) to LOW (avg. 39.740074157714844)
+[27Jul2025 22:41:03.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.740074157714844) to NORMAL (avg. 44.08387756347656)
+[27Jul2025 22:41:30.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[27Jul2025 22:41:31.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 63.399115200000004) to MEDIUM (avg. 41.07036171)
+[27Jul2025 22:41:41.072] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.76486587524414) to VERY_HIGH (avg. 67.91667175292969)
+[27Jul2025 22:41:42.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 11.185608910000001) to LOW (avg. 24.03494166)
+[27Jul2025 22:41:53.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
+[27Jul2025 22:42:14.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
+[27Jul2025 22:42:34.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5374ms or 107 ticks behind
+[27Jul2025 22:42:51.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/3112609, l='ServerLevel[world]', x=63.56, y=52.00, z=305.92] died: Piglin Civilian tried to swim in lava
+[27Jul2025 22:42:54.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4673ms or 93 ticks behind
+[27Jul2025 22:43:11.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[27Jul2025 22:43:23.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Darude - Firestorm]
+[27Jul2025 22:43:29.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
+[27Jul2025 22:43:36.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/3142643, l='ServerLevel[world]', x=-68.62, y=72.20, z=537.67] died: Desert Blaze has been sent to the void whilst trying to fight Pancho
+[27Jul2025 22:43:48.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[27Jul2025 22:43:58.985] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 43.51124555) to HIGH (avg. 46.111369090000004)
+[27Jul2025 22:44:08.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[27Jul2025 22:44:12.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Light-Sensitive]
+[27Jul2025 22:44:12.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/3159634, l='ServerLevel[world]', x=-185.70, y=58.70, z=667.44] died: Desert Blaze has been sent to the void whilst trying to fight Pancho
+[27Jul2025 22:44:28.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
+[27Jul2025 22:44:38.572] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 46.111369090000004) to MEDIUM (avg. 45.82646594)
+[27Jul2025 22:44:47.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[27Jul2025 22:44:48.432] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.82646594) to HIGH (avg. 46.03121249)
+[27Jul2025 22:45:13.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Jul2025 22:45:19.778] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.159481048583984) to HIGH (avg. 54.926490783691406)
+[27Jul2025 22:45:31.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[27Jul2025 22:45:37.989] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.926490783691406) to VERY_HIGH (avg. 55.944732666015625)
+[27Jul2025 22:45:42.802] [Worker-Main-55/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[27Jul2025 22:45:45.788] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:47.925] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:47.926] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:47.953] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:49.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3483ms or 69 ticks behind
+[27Jul2025 22:45:51.328] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:51.329] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:51.329] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:51.459] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:51.459] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:51.490] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Pipe Dream]
+[27Jul2025 22:45:54.439] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:54.442] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:54.746] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:54.747] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:54.748] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:55.108] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:55.109] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:55.109] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:55.166] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:57.509] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:57.510] [Worker-Main-52/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:57.813] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:45:57.814] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:00.208] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:08.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[27Jul2025 22:46:11.384] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:11.860] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:11.884] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:11.885] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:13.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3224247, l='ServerLevel[world]', x=-661.24, y=34.00, z=974.52] died: Pipeline Sentry suffocated in a wall
+[27Jul2025 22:46:15.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has reached the goal [Ceci n'est pas un blaze]
+[27Jul2025 22:46:15.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3218959, l='ServerLevel[world]', x=-564.53, y=86.44, z=1015.07] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:46:16.403] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:16.404] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:16.589] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:16.589] [Worker-Main-56/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:23.568] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:23.569] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:23.569] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Jul2025 22:46:26.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[27Jul2025 22:46:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Hot Tourist Destinations]
+[27Jul2025 22:46:44.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[27Jul2025 22:46:51.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3218961, l='ServerLevel[world]', x=-595.51, y=31.68, z=1015.47] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:46:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [UNLIMITED POWER!!!]
+[27Jul2025 22:47:03.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4084ms or 81 ticks behind
+[27Jul2025 22:47:04.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3217336, l='ServerLevel[world]', x=-569.30, y=31.65, z=1017.44] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:47:22.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[27Jul2025 22:47:41.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
+[27Jul2025 22:48:02.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[27Jul2025 22:48:09.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3226305, l='ServerLevel[world]', x=-674.14, y=33.15, z=1014.86] died: Pipeline Sentry has been sent to the void whilst trying to fight Pancho
+[27Jul2025 22:48:18.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from MilerinotFound: Location (1167.625, 70.15797510743141, -197.5504673421383) too far away from hit block BlockPos{x=1166, y=70, z=-198}.
+[27Jul2025 22:48:21.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has reached the goal [Flawless Crystals]
+[27Jul2025 22:48:22.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[27Jul2025 22:48:42.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4850ms or 97 ticks behind
+[27Jul2025 22:49:01.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
+[27Jul2025 22:49:21.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4381ms or 87 ticks behind
+[27Jul2025 22:49:32.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[27Jul2025 22:49:36.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Dragon-Slaying Enchanter]
+[27Jul2025 22:49:41.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4938ms or 98 ticks behind
+[27Jul2025 22:49:51.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3216000, l='ServerLevel[world]', x=-559.99, y=1.20, z=1019.88] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:49:59.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
