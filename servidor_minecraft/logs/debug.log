@@ -18140,3 +18140,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Jul2025 23:31:12.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 23:31:21.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
 [27Jul2025 23:31:39.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[27Jul2025 23:31:59.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4700ms or 94 ticks behind
+[27Jul2025 23:32:17.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[27Jul2025 23:32:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Desert Pyramid Revamped]
+[27Jul2025 23:32:34.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[27Jul2025 23:32:35.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:32:35.196] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:32:44.355] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.83416748046875) to HIGH (avg. 53.958106994628906)
+[27Jul2025 23:32:52.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[27Jul2025 23:33:01.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.958106994628906) to VERY_HIGH (avg. 61.76435089111328)
+[27Jul2025 23:33:10.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[27Jul2025 23:33:28.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[27Jul2025 23:33:29.963] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:33:47.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4093ms or 81 ticks behind
+[27Jul2025 23:33:48.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:34:01.930] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:34:07.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
+[27Jul2025 23:34:09.778] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 23:34:26.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4647ms or 92 ticks behind
+[27Jul2025 23:34:45.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[27Jul2025 23:35:04.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4384ms or 87 ticks behind
+[27Jul2025 23:35:24.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4602ms or 92 ticks behind
+[27Jul2025 23:35:35.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [185f6ce3-05f6-4a55-bbd3-f5557b83e4a5]
+[27Jul2025 23:35:43.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[27Jul2025 23:36:03.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4958ms or 99 ticks behind
+[27Jul2025 23:36:22.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[27Jul2025 23:36:39.434] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [018c51ac-4e7b-42f5-984c-1432b6b691b8]
+[27Jul2025 23:36:41.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[27Jul2025 23:36:59.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3577ms or 71 ticks behind
+[27Jul2025 23:37:09.467] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.59741973876953) to HIGH (avg. 52.8618278503418)
+[27Jul2025 23:37:11.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c81302d7-a3b5-4cf1-a4d1-a1d2771e55e6]
+[27Jul2025 23:37:15.363] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [c81302d7-a3b5-4cf1-a4d1-a1d2771e55e6]
+[27Jul2025 23:37:17.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[27Jul2025 23:37:18.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.8618278503418) to VERY_HIGH (avg. 59.28388214111328)
+[27Jul2025 23:37:26.581] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 23:37:26.634] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 23:37:26.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:37:26.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:37:36.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[27Jul2025 23:37:55.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4279ms or 85 ticks behind
+[27Jul2025 23:38:14.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
+[27Jul2025 23:38:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Captured!]
+[27Jul2025 23:38:33.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[27Jul2025 23:38:46.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Prismatic Redirection]
+[27Jul2025 23:38:51.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
+[27Jul2025 23:38:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> sa
+[27Jul2025 23:39:10.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
+[27Jul2025 23:39:28.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[27Jul2025 23:39:46.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[27Jul2025 23:40:03.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[27Jul2025 23:40:21.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[27Jul2025 23:40:26.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [5b406c05-1459-418c-811a-17e3fff43ea5]
+[27Jul2025 23:40:26.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [5b406c05-1459-418c-811a-17e3fff43ea5]
+[27Jul2025 23:40:27.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [5b406c05-1459-418c-811a-17e3fff43ea5]
+[27Jul2025 23:40:38.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[27Jul2025 23:40:56.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3140ms or 62 ticks behind
+[27Jul2025 23:41:14.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
+[27Jul2025 23:41:15.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.106178283691406) to HIGH (avg. 54.68834686279297)
+[27Jul2025 23:41:31.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[27Jul2025 23:41:41.161] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.24807357788086) to VERY_HIGH (avg. 61.275875091552734)
+[27Jul2025 23:41:48.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind

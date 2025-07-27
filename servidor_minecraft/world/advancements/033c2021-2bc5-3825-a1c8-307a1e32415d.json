@@ -14759,6 +14759,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
@@ -14939,6 +14945,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-07-27 23:12:12 +0000"
@@ -15038,6 +15050,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
     },
     "done": true
   },

@@ -1754,6 +1754,7 @@
       "minecraft:cherry_grove": "2025-07-19 19:21:01 +0000",
       "minecraft:birch_forest": "2025-07-19 19:36:43 +0000",
       "minecraft:windswept_hills": "2025-07-19 19:48:20 +0000",
+      "minecraft:badlands": "2025-07-27 23:34:06 +0000",
       "minecraft:beach": "2025-07-19 18:21:20 +0000",
       "minecraft:sparse_jungle": "2025-07-20 18:00:46 +0000",
       "minecraft:river": "2025-07-19 00:45:19 +0000",
@@ -1765,6 +1766,7 @@
       "minecraft:jagged_peaks": "2025-07-27 22:21:16 +0000",
       "minecraft:cold_ocean": "2025-07-19 23:26:39 +0000",
       "minecraft:forest": "2025-07-19 00:51:58 +0000",
+      "minecraft:desert": "2025-07-27 23:32:21 +0000",
       "minecraft:ocean": "2025-07-19 19:37:40 +0000",
       "minecraft:jungle": "2025-07-20 17:59:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-20 18:26:21 +0000",
@@ -9909,6 +9911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:32:35 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-27 23:02:47 +0000"
@@ -9933,6 +9941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:32:35 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cheetah": {
     "criteria": {
       "crafting_table": "2025-07-27 22:05:21 +0000"
@@ -9948,6 +9962,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-07-27 23:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 23:34:38 +0000"
     },
     "done": true
   },
@@ -9978,6 +9998,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 23:34:38 +0000"
     },
     "done": true
   },
@@ -10113,6 +10139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 23:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-27 22:55:42 +0000"
@@ -10134,6 +10166,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:32:35 +0000"
     },
     "done": true
   },
@@ -10179,6 +10217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-27 23:32:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
@@ -10194,6 +10238,12 @@
   "create:recipes/misc/crafting/logistics/stock_link_clear": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-27 23:32:21 +0000"
     },
     "done": true
   },
