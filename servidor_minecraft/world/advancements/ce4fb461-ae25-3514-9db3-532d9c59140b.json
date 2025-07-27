@@ -13166,6 +13166,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-07-27 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-07-27 05:24:24 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-07-27 05:04:16 +0000"
@@ -13189,6 +13201,18 @@
       "cataclysm:ender_guardian": "2025-07-27 05:10:33 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-07-27 05:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-07-27 05:24:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

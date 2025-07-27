@@ -16746,3 +16746,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [27Jul2025 05:17:53.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.72903823852539) to NORMAL (avg. 41.423248291015625)
 [27Jul2025 05:19:15.719] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.40620803833008) to MEDIUM (avg. 46.27434539794922)
 [27Jul2025 05:19:23.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.27434539794922) to NORMAL (avg. 42.626529693603516)
+[27Jul2025 05:22:22.090] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 05:22:22.142] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 05:22:22.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 05:22:22.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 05:22:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [The Heart and the Flame]
+[27Jul2025 05:22:30.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.53157043457031) to MEDIUM (avg. 48.879920959472656)
+[27Jul2025 05:22:38.235] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.879920959472656) to HIGH (avg. 49.92292022705078)
+[27Jul2025 05:22:53.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.92292022705078) to NORMAL (avg. 44.856056213378906)
+[27Jul2025 05:22:54.984] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:24:08.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.545127868652344) to MEDIUM (avg. 46.23280334472656)
+[27Jul2025 05:24:15.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.23280334472656) to NORMAL (avg. 44.96781921386719)
+[27Jul2025 05:24:33.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1010746, l='ServerLevel[world]', x=1140.37, y=90.27, z=-166.67] died, message: 'Weaponsmith was slain by Zombie'
+[27Jul2025 05:24:45.718] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.792972564697266) to MEDIUM (avg. 46.04417419433594)
+[27Jul2025 05:24:53.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.04417419433594) to NORMAL (avg. 45.888004302978516)
+[27Jul2025 05:25:45.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.519351959228516) to MEDIUM (avg. 46.405479431152344)
+[27Jul2025 05:26:00.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.405479431152344) to NORMAL (avg. 44.14034652709961)
+[27Jul2025 05:26:15.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.14034652709961) to LOW (avg. 39.27415466308594)
+[27Jul2025 05:26:16.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX was doomed to fall by Shulker
+[27Jul2025 05:26:30.197] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: XxLarryGoatxX has new faction level vampirism:vampire 7
+[27Jul2025 05:26:30.838] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.27415466308594) to MEDIUM (avg. 47.88311004638672)
+[27Jul2025 05:26:45.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.88311004638672) to LOW (avg. 38.04712677001953)
+[27Jul2025 05:27:22.076] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 05:27:22.128] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 05:27:22.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 05:27:22.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 05:29:33.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1357023, l='ServerLevel[world]', x=1115.50, y=-41.00, z=-120.50]
+[27Jul2025 05:30:15.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.173187255859375) to NORMAL (avg. 41.12736892700195)
+[27Jul2025 05:30:30.714] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.12736892700195) to LOW (avg. 38.933658599853516)
+[27Jul2025 05:31:23.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.86614227294922) to NORMAL (avg. 40.387577056884766)
