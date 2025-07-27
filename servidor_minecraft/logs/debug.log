@@ -16596,3 +16596,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [27Jul2025 22:49:51.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3216000, l='ServerLevel[world]', x=-559.99, y=1.20, z=1019.88] died: Pipeline Sentry was slain by Pancho
 [27Jul2025 22:49:51.352] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [27Jul2025 22:49:59.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
+[27Jul2025 22:50:18.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[27Jul2025 22:50:23.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3216603, l='ServerLevel[world]', x=-555.42, y=3.66, z=1055.66] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:50:23.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:50:28.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 48.25250832) to VERY_HIGH (avg. 54.27500081)
+[27Jul2025 22:50:28.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 15.78743954) to VERY_LOW (avg. 14.55245156)
+[27Jul2025 22:50:37.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[27Jul2025 22:50:39.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5501ms or 110 ticks behind
+[27Jul2025 22:50:58.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
+[27Jul2025 22:51:17.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[27Jul2025 22:51:26.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 50.42046207) to HIGH (avg. 49.6892943)
+[27Jul2025 22:51:37.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5155ms or 103 ticks behind
+[27Jul2025 22:51:46.918] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.771971740000005) to VERY_HIGH (avg. 50.75321034)
+[27Jul2025 22:51:57.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 14.77525766) to LOW (avg. 15.65087827)
+[27Jul2025 22:51:58.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
+[27Jul2025 22:52:00.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3218965, l='ServerLevel[world]', x=-581.98, y=59.47, z=1044.72] died: Pipeline Sentry has been sent to the void whilst trying to fight Pancho
+[27Jul2025 22:52:00.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:52:13.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3219198, l='ServerLevel[world]', x=-580.30, y=59.44, z=1062.20] died: Pipeline Sentry was slain by Pancho
+[27Jul2025 22:52:13.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:52:18.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5300ms or 106 ticks behind
+[27Jul2025 22:52:30.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[27Jul2025 22:52:38.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4740ms or 94 ticks behind
+[27Jul2025 22:52:57.753] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 50.84935475) to HIGH (avg. 48.11328945)
+[27Jul2025 22:52:59.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5434ms or 108 ticks behind
+[27Jul2025 22:53:17.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[27Jul2025 22:53:35.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[27Jul2025 22:53:53.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[27Jul2025 22:53:58.811] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.08269500732422) to HIGH (avg. 52.74209976196289)
+[27Jul2025 22:54:14.283] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.74209976196289) to MEDIUM (avg. 48.10049057006836)
+[27Jul2025 22:54:21.132] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 22:54:21.186] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 22:54:21.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 22:54:21.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 22:54:29.579] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.10049057006836) to HIGH (avg. 50.9260139465332)
+[27Jul2025 22:54:56.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[27Jul2025 22:55:00.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.403953552246094) to VERY_HIGH (avg. 56.14768981933594)
+[27Jul2025 22:55:05.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:55:14.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
+[27Jul2025 22:55:32.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[27Jul2025 22:55:36.155] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.00815963745117) to HIGH (avg. 53.94135665893555)
+[27Jul2025 22:55:44.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:55:44.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.94135665893555) to VERY_HIGH (avg. 59.362449645996094)
+[27Jul2025 22:55:49.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[27Jul2025 22:56:06.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[27Jul2025 22:56:24.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[27Jul2025 22:56:42.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[27Jul2025 22:56:46.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[27Jul2025 22:57:01.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[27Jul2025 22:57:19.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[27Jul2025 22:57:38.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[27Jul2025 22:57:56.905] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.864501953125) to MEDIUM (avg. 47.422706604003906)
+[27Jul2025 22:58:19.204] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.45808029174805) to HIGH (avg. 49.46632385253906)
+[27Jul2025 22:59:04.195] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.891380310058594) to MEDIUM (avg. 48.15732955932617)
+[27Jul2025 22:59:12.951] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.84 and blood value 15 for entity iceandfire:lightning_dragon
+[27Jul2025 22:59:27.652] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.60480499267578) to HIGH (avg. 53.17375946044922)
+[27Jul2025 22:59:29.025] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 48.97096698) to VERY_HIGH (avg. 50.90799696)
+[27Jul2025 22:59:36.127] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.17375946044922) to VERY_HIGH (avg. 59.33481216430664)
+[27Jul2025 22:59:36.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Jul2025 22:59:44.351] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.33481216430664) to HIGH (avg. 54.27845764160156)
+[27Jul2025 22:59:51.802] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 22:59:51.850] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 22:59:51.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 22:59:51.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 22:59:53.469] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.27845764160156) to VERY_HIGH (avg. 85.60882568359375)
+[27Jul2025 22:59:53.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[27Jul2025 23:00:13.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[27Jul2025 23:00:14.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 15.17381898) to VERY_LOW (avg. 0.13047098)
+[27Jul2025 23:00:24.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 65.2945556640625) to HIGH (avg. 54.941715240478516)

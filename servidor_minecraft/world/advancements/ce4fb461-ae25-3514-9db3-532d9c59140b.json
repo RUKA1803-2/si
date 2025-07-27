@@ -13380,6 +13380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-27 21:23:37 +0000"
@@ -13392,9 +13398,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-27 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-07-27 22:48:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/light_blue_table_cloth_clear": {
     "criteria": {
       "has_light_blue_table_cloth": "2025-07-27 21:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-27 22:51:18 +0000"
     },
     "done": true
   },
@@ -13422,9 +13452,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-27 22:58:41 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-07-27 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
     },
     "done": true
   },
@@ -13440,9 +13488,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
     },
     "done": true
   },

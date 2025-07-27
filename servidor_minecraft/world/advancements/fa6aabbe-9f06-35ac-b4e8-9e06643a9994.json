@@ -9915,6 +9915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-07-27 22:48:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-07-27 22:16:48 +0000"
@@ -9927,6 +9933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-27 22:55:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/factory_gauge": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
@@ -9936,6 +9948,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-07-27 22:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-27 22:55:42 +0000"
     },
     "done": true
   },
