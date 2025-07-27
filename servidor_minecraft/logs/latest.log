@@ -2077,3 +2077,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 04:34:37.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
 [27Jul2025 04:34:37.966] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.864810943603516) to NORMAL (avg. 43.76181411743164)
 [27Jul2025 04:34:52.964] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.76181411743164) to VERY_LOW (avg. 2.351864814758301)
+[27Jul2025 04:45:06.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:55937] logged in with entity id 194172 at (1135.6864510848145, 63.0, -227.157767181531)
+[27Jul2025 04:45:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[27Jul2025 04:45:06.377] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/194172, l='ServerLevel[world]', x=1135.69, y=63.00, z=-227.16] logged in and will be protected for 90 secs.
+[27Jul2025 04:45:07.964] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.603238344192505) to LOW (avg. 30.893207550048828)
+[27Jul2025 04:45:48.014] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 41 secs.
+[27Jul2025 04:45:48.015] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[27Jul2025 04:46:33.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/222657, l='ServerLevel[world]', x=1122.50, y=-25.00, z=-271.50]
+[27Jul2025 04:50:24.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[27Jul2025 04:50:24.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[27Jul2025 04:50:30.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.464750289916992) to VERY_LOW (avg. 2.8007853031158447)
+[27Jul2025 04:50:41.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:64055] logged in with entity id 294497 at (1134.4868031419005, 51.0, -231.88336394727304)
+[27Jul2025 04:50:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[27Jul2025 04:50:41.551] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/294497, l='ServerLevel[world]', x=1134.49, y=51.00, z=-231.88] logged in and will be protected for 90 secs.
+[27Jul2025 04:50:45.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.8007853031158447) to LOW (avg. 33.10154724121094)
