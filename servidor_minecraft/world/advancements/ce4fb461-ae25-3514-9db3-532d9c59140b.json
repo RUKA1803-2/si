@@ -13172,5 +13172,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_ochrum_slab": "2025-07-27 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-27 05:10:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ender_guardian": "2025-07-27 05:10:33 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

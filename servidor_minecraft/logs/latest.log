@@ -2179,3 +2179,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 05:08:55.128] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
 [27Jul2025 05:09:26.330] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
 [27Jul2025 05:10:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Wasn't that a Shulker?]
+[27Jul2025 05:14:34.278] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[27Jul2025 05:17:08.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 601.4696622297377,-18.49517980009245,1016.5289507661935
+[27Jul2025 05:17:15.917] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.877540588378906) to HIGH (avg. 52.949180603027344)
+[27Jul2025 05:17:23.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.949180603027344) to NORMAL (avg. 43.8785400390625)
+[27Jul2025 05:17:38.216] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.8785400390625) to MEDIUM (avg. 46.72903823852539)
+[27Jul2025 05:17:53.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.72903823852539) to NORMAL (avg. 41.423248291015625)
+[27Jul2025 05:19:15.719] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.40620803833008) to MEDIUM (avg. 46.27434539794922)
+[27Jul2025 05:19:23.214] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.27434539794922) to NORMAL (avg. 42.626529693603516)
