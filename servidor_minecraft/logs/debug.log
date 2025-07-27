@@ -13640,3 +13640,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [27Jul2025 20:45:04.683] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [27Jul2025 20:45:04.683] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [27Jul2025 20:45:04.685] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jul2025 20:48:47.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.191364288330078) to NORMAL (avg. 40.90997314453125)
+[27Jul2025 20:48:54.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.90997314453125) to LOW (avg. 30.71539306640625)
+[27Jul2025 20:49:08.988] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 20:49:09.053] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 20:49:09.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:49:09.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 20:51:27.142] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[27Jul2025 20:51:27.938] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[27Jul2025 20:54:08.991] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 20:54:09.043] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 20:54:09.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:54:09.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

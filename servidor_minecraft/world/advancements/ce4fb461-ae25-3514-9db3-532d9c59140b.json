@@ -13348,5 +13348,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/red_table_cloth_clear": {
+    "criteria": {
+      "has_red_table_cloth": "2025-07-27 20:48:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
