@@ -9883,15 +9883,33 @@
     },
     "done": true
   },
+  "inventorypets:cheetah": {
+    "criteria": {
+      "crafting_table": "2025-07-27 22:05:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/factory_gauge": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-07-27 22:05:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/stock_link_clear": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-07-27 22:05:38 +0000"
     },
     "done": true
   },

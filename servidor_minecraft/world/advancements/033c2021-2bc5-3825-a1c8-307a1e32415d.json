@@ -14584,6 +14584,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-27 22:14:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
