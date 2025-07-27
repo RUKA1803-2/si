@@ -15569,3 +15569,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [27Jul2025 21:36:33.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.7010612487793) to NORMAL (avg. 42.449520111083984)
 [27Jul2025 21:37:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.554725646972656) to LOW (avg. 39.56069564819336)
 [27Jul2025 21:37:55.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.56069564819336) to NORMAL (avg. 43.12751007080078)
+[27Jul2025 21:38:40.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.76105880737305) to MEDIUM (avg. 47.314292907714844)
+[27Jul2025 21:38:42.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 43.75362644) to HIGH (avg. 48.50582911)
+[27Jul2025 21:38:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.314292907714844) to NORMAL (avg. 45.18278121948242)
+[27Jul2025 21:39:17.322] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 21:39:17.377] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 21:39:17.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:39:17.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:39:48.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.878684997558594) to MEDIUM (avg. 47.80134201049805)
+[27Jul2025 21:40:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.80134201049805) to LOW (avg. 39.4372444152832)
+[27Jul2025 21:40:18.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.4372444152832) to NORMAL (avg. 40.65399932861328)
+[27Jul2025 21:40:25.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.65399932861328) to LOW (avg. 39.577064514160156)
+[27Jul2025 21:40:33.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.577064514160156) to NORMAL (avg. 41.821292877197266)
+[27Jul2025 21:40:43.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> flores
+[27Jul2025 21:40:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> cuantos niveles necesita?
+[27Jul2025 21:41:33.219] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.033016204833984) to HIGH (avg. 49.73314666748047)
+[27Jul2025 21:41:36.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> oe
+[27Jul2025 21:41:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> cuantos
+[27Jul2025 21:41:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.73314666748047) to NORMAL (avg. 40.37168884277344)
+[27Jul2025 21:42:17.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/989467, l='ServerLevel[world]', x=1122.70, y=67.00, z=-167.31] died, message: 'Villager was slain by Zombie'
+[27Jul2025 21:42:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.60771942138672) to LOW (avg. 39.3419189453125)
+[27Jul2025 21:43:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.3419189453125) to NORMAL (avg. 42.515625)
+[27Jul2025 21:44:17.303] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 21:44:17.358] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 21:44:17.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:44:17.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:45:48.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.27802658081055) to MEDIUM (avg. 46.46961975097656)
+[27Jul2025 21:46:03.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.46961975097656) to NORMAL (avg. 41.59870529174805)
+[27Jul2025 21:47:42.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> perdon volvi
+[27Jul2025 21:47:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> estaba mirando algo
+[27Jul2025 21:48:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> cuantos niveles necesita?
+[27Jul2025 21:48:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> uno
+[27Jul2025 21:48:35.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> llegue pues
