@@ -9950,6 +9950,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-07-27 22:27:36 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
     "criteria": {
       "requirement": "2025-07-27 22:05:38 +0000"
