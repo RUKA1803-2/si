@@ -2066,3 +2066,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [27Jul2025 01:08:35.305] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [27Jul2025 01:09:12.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.302202224731445) to MEDIUM (avg. 46.11577606201172)
 [27Jul2025 01:09:27.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.11577606201172) to LOW (avg. 27.068439483642578)
+[27Jul2025 01:16:04.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.363126754760742) to VERY_LOW (avg. 19.57941436767578)
+[27Jul2025 01:16:19.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.57941436767578) to LOW (avg. 21.36235237121582)
