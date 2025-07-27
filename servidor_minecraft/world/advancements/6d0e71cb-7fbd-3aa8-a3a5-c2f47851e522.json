@@ -13444,5 +13444,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-07-27 01:38:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
