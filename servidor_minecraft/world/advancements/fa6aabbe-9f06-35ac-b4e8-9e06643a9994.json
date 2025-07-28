@@ -10061,6 +10061,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-28 00:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-28 00:38:17 +0000"

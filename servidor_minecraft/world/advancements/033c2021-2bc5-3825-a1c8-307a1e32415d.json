@@ -14682,9 +14682,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-28 00:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-07-27 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone1": {
+    "criteria": {
+      "has_tomb": "2025-07-28 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone3": {
+    "criteria": {
+      "has_tomb": "2025-07-28 00:45:25 +0000"
     },
     "done": true
   },
@@ -14865,6 +14883,12 @@
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-07-28 00:49:28 +0000"
     },
     "done": true
   },
