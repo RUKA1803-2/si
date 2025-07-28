@@ -2067,3 +2067,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [28Jul2025 05:28:34.947] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.21148681640625) to LOW (avg. 29.081031799316406)
 [28Jul2025 05:29:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Out-of-Place]
 [28Jul2025 05:31:02.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/137627, l='ServerLevel[world]', x=695.50, y=-49.00, z=-1797.50]
+[28Jul2025 05:31:57.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.969472885131836) to NORMAL (avg. 41.1925163269043)
+[28Jul2025 05:32:12.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.1925163269043) to LOW (avg. 28.41002655029297)
+[28Jul2025 05:34:50.768] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[28Jul2025 05:34:50.768] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[28Jul2025 05:38:53.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/294167, l='ServerLevel[world]', x=544.47, y=-25.00, z=-1720.43]
