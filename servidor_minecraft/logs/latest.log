@@ -7,3 +7,41 @@
 [28Jul2025 00:01:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Mastering Hell and Sea]
 [28Jul2025 00:01:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Enchantments from the Depths]
 [28Jul2025 00:01:24.295] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.96500015258789) to MEDIUM (avg. 48.27434158325195)
+[28Jul2025 00:02:24.680] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.60851287841797) to VERY_HIGH (avg. 55.01844024658203)
+[28Jul2025 00:02:32.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[28Jul2025 00:02:34.139] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.01844024658203) to HIGH (avg. 54.823387145996094)
+[28Jul2025 00:02:50.638] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.823387145996094) to VERY_HIGH (avg. 57.11484909057617)
+[28Jul2025 00:02:57.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Jul2025 00:03:06.099] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.11484909057617) to HIGH (avg. 53.26375961303711)
+[28Jul2025 00:03:35.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Jul2025 00:03:38.411] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.77387619018555) to VERY_HIGH (avg. 60.135047912597656)
+[28Jul2025 00:03:46.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.135047912597656) to HIGH (avg. 52.39649963378906)
+[28Jul2025 00:03:57.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[28Jul2025 00:04:03.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.39649963378906) to VERY_HIGH (avg. 59.97640609741211)
+[28Jul2025 00:04:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MilerinotFound: Set Home at (1162, 67, -182)(111, 79)]
+[28Jul2025 00:04:15.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[28Jul2025 00:04:33.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[28Jul2025 00:05:02.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.035240173339844) to MEDIUM (avg. 47.48325729370117)
+[28Jul2025 00:05:16.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.48325729370117) to NORMAL (avg. 43.91802978515625)
+[28Jul2025 00:05:24.773] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.91802978515625) to HIGH (avg. 49.22472381591797)
+[28Jul2025 00:05:31.845] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.22472381591797) to MEDIUM (avg. 48.107704162597656)
+[28Jul2025 00:05:36.285] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3805, y=-34, z=1331}
+[28Jul2025 00:06:09.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.31946563720703) to NORMAL (avg. 40.252891540527344)
+[28Jul2025 00:07:02.378] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4271, y=28, z=1785}
+[28Jul2025 00:07:09.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.01438903808594) to MEDIUM (avg. 46.24392318725586)
+[28Jul2025 00:07:16.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.24392318725586) to NORMAL (avg. 44.754852294921875)
+[28Jul2025 00:07:24.303] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.754852294921875) to HIGH (avg. 49.74446105957031)
+[28Jul2025 00:07:31.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.74446105957031) to MEDIUM (avg. 46.16582489013672)
+[28Jul2025 00:07:46.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.16582489013672) to HIGH (avg. 49.24692916870117)
+[28Jul2025 00:08:01.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.24692916870117) to NORMAL (avg. 45.804588317871094)
+[28Jul2025 00:08:24.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.863304138183594) to MEDIUM (avg. 46.86349105834961)
+[28Jul2025 00:08:31.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.86349105834961) to HIGH (avg. 49.867218017578125)
+[28Jul2025 00:09:01.792] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.953208923339844) to NORMAL (avg. 45.49053955078125)
+[28Jul2025 00:09:46.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.76626205444336) to MEDIUM (avg. 46.911598205566406)
+[28Jul2025 00:10:01.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.911598205566406) to NORMAL (avg. 42.45726013183594)
+[28Jul2025 00:10:54.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.121986389160156) to LOW (avg. 39.25004959106445)
+[28Jul2025 00:11:39.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.78282928466797) to NORMAL (avg. 43.51817321777344)
+[28Jul2025 00:11:46.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.51817321777344) to LOW (avg. 38.91373062133789)
+[28Jul2025 00:12:16.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.27724075317383) to NORMAL (avg. 40.645240783691406)
+[28Jul2025 00:12:24.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.645240783691406) to LOW (avg. 39.500587463378906)
+[28Jul2025 00:12:31.801] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.500587463378906) to MEDIUM (avg. 46.30800247192383)
