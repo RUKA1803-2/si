@@ -14634,6 +14634,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-07-28 01:05:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
@@ -14700,6 +14706,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/nether_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/tombstone1": {
     "criteria": {
       "has_tomb": "2025-07-28 00:45:25 +0000"
@@ -14715,6 +14727,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-07-27 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 01:02:42 +0000"
     },
     "done": true
   },
@@ -14760,6 +14778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 01:02:42 +0000"
+    },
+    "done": true
+  },
   "inventorypets:banana": {
     "criteria": {
       "crafting_table": "2025-07-27 23:20:41 +0000"
@@ -14796,6 +14820,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2025-07-28 01:02:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs": {
     "criteria": {
       "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
@@ -14814,9 +14850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
     },
     "done": true
   },
@@ -14838,6 +14886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "create:stock_ticker": {
     "criteria": {
       "0": "2025-07-27 23:21:16 +0000"
@@ -14847,6 +14901,12 @@
   "create:frogport": {
     "criteria": {
       "0": "2025-07-27 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-07-28 01:06:50 +0000"
     },
     "done": true
   },
@@ -14952,15 +15012,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/80ench": {
     "criteria": {
       "enchanted_item": "2025-07-28 00:01:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
     },
     "done": true
   },
@@ -15024,6 +15102,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-28 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab": {
     "criteria": {
       "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
@@ -15048,6 +15138,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2025-07-28 01:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2025-07-27 23:14:34 +0000"
@@ -15057,6 +15153,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
     },
     "done": true
   },
@@ -15156,6 +15258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 01:04:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
@@ -15180,9 +15288,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-28 01:02:42 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 01:02:42 +0000"
     },
     "done": true
   },
