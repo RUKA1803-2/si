@@ -13735,3 +13735,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [28Jul2025 06:22:20.691] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [28Jul2025 06:22:26.100] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.4338264465332) to NORMAL (avg. 40.48661422729492)
 [28Jul2025 06:22:33.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.48661422729492) to MEDIUM (avg. 47.1198844909668)
+[28Jul2025 06:22:42.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.1198844909668) to HIGH (avg. 49.114585876464844)
+[28Jul2025 06:22:48.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Jul2025 06:22:50.636] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.114585876464844) to VERY_HIGH (avg. 62.67462158203125)
+[28Jul2025 06:22:52.403] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 33.94360521) to NORMAL (avg. 35.79939486)
+[28Jul2025 06:23:06.955] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.67462158203125) to MEDIUM (avg. 47.318931579589844)
+[28Jul2025 06:23:20.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.318931579589844) to NORMAL (avg. 44.7696533203125)
+[28Jul2025 06:23:27.368] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:23:27.423] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:23:27.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:23:27.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:23:28.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.7696533203125) to MEDIUM (avg. 47.3374137878418)
+[28Jul2025 06:23:43.145] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.3374137878418) to NORMAL (avg. 45.94526290893555)
+[28Jul2025 06:23:48.072] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jul2025 06:23:57.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.94526290893555) to LOW (avg. 31.901771545410156)
+[28Jul2025 06:25:50.497] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.10205078125) to MEDIUM (avg. 46.22810363769531)
+[28Jul2025 06:26:13.077] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.86775588989258) to HIGH (avg. 50.27405548095703)
+[28Jul2025 06:26:27.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.27405548095703) to NORMAL (avg. 43.39008331298828)
+[28Jul2025 06:26:57.997] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.176429748535156) to LOW (avg. 30.53333282470703)
+[28Jul2025 06:28:27.347] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:28:27.395] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:28:27.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:28:27.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:31:24.270] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[28Jul2025 06:32:26.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b782ecff-a4a5-45c6-8be6-c8cb891fcea2]
