@@ -13653,3 +13653,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [28Jul2025 05:48:19.356] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [28Jul2025 05:48:19.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 05:48:19.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 05:52:38.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:52:58.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:53:19.289] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 05:53:19.343] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 05:53:19.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 05:53:19.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 05:54:03.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:54:30.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_punch 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:55:14.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:55:28.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:55:29.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:56:29.274] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:56:36.333] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:56:45.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:56:47.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:56:50.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:57:14.920] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:57:22.396] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [be741ae8-a33c-47fa-b5c0-e2d258ffc119]
+[28Jul2025 05:57:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [The Thing of Ancient Civilization]
+[28Jul2025 05:58:07.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=564, y=-28, z=-1763} BlockPos{x=564, y=-29, z=-1762}
+[28Jul2025 05:58:19.287] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 05:58:19.339] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 05:58:19.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 05:58:19.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

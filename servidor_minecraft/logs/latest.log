@@ -2072,3 +2072,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [28Jul2025 05:34:50.768] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [28Jul2025 05:34:50.768] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [28Jul2025 05:38:53.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/294167, l='ServerLevel[world]', x=544.47, y=-25.00, z=-1720.43]
+[28Jul2025 05:57:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [The Thing of Ancient Civilization]
+[28Jul2025 05:58:07.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=564, y=-28, z=-1763} BlockPos{x=564, y=-29, z=-1762}

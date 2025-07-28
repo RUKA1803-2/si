@@ -13186,7 +13186,8 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
-      "cataclysm:ender_guardian": "2025-07-27 05:10:33 +0000"
+      "cataclysm:ender_guardian": "2025-07-27 05:10:33 +0000",
+      "cataclysm:the_harbinger": "2025-07-28 05:57:56 +0000"
     },
     "done": false
   },
@@ -13721,6 +13722,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:25:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-28 05:57:56 +0000"
     },
     "done": true
   },
