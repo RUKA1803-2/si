@@ -14784,6 +14784,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-07-28 00:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_stripped_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:39 +0000"
@@ -14817,6 +14823,12 @@
   "create:frogport": {
     "criteria": {
       "0": "2025-07-27 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-07-28 00:35:27 +0000"
     },
     "done": true
   },

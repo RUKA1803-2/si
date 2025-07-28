@@ -9905,6 +9905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
@@ -10001,6 +10007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
@@ -10025,6 +10037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-27 23:02:47 +0000"
@@ -10040,6 +10058,12 @@
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
     },
     "done": true
   },
@@ -10064,6 +10088,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_tuff_slab": "2025-07-28 00:38:50 +0000"
     },
     "done": true
   },
@@ -10121,6 +10151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2025-07-27 22:48:12 +0000"
@@ -10139,6 +10175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-27 23:15:10 +0000"
@@ -10148,6 +10190,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-07-27 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
     },
     "done": true
   },
@@ -10211,6 +10259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-07-27 23:59:35 +0000"
@@ -10271,9 +10325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/factory_gauge": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
     },
     "done": true
   },
@@ -10328,6 +10394,12 @@
   "inventorypets:mooshroom": {
     "criteria": {
       "crafting_table": "2025-07-27 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 00:38:17 +0000"
     },
     "done": true
   },

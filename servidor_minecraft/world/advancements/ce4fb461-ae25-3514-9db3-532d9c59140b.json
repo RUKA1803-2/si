@@ -13459,15 +13459,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tile_stairs": {
+    "criteria": {
+      "has_copper_tiles": "2025-07-28 00:34:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2025-07-27 21:35:07 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tile_slab_from_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_copper_tiles": "2025-07-28 00:34:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-07-27 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_slab": {
+    "criteria": {
+      "has_copper_tiles": "2025-07-28 00:34:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_tiles_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-28 00:34:59 +0000"
     },
     "done": true
   },
@@ -13516,6 +13540,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-27 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_stairs_from_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_copper_tiles": "2025-07-28 00:34:59 +0000"
     },
     "done": true
   },
