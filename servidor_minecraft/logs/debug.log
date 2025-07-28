@@ -18262,3 +18262,70 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Jul2025 23:51:26.314] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "inventorypets:nugget_emerald" - querying recipes to get these
 [27Jul2025 23:51:40.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
 [27Jul2025 23:51:58.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[27Jul2025 23:52:15.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[27Jul2025 23:52:25.273] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.02744674682617) to HIGH (avg. 50.14624786376953)
+[27Jul2025 23:52:40.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:52:41.604] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.14624786376953) to VERY_HIGH (avg. 55.516807556152344)
+[27Jul2025 23:52:57.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[27Jul2025 23:53:16.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 23:53:37.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:53:55.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:54:12.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[27Jul2025 23:54:31.188] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.74659729003906) to HIGH (avg. 51.938358306884766)
+[27Jul2025 23:54:31.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Jul2025 23:54:38.711] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[27Jul2025 23:54:38.761] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[27Jul2025 23:54:38.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:54:38.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:54:48.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[27Jul2025 23:54:56.605] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.79193878173828) to VERY_HIGH (avg. 55.29370880126953)
+[27Jul2025 23:55:06.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Jul2025 23:55:24.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 23:55:27.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> acepte
+[27Jul2025 23:55:28.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> acepte
+[27Jul2025 23:55:46.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 23:55:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> flores
+[27Jul2025 23:55:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> acepte
+[27Jul2025 23:56:03.412] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.01605224609375) to HIGH (avg. 54.377716064453125)
+[27Jul2025 23:56:04.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fisherman'/5645715, l='ServerLevel[world]', x=1126.41, y=67.00, z=-176.30] died, message: 'Fisherman was killed by magic'
+[27Jul2025 23:56:06.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Jul2025 23:56:21.263] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.377716064453125) to VERY_HIGH (avg. 63.664222717285156)
+[27Jul2025 23:56:24.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[27Jul2025 23:56:43.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[27Jul2025 23:56:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> FLORES
+[27Jul2025 23:56:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> ya tengo la brocha
+[27Jul2025 23:57:01.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[27Jul2025 23:57:18.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[27Jul2025 23:57:24.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.7913703918457) to HIGH (avg. 52.5462532043457)
+[27Jul2025 23:57:32.980] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.5462532043457) to VERY_HIGH (avg. 57.983116149902344)
+[27Jul2025 23:57:36.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[27Jul2025 23:57:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has completed the challenge [Premium!]
+[27Jul2025 23:57:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Tools of the Trade]
+[27Jul2025 23:57:53.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[27Jul2025 23:58:11.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[27Jul2025 23:58:28.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[27Jul2025 23:58:37.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound moved too quickly! 16.087271682584515,2.5,12.178631114540082
+[27Jul2025 23:58:46.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[27Jul2025 23:59:03.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27Jul2025 23:59:08.762] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.92448425292969) to HIGH (avg. 54.438873291015625)
+[27Jul2025 23:59:17.577] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.438873291015625) to VERY_HIGH (avg. 62.01884841918945)
+[27Jul2025 23:59:20.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2464ms or 49 ticks behind
+[27Jul2025 23:59:33.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Magical Energy]
+[27Jul2025 23:59:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Eterna, Quanta, Arcana]
+[27Jul2025 23:59:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Rolling the Dice]
+[27Jul2025 23:59:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Introduction to Chaos]
+[27Jul2025 23:59:38.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[27Jul2025 23:59:56.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[28Jul2025 00:00:01.621] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.851707458496094) to HIGH (avg. 54.747955322265625)
+[28Jul2025 00:00:10.595] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.747955322265625) to VERY_HIGH (avg. 58.14961624145508)
+[28Jul2025 00:00:13.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[28Jul2025 00:00:27.387] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 00:00:27.443] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 00:00:27.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:00:27.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:00:31.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[28Jul2025 00:00:49.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[28Jul2025 00:01:02.881] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.02068328857422) to NORMAL (avg. 44.96759033203125)
+[28Jul2025 00:01:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Mastering Hell and Sea]
+[28Jul2025 00:01:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Enchantments from the Depths]
+[28Jul2025 00:01:24.295] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.96500015258789) to MEDIUM (avg. 48.27434158325195)

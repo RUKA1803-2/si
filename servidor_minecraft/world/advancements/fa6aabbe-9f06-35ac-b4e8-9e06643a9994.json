@@ -9911,6 +9911,12 @@
     },
     "done": true
   },
+  "etched:recipes/misc/album_cover": {
+    "criteria": {
+      "has_paper": "2025-07-27 23:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-27 23:32:35 +0000"
@@ -9920,6 +9926,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-07-27 23:51:30 +0000"
     },
     "done": true
   },
@@ -10055,6 +10067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-07-27 23:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-27 23:07:45 +0000"
@@ -10097,6 +10115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-27 23:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2025-07-27 22:48:12 +0000"
@@ -10118,6 +10142,24 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-27 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-27 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-27 23:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-27 23:59:35 +0000"
     },
     "done": true
   },
@@ -10151,6 +10193,24 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-07-27 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-27 23:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-07-27 23:51:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-07-27 23:02:47 +0000"
@@ -10178,6 +10238,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-27 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-27 23:59:35 +0000"
     },
     "done": true
   },
@@ -10235,6 +10301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-27 23:59:35 +0000"
+    },
+    "done": true
+  },
   "inventorypets:mooshroom": {
     "criteria": {
       "crafting_table": "2025-07-27 22:21:02 +0000"
@@ -10244,6 +10316,18 @@
   "create:recipes/misc/crafting/logistics/stock_link_clear": {
     "criteria": {
       "has_item": "2025-07-27 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-07-27 23:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-07-27 23:51:30 +0000"
     },
     "done": true
   },

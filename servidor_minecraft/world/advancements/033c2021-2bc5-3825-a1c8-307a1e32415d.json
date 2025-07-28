@@ -14723,6 +14723,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-07-27 23:59:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-27 23:16:41 +0000"
@@ -14861,9 +14867,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-07-27 23:59:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-27 23:51:48 +0000"
     },
     "done": true
   },
@@ -14894,6 +14912,12 @@
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-07-27 23:59:33 +0000"
     },
     "done": true
   },
@@ -14978,6 +15002,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-07-27 23:59:33 +0000"
     },
     "done": true
   },
