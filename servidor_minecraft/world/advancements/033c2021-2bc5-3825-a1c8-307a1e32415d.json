@@ -14628,6 +14628,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/red_table_cloth_clear": {
     "criteria": {
       "has_red_table_cloth": "2025-07-28 00:55:40 +0000"
@@ -14649,6 +14655,12 @@
   "create:recipes/misc/crafting/logistics/stock_ticker_clear": {
     "criteria": {
       "has_item": "2025-07-27 23:02:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2025-07-28 01:10:54 +0000"
     },
     "done": true
   },
@@ -14679,6 +14691,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-27 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
     },
     "done": true
   },
@@ -14784,6 +14802,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "inventorypets:banana": {
     "criteria": {
       "crafting_table": "2025-07-27 23:20:41 +0000"
@@ -14799,6 +14823,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2025-07-27 23:14:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
     },
     "done": true
   },
@@ -14862,6 +14892,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 01:04:52 +0000"
@@ -14892,6 +14928,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:55 +0000"
+    },
+    "done": true
+  },
   "create:stock_ticker": {
     "criteria": {
       "0": "2025-07-27 23:21:16 +0000"
@@ -14904,9 +14946,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
     "criteria": {
       "has_item": "2025-07-28 01:06:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:55 +0000"
     },
     "done": true
   },
@@ -14952,6 +15006,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/sea_serpent_scale_block_red_to_sea_serpent_scales_red": {
+    "criteria": {
+      "has_sea_serpent_scale_block_red": "2025-07-28 01:10:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/upgrade_endshelf": {
     "criteria": {
       "draconic": "2025-07-28 00:49:28 +0000"
@@ -14985,6 +15045,12 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-07-28 01:10:55 +0000"
     },
     "done": true
   },
@@ -15042,6 +15108,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
@@ -15066,9 +15138,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:55 +0000"
     },
     "done": true
   },
@@ -15210,6 +15294,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/mossy_bricks": {
     "criteria": {
       "has_copper_block": "2025-07-28 00:04:14 +0000"
@@ -15252,6 +15342,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall": {
     "criteria": {
       "has_small_calcite_bricks": "2025-07-27 23:34:42 +0000"
@@ -15270,6 +15366,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-07-27 22:27:08 +0000"
@@ -15279,6 +15381,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-27 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 01:10:54 +0000"
     },
     "done": true
   },

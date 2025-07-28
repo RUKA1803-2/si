@@ -283,3 +283,47 @@
 [28Jul2025 01:12:26.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.193359375) to NORMAL (avg. 41.31916809082031)
 [28Jul2025 01:12:48.999] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 29 secs.
 [28Jul2025 01:12:48.999] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[28Jul2025 01:13:56.687] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.83673095703125) to VERY_HIGH (avg. 58.16351318359375)
+[28Jul2025 01:14:01.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[28Jul2025 01:14:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[28Jul2025 01:14:11.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.16351318359375) to LOW (avg. 36.74018859863281)
+[28Jul2025 01:14:53.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:57097] logged in with entity id 8511313 at (1125.300000011921, 51.0, -227.30000001192093)
+[28Jul2025 01:14:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[28Jul2025 01:14:53.576] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/8511313, l='ServerLevel[world]', x=1125.30, y=51.00, z=-227.30] logged in and will be protected for 90 secs.
+[28Jul2025 01:14:56.543] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.506473541259766) to NORMAL (avg. 45.2373046875)
+[28Jul2025 01:15:24.791] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 31 secs.
+[28Jul2025 01:15:24.791] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[28Jul2025 01:15:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.761962890625) to MEDIUM (avg. 46.33168029785156)
+[28Jul2025 01:16:04.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.33168029785156) to NORMAL (avg. 44.01607131958008)
+[28Jul2025 01:16:04.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[28Jul2025 01:16:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[28Jul2025 01:16:19.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.01607131958008) to LOW (avg. 32.04145812988281)
+[28Jul2025 01:16:24.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:52492] logged in with entity id 8560297 at (1125.300000011921, 51.0, -227.30000001192093)
+[28Jul2025 01:16:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[28Jul2025 01:16:24.503] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/8560297, l='ServerLevel[world]', x=1125.30, y=51.00, z=-227.30] logged in and will be protected for 90 secs.
+[28Jul2025 01:16:26.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Disconnected
+[28Jul2025 01:16:26.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[28Jul2025 01:17:44.191] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 79 secs.
+[28Jul2025 01:17:44.191] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[28Jul2025 01:19:56.542] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.704444885253906) to NORMAL (avg. 42.83625793457031)
+[28Jul2025 01:20:19.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.31722640991211) to LOW (avg. 39.100093841552734)
+[28Jul2025 01:20:41.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.25185775756836) to NORMAL (avg. 40.55704116821289)
+[28Jul2025 01:20:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.55704116821289) to LOW (avg. 39.872867584228516)
+[28Jul2025 01:20:57.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:65146] logged in with entity id 8705803 at (1127.5, 51.0, -213.5)
+[28Jul2025 01:20:57.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[28Jul2025 01:20:57.746] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/8705803, l='ServerLevel[world]', x=1127.50, y=51.00, z=-213.50] logged in and will be protected for 90 secs.
+[28Jul2025 01:21:04.043] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.872867584228516) to MEDIUM (avg. 46.97478485107422)
+[28Jul2025 01:21:11.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.97478485107422) to NORMAL (avg. 44.37060546875)
+[28Jul2025 01:21:19.054] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.37060546875) to HIGH (avg. 49.51852798461914)
+[28Jul2025 01:21:26.545] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.51852798461914) to MEDIUM (avg. 46.155113220214844)
+[28Jul2025 01:21:33.791] [Server thread/INFO] [APTweaks(Player)/]: Protected Player verganuel was successful validated after 36 secs.
+[28Jul2025 01:21:33.791] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[28Jul2025 01:21:41.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.155113220214844) to NORMAL (avg. 45.30177688598633)
+[28Jul2025 01:22:11.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.865989685058594) to LOW (avg. 39.95203399658203)
+[28Jul2025 01:22:26.557] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.95203399658203) to HIGH (avg. 49.902889251708984)
+[28Jul2025 01:22:34.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.902889251708984) to MEDIUM (avg. 48.38554000854492)
+[28Jul2025 01:22:49.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.38554000854492) to NORMAL (avg. 42.05675506591797)
+[28Jul2025 01:23:19.088] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.02016830444336) to MEDIUM (avg. 47.53936767578125)
+[28Jul2025 01:23:26.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.53936767578125) to NORMAL (avg. 44.14136505126953)
+[28Jul2025 01:23:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has been sent to the void whilst trying to fight Pancho
+[28Jul2025 01:23:49.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.785736083984375) to MEDIUM (avg. 47.404335021972656)
