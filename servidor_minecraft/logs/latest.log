@@ -327,3 +327,42 @@
 [28Jul2025 01:23:26.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.53936767578125) to NORMAL (avg. 44.14136505126953)
 [28Jul2025 01:23:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has been sent to the void whilst trying to fight Pancho
 [28Jul2025 01:23:49.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.785736083984375) to MEDIUM (avg. 47.404335021972656)
+[28Jul2025 01:24:19.270] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.99273681640625) to NORMAL (avg. 45.55496597290039)
+[28Jul2025 01:24:49.042] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.632232666015625) to MEDIUM (avg. 47.16231155395508)
+[28Jul2025 01:24:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.16231155395508) to NORMAL (avg. 45.61540985107422)
+[28Jul2025 01:25:04.043] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.61540985107422) to MEDIUM (avg. 47.77674865722656)
+[28Jul2025 01:25:26.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.4099006652832) to NORMAL (avg. 44.31228256225586)
+[28Jul2025 01:26:49.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.9875602722168) to MEDIUM (avg. 46.85888671875)
+[28Jul2025 01:26:56.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 7.709859946145571,0.0,-7.075634691061595
+[28Jul2025 01:27:19.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.5138053894043) to NORMAL (avg. 45.07215881347656)
+[28Jul2025 01:27:34.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.07215881347656) to MEDIUM (avg. 47.01847839355469)
+[28Jul2025 01:27:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.15506362915039) to NORMAL (avg. 45.630069732666016)
+[28Jul2025 01:28:04.051] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.630069732666016) to MEDIUM (avg. 48.3522834777832)
+[28Jul2025 01:28:19.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.3522834777832) to NORMAL (avg. 45.1558723449707)
+[28Jul2025 01:28:34.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.1558723449707) to MEDIUM (avg. 46.55535888671875)
+[28Jul2025 01:28:49.138] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.72624588012695) to HIGH (avg. 51.94822311401367)
+[28Jul2025 01:29:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Arcane Power]
+[28Jul2025 01:30:12.251] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.5363883972168) to NORMAL (avg. 44.07508850097656)
+[28Jul2025 01:30:26.707] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.07508850097656) to HIGH (avg. 53.36820983886719)
+[28Jul2025 01:30:28.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[28Jul2025 01:30:28.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[28Jul2025 01:30:41.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.36820983886719) to LOW (avg. 39.839019775390625)
+[28Jul2025 01:30:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Yeah, B****! Magnets!]
+[28Jul2025 01:30:56.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.839019775390625) to NORMAL (avg. 42.55778503417969)
+[28Jul2025 01:31:03.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:56196] logged in with entity id 9062126 at (1134.699999988079, 51.0, -206.7093695532636)
+[28Jul2025 01:31:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[28Jul2025 01:31:03.838] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/9062126, l='ServerLevel[world]', x=1134.70, y=51.00, z=-206.71] logged in and will be protected for 90 secs.
+[28Jul2025 01:31:04.178] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.55778503417969) to VERY_HIGH (avg. 58.708290100097656)
+[28Jul2025 01:31:11.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.708290100097656) to MEDIUM (avg. 48.8475456237793)
+[28Jul2025 01:31:32.487] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 28 secs.
+[28Jul2025 01:31:32.488] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[28Jul2025 01:31:34.167] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.62471008300781) to HIGH (avg. 50.85263442993164)
+[28Jul2025 01:31:41.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.85263442993164) to MEDIUM (avg. 48.437278747558594)
+[28Jul2025 01:31:56.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.437278747558594) to HIGH (avg. 49.47930908203125)
+[28Jul2025 01:32:04.048] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.47930908203125) to MEDIUM (avg. 48.998844146728516)
+[28Jul2025 01:32:19.281] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.998844146728516) to HIGH (avg. 53.847007751464844)
+[28Jul2025 01:33:12.458] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.817901611328125) to MEDIUM (avg. 48.34217834472656)
+[28Jul2025 01:33:20.252] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.34217834472656) to HIGH (avg. 53.05223846435547)
+[28Jul2025 01:33:35.446] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.05223846435547) to MEDIUM (avg. 48.900611877441406)
+[28Jul2025 01:33:50.637] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.900611877441406) to HIGH (avg. 52.17283630371094)
+[28Jul2025 01:33:59.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
