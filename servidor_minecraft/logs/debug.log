@@ -13759,3 +13759,449 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [28Jul2025 06:28:27.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jul2025 06:31:24.270] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
 [28Jul2025 06:32:26.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b782ecff-a4a5-45c6-8be6-c8cb891fcea2]
+[28Jul2025 06:33:27.334] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:33:27.382] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:33:27.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:33:27.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:33:46.358] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=688, y=17, z=-1005}
+[28Jul2025 06:34:28.003] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.49549674987793) to NORMAL (avg. 40.62489700317383)
+[28Jul2025 06:34:29.247] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 31.51086634) to NORMAL (avg. 36.14686478)
+[28Jul2025 06:34:35.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.62489700317383) to LOW (avg. 25.474971771240234)
+[28Jul2025 06:38:27.333] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:38:27.384] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:38:27.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:38:27.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:39:12.997] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.25237274169922) to VERY_LOW (avg. 19.85225486755371)
+[28Jul2025 06:39:27.997] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.85225486755371) to LOW (avg. 23.983383178710938)
+[28Jul2025 06:41:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Jerry the Undying]
+[28Jul2025 06:41:52.268] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:52.270] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:52.270] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:52.270] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:58.224] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:58.225] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:58.225] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:58.225] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:41:58.298] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:10.848] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
+[28Jul2025 06:42:10.848] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}
+[28Jul2025 06:42:55.969] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:55.969] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.427] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.428] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.428] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.428] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.429] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:56.432] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[28Jul2025 06:42:56.432] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[28Jul2025 06:42:59.488] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:59.488] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:59.886] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:42:59.886] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:43:26.815] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=278, y=13, z=-1904}
+[28Jul2025 06:43:26.819] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=278, y=13, z=-1906}
+[28Jul2025 06:43:26.820] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=278, y=13, z=-1905}
+[28Jul2025 06:43:27.377] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:43:27.428] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:43:27.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:43:27.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:43:28.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[28Jul2025 06:44:25.710] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:25.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:25.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:25.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:33.329] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:33.330] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:33.330] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:33.330] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:44:33.331] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:45:08.110] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[28Jul2025 06:45:09.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[28Jul2025 06:45:09.739] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[28Jul2025 06:45:10.316] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[28Jul2025 06:45:10.317] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[28Jul2025 06:45:10.317] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[28Jul2025 06:45:10.317] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[28Jul2025 06:46:13.885] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.885] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.886] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.886] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.886] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.897] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:13.897] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:16.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:16.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:16.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:16.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.070] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.071] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.072] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.073] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.083] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.083] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.084] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.084] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:21.085] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:31.312] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:31.330] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:31.331] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:33.751] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[28Jul2025 06:46:34.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.011] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.011] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.011] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:34.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:35.491] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.028] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.028] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.028] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.081] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.081] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.082] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:39.082] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:46:42.736] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[28Jul2025 06:47:06.440] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.441] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.441] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.442] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.449] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.449] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.450] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.450] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:06.452] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:20.018] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:20.018] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.590] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.590] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.591] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.591] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.591] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.604] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.604] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:31.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.796] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.797] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.797] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.798] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.889] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.890] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.899] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:35.900] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:47:49.707] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1066, y=-15, z=-3040}
+[28Jul2025 06:47:49.708] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3040}
+[28Jul2025 06:47:49.715] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1066, y=-15, z=-3040}
+[28Jul2025 06:47:49.715] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3051}
+[28Jul2025 06:47:49.716] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3040}
+[28Jul2025 06:47:50.378] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1066, y=-15, z=-3058}
+[28Jul2025 06:47:50.378] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3066}
+[28Jul2025 06:47:50.379] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1066, y=-15, z=-3040}
+[28Jul2025 06:47:50.650] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3047}
+[28Jul2025 06:47:50.651] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3040}
+[28Jul2025 06:47:50.660] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3047}
+[28Jul2025 06:47:50.660] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1088, y=-15, z=-3035}
+[28Jul2025 06:47:50.661] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3040}
+[28Jul2025 06:47:50.782] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1088, y=-15, z=-3021}
+[28Jul2025 06:47:50.790] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1088, y=-15, z=-3007}
+[28Jul2025 06:47:51.018] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3073}
+[28Jul2025 06:47:51.019] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3066}
+[28Jul2025 06:47:51.588] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3089}
+[28Jul2025 06:47:51.726] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-15, z=-3093}
+[28Jul2025 06:47:51.726] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3076}
+[28Jul2025 06:47:51.726] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3089}
+[28Jul2025 06:47:51.727] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1066, y=-15, z=-3058}
+[28Jul2025 06:47:51.728] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3066}
+[28Jul2025 06:47:51.733] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3084}
+[28Jul2025 06:47:51.733] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3073}
+[28Jul2025 06:47:51.733] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3076}
+[28Jul2025 06:47:51.733] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1071, y=-15, z=-3066}
+[28Jul2025 06:47:52.777] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1089, y=-15, z=-3008}
+[28Jul2025 06:47:52.778] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1088, y=-15, z=-3007}
+[28Jul2025 06:47:52.898] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1097, y=-15, z=-3037}
+[28Jul2025 06:47:52.898] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1089, y=-15, z=-3008}
+[28Jul2025 06:47:52.899] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1098, y=-15, z=-3010}
+[28Jul2025 06:47:52.905] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1095, y=-15, z=-3055}
+[28Jul2025 06:47:52.906] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1097, y=-15, z=-3037}
+[28Jul2025 06:47:52.906] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1096, y=-15, z=-3039}
+[28Jul2025 06:47:52.906] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3047}
+[28Jul2025 06:47:52.907] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1098, y=-15, z=-3025}
+[28Jul2025 06:47:52.939] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1091, y=-15, z=-3056}
+[28Jul2025 06:47:52.940] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1095, y=-15, z=-3055}
+[28Jul2025 06:47:52.940] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1096, y=-15, z=-3039}
+[28Jul2025 06:47:52.940] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3047}
+[28Jul2025 06:47:52.974] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1091, y=-15, z=-3056}
+[28Jul2025 06:47:52.974] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1096, y=-15, z=-3064}
+[28Jul2025 06:47:52.975] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3073}
+[28Jul2025 06:47:53.095] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:53.098] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1095, y=-15, z=-3091}
+[28Jul2025 06:47:53.099] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3084}
+[28Jul2025 06:47:53.099] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1091, y=-15, z=-3056}
+[28Jul2025 06:47:53.099] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1096, y=-15, z=-3073}
+[28Jul2025 06:47:53.100] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=-15, z=-3073}
+[28Jul2025 06:47:53.481] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3089}
+[28Jul2025 06:47:53.635] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3104}
+[28Jul2025 06:47:53.635] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3099}
+[28Jul2025 06:47:53.635] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1070, y=-15, z=-3093}
+[28Jul2025 06:47:53.636] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3089}
+[28Jul2025 06:47:53.702] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:53.705] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1103, y=-15, z=-3092}
+[28Jul2025 06:47:53.705] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1095, y=-15, z=-3091}
+[28Jul2025 06:47:53.711] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1103, y=-15, z=-3092}
+[28Jul2025 06:47:53.711] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3104}
+[28Jul2025 06:47:53.712] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1065, y=-15, z=-3099}
+[28Jul2025 06:47:53.901] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:53.905] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1112, y=-15, z=-3087}
+[28Jul2025 06:47:53.906] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1106, y=-15, z=-3074}
+[28Jul2025 06:47:53.906] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1105, y=-15, z=-3084}
+[28Jul2025 06:47:54.006] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1112, y=-15, z=-3087}
+[28Jul2025 06:47:54.234] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:54.244] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1098, y=-15, z=-3010}
+[28Jul2025 06:47:54.962] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1076, y=-15, z=-3105}
+[28Jul2025 06:47:54.968] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1103, y=-15, z=-3092}
+[28Jul2025 06:47:54.968] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1076, y=-15, z=-3105}
+[28Jul2025 06:47:55.072] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:55.074] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1103, y=-15, z=-3092}
+[28Jul2025 06:47:55.128] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:55.131] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1118, y=-2, z=-3117}
+[28Jul2025 06:47:55.131] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1132, y=-15, z=-3117}
+[28Jul2025 06:47:55.388] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:55.392] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1132, y=-15, z=-3117}
+[28Jul2025 06:47:55.392] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1127, y=-2, z=-3124}
+[28Jul2025 06:47:55.403] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:55.585] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1112, y=-15, z=-3087}
+[28Jul2025 06:47:55.590] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:55.593] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1112, y=-15, z=-3087}
+[28Jul2025 06:47:55.594] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1133, y=-15, z=-3079}
+[28Jul2025 06:47:56.705] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1118, y=-2, z=-3117}
+[28Jul2025 06:47:56.706] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1132, y=-15, z=-3117}
+[28Jul2025 06:47:56.706] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1136, y=-2, z=-3125}
+[28Jul2025 06:47:56.771] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1132, y=-15, z=-3117}
+[28Jul2025 06:47:56.771] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1136, y=-2, z=-3125}
+[28Jul2025 06:47:56.772] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1133, y=-15, z=-3129}
+[28Jul2025 06:47:56.772] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-2, z=-3130}
+[28Jul2025 06:47:56.773] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1127, y=-2, z=-3124}
+[28Jul2025 06:47:56.975] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:56.983] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=-29, z=-3124}
+[28Jul2025 06:47:56.992] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:57.231] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-15, z=-3074}
+[28Jul2025 06:47:57.238] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:57.241] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1133, y=-15, z=-3079}
+[28Jul2025 06:47:57.242] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1150, y=-15, z=-3080}
+[28Jul2025 06:47:57.242] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1168, y=-15, z=-3075}
+[28Jul2025 06:47:57.242] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-15, z=-3074}
+[28Jul2025 06:47:57.242] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1152, y=-15, z=-3086}
+[28Jul2025 06:47:57.414] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1133, y=-15, z=-3129}
+[28Jul2025 06:47:57.414] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-2, z=-3130}
+[28Jul2025 06:47:57.415] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=-29, z=-3124}
+[28Jul2025 06:47:57.416] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1150, y=-15, z=-3130}
+[28Jul2025 06:47:57.416] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1151, y=-15, z=-3131}
+[28Jul2025 06:47:58.371] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-2, z=-3130}
+[28Jul2025 06:47:58.377] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1139, y=-2, z=-3130}
+[28Jul2025 06:47:58.378] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1150, y=-15, z=-3130}
+[28Jul2025 06:47:58.740] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:58.744] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1168, y=-15, z=-3075}
+[28Jul2025 06:47:58.744] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1169, y=-15, z=-3080}
+[28Jul2025 06:47:58.745] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1159, y=-15, z=-3074}
+[28Jul2025 06:47:58.877] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1159, y=-15, z=-3074}
+[28Jul2025 06:47:59.057] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:59.373] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1163, y=-15, z=-3132}
+[28Jul2025 06:47:59.380] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1151, y=-15, z=-3131}
+[28Jul2025 06:47:59.380] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1153, y=-15, z=-3122}
+[28Jul2025 06:47:59.381] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1172, y=-15, z=-3130}
+[28Jul2025 06:47:59.381] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1163, y=-15, z=-3132}
+[28Jul2025 06:47:59.386] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=-15, z=-3088}
+[28Jul2025 06:47:59.391] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1153, y=-15, z=-3122}
+[28Jul2025 06:47:59.391] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1172, y=-15, z=-3130}
+[28Jul2025 06:48:01.228] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1175, y=-15, z=-3104}
+[28Jul2025 06:48:01.340] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1169, y=-15, z=-3080}
+[28Jul2025 06:48:01.340] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1175, y=-15, z=-3104}
+[28Jul2025 06:48:01.410] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1172, y=-15, z=-3130}
+[28Jul2025 06:48:01.411] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1173, y=-15, z=-3113}
+[28Jul2025 06:48:01.412] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1173, y=-15, z=-3116}
+[28Jul2025 06:48:01.412] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1185, y=-15, z=-3114}
+[28Jul2025 06:48:01.579] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1172, y=-15, z=-3130}
+[28Jul2025 06:48:01.579] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1173, y=-15, z=-3116}
+[28Jul2025 06:48:03.819] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1173, y=-15, z=-3113}
+[28Jul2025 06:48:03.820] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1205, y=-15, z=-3107}
+[28Jul2025 06:48:03.820] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1185, y=-15, z=-3114}
+[28Jul2025 06:48:03.820] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1205, y=-15, z=-3112}
+[28Jul2025 06:48:03.820] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1195, y=-15, z=-3106}
+[28Jul2025 06:48:03.828] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1175, y=-15, z=-3104}
+[28Jul2025 06:48:03.828] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1195, y=-15, z=-3106}
+[28Jul2025 06:48:03.947] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1175, y=-15, z=-3104}
+[28Jul2025 06:48:05.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1205, y=-15, z=-3107}
+[28Jul2025 06:48:05.605] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1205, y=-15, z=-3112}
+[28Jul2025 06:48:05.605] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1195, y=-15, z=-3106}
+[28Jul2025 06:48:05.616] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1195, y=-15, z=-3106}
+[28Jul2025 06:48:27.373] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:48:27.434] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:48:27.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:48:27.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:48:28.264] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:28.264] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:28.264] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:28.264] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:32.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:32.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:32.308] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:32.308] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:32.308] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:43.247] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.23 and blood value 0 for entity crittersandcompanions:red_panda
+[28Jul2025 06:48:53.340] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.340] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.341] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.341] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.341] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.662] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.662] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.663] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:48:53.663] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:00.341] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.489] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.490] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.490] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.490] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.547] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.548] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.548] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:01.549] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:06.352] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:06.352] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:06.353] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:06.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.389] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.390] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.390] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.390] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.504] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.504] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:07.505] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:22.872] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:22.872] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:22.873] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:22.873] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:25.430] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:25.430] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:25.431] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:25.431] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:25.443] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:42.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[28Jul2025 06:49:42.627] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[28Jul2025 06:49:42.627] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[28Jul2025 06:49:43.032] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.032] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.033] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.033] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.038] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.039] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.039] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.039] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:43.039] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:52.734] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jul2025 06:49:52.734] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jul2025 06:49:56.446] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:56.446] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:56.447] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:56.447] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:56.447] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:57.821] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:57.822] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:57.882] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:49:57.882] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:00.509] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:00.509] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:00.510] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:00.510] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.747] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.748] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.748] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.748] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.748] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.756] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:01.756] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.875] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.875] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.875] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.971] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.972] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:09.972] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:13.941] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:13.941] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:13.941] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:13.941] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:14.531] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:41.270] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:41.271] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:41.271] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:41.271] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:58.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:58.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:58.635] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:58.635] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:58.635] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.258] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.258] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.258] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.855] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.855] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.856] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:50:59.856] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:00.127] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:00.128] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:00.128] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:00.657] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:03.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! -9.856109352934254,1.8392736032563022,-0.4472972998728437
+[28Jul2025 06:51:05.773] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:05.774] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:05.774] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:05.774] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:51:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Tie me to the Mast]
+[28Jul2025 06:52:28.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.98854064941406) to NORMAL (avg. 41.09902572631836)
+[28Jul2025 06:52:36.809] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:36.810] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:36.810] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:36.810] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:36.810] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:36.820] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.08457149) to MEDIUM (avg. 43.45720222)
+[28Jul2025 06:52:39.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Sunken in the Sea]
+[28Jul2025 06:52:40.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.483] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.484] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.484] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.484] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:40.484] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:42.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:42.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:42.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:42.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:52:50.551] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.31260681152344) to MEDIUM (avg. 47.787445068359375)
+[28Jul2025 06:52:53.858] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[28Jul2025 06:53:05.498] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.787445068359375) to NORMAL (avg. 43.77325439453125)
+[28Jul2025 06:53:10.494] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.495] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.495] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.495] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.530] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.531] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.531] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:10.531] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:11.050] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Jul2025 06:53:20.497] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.77325439453125) to LOW (avg. 35.614200592041016)
+[28Jul2025 06:53:27.345] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Jul2025 06:53:27.399] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Jul2025 06:53:27.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:53:27.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
