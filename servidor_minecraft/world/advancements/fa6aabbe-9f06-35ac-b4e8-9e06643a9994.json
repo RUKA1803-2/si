@@ -10199,6 +10199,12 @@
     },
     "done": true
   },
+  "inventorypets:slime": {
+    "criteria": {
+      "crafting_table": "2025-07-28 00:26:54 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-07-27 23:57:44 +0000"
