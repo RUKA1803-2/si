@@ -9887,12 +9887,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-28 00:10:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-27 23:15:10 +0000"
@@ -10193,6 +10187,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ancient_remnant": "2025-07-28 00:13:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-27 22:55:42 +0000"
@@ -10274,6 +10274,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-07-27 22:05:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-28 00:13:47 +0000"
     },
     "done": true
   },
