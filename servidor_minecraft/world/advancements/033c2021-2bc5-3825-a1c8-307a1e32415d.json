@@ -14628,6 +14628,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/red_table_cloth_clear": {
+    "criteria": {
+      "has_red_table_cloth": "2025-07-28 00:55:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-07-27 23:01:49 +0000"
